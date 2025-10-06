@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Herzman-FourRomances-Export-12-Athelston-Intro-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Introduction to Athelston</title>
+        <author>Herzman, Ronald B.</author>
+        <author>Drake, Graham</author>
+        <author>Salisbury, Eve</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Amster, Mara I.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Church, Jennifer</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-09" to="2025-10">Audited documents prior to print/export</resp>
+          <resp from="2025-09" to="2025-09">Collected metadata</resp>
+          <resp from="2025-02" to="2025-04">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-10">Encoded TEI</resp>
+          <resp from="2025-08" to="2025-09">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-09">Entered corrections for digital edition</resp>
+          <resp from="2025-02" to="2025-09">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-10">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-12" to="2023-12">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Collated and entered corrections</resp>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Prepared edition for publication</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mara I. Amster</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Melissa Bernstein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jennifer Church</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Angela Gibson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ian Peddie</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ann Robinson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John William Sutton</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Dana M. Symons</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Herzman, Ronald B.</editor>
+            <editor>Drake, Graham</editor>
+            <editor>Salisbury, Eve</editor>
+            <title>Four Romances of England: King Horn, Havelok the Dane, Bevis of Hampton,
+              Athelston</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/herzman-fourromances/blob/main/herzman-fourromances-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1999</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Herzman-FourRomances-Export-12-Athelston-Intro"/>
+      <div type="text">
+        <p style="bodyfirst" n="1">It would seem that <hi rend="italic">Athelston</hi>, a relatively
+          brief romance of 812 lines dating from the late fourteenth century, should pose few
+          problems for the modern editor, existing as it does without any known direct source and
+          surviving in only one manuscript. But that is not the case. Rather, this short romance
+          perhaps even more than the longer romances presented in this volume raises a number of
+          questions about historical backgrounds, sources and analogues, the poet’s agenda, as well
+          as textual and aesthetic matters. Early scholars, for instance, have seen in it references
+          to events ranging in date from the tenth to the late fourteenth centuries, including the
+          struggle between Henry II and Thomas Becket and the challenge of the barons to Richard
+            II.<note target="#1" type="footnotelink">1</note> Still others point to a historical
+          Wymound, found guilty of simony in 1102, or to the events taking place during the reign of
+          King John. The poem’s source is also contested. A. M. Trounce claims repeatedly that there
+          is a French original lurking in the archival shadows, despite the obvious local colors,
+          place names, and details of English custom and law.<note target="#2" type="footnotelink"
+            >2</note> Laura Hibbard Loomis argues that the poem’s origin resides in the legend of
+          Queen Emma and the Ploughshares, a story of the mother of Edward the Confessor.<note
+            target="#3" type="footnotelink">3</note> A frequently mentioned literary analogue is the
+          Middle English <hi rend="italic">Amis and Amiloun</hi>, but several of the poem’s motifs
+          are common to other works. The diversity of scholarly views on these matters suggests the
+          presence of an amazingly complex intertextuality and interpretive potential for this
+          seemingly simple romance.</p>
+        <p style="body" n="1">Neither is the plot as straightforward as it appears to be at first.
+          Rather, the poem’s unfolding of betrayal and treachery is brought to a happy resolution
+          only after a series of deferrals and unveilings, made more suspenseful by the intensified
+          action and heightened psychological intrigue, an effect the poet gains by mirroring
+          characters’ identities and constructing vivid and dramatic narrative events. The poem
+          begins simply enough: four men, described as messengers, swear an oath of brotherhood and
+          truth to each other. One of them, Athelston, becomes king when the king his cousin dies.
+          Athelston then makes two of his sworn brothers earls and the third Archbishop of
+          Canterbury. Here is where the intrigue begins with something akin to sibling rivalry. One
+          of these earls, the Earl of Stone, remains true to him; the other, however, the Earl of
+          Dover, is false, betraying his brother by accusing him of treachery to the king. The king
+          believes the Earl of Dover, and resolves to kill the alleged traitor and his family, but
+          before he does the queen sends a messenger to the Archbishop who comes to London to plead
+          for the life of his friend. The king first refuses to listen, and there follows a fierce
+          struggle between the king and the archbishop. It seems as though the king is going to win,
+          but he relents when the archbishop gains support from the people. An ordeal by fire
+          establishes the innocence of the Earl of Stone and the guilt of the traitor; the romance
+          ends with the spectacle of the traitor’s death.</p>
+        <p style="body" n="2">In his introduction to his edition Donald Sands implies that <hi
+            rend="italic">Athelston</hi> has an overly high reputation. He suggests that the poem is
+          indeed very impressive on first reading but that the closer one looks, the less one
+            sees.<note target="#4" type="footnotelink">4</note> As an introduction to the poem, this
+          is not a bad characterization, suggesting as it does that the poem depends on a kind of
+          surface attraction, which is surely there. But it is probably not an altogether just
+          estimation. Sands is no doubt correct when he states that one will not find overly subtle
+          character portraits in the work, though the credulity of the king, the resoluteness of the
+          archbishop, and the villainy of the traitor all show touches which go beyond simple fairy
+          tale opposition between good and evil. Dieter Mehl is not wrong when he says that the
+          characters are both memorable and individualized.<note target="#5" type="footnotelink"
+            >5</note></p>
+        <p style="body" n="3">Not only are the four main characters — Athelston the King, the Earls
+          of Dover and Stone, and the Archbishop — memorable for their powerful positions,
+          personalities, and confrontations with one another, but the supporting characters are also
+          unforgettably drawn. The messenger, who is employed by the king, the queen, and several
+          earls, is described early in the poem as a “foundling” but later, as a “noble man,” stands
+          in stark contrast, even acts as an alter-ego, to the king whose name he bears.<note
+            target="#6" type="footnotelink">6</note> His stalwart endurance and professional
+          integrity in delivering messages to the right people at the right time despite the
+          grueling distances between stops exposes the lack of steadfastness in the king. The
+          messenger does not waiver in his moral obligations — the king does. The very office of
+          messenger resonates with the four main characters; described as messengers from “dyvers
+          cuntré” they come into England to fulfill the obligations of their profession — one of
+          which is the necessity for conveying the truth, the very oath they swear to seal their
+          bond of brotherhood. A subsequent elevation in status — a result of Athelston’s fortuitous
+          rise to kingship — confers political power on those who otherwise would not have it and
+          prepares the way for testing the integrity of their oath to one another. The inevitable
+          corruptive forces accompanying such a quick rise in prestige follow, as Wymound soon falls
+          prey to envy; true nobility is not associated with rank and social status, but rather with
+          moral character.</p>
+        <p style="body" n="4">The typical tail-rhyme stanza in <hi rend="italic">Athelston</hi>
+          consists of four rhymed couplets, each of which is followed by a tail rhyme which remains
+          constant throughout the stanza, so that the rhyme scheme of the twelve-line stanza in the
+          poem is <hi rend="italic">aab</hi><hi rend="italic"> ccb ddb eeb</hi>. Perhaps taking his
+          cue from Chaucer’s parody of romance in The Tale of Sir Thopas, Sands is also critical of
+          the rhyme scheme of the work, objecting both to what he sees as the monotony of tail rhyme
+          and also to the apparent inconsistency of several irregular stanzas. Here too his judgment
+          is probably overly harsh. Kevin Kiernan contends that this stanzaic structure helps
+          account for the integrated character of the work and that variations in the poem are
+          purposeful. He stretches his point, perhaps, when he says that the poem is more closely
+          knit than <hi rend="italic">Sir Gawain and the Green Knight</hi>, but he nonetheless makes
+          a convincing case for the artistry of the work.<note target="#7" type="footnotelink"
+            >7</note> A. M. Trounce sees tail rhyme as an opportunity to exercise the imagination;
+          poetic diction often generates a number of interpretative possibilities. The tail-rhyme
+          poets also have a flare for the dramatic — the scene of cruelty to the queen, the unrobing
+          and extended trial by ordeal, including the testing of the earl’s two sons and pregnant
+          wife, the birth of St. Edmund immediately following the ordeal, the spectacular execution
+          of Wymound, a traitor every bit as treacherous as Ganelon or Judas. His body, singed by
+          fire, hanged, and left dangling by decree, marks the point at which the poet makes his
+          conventional exit.</p>
+        <p style="body" n="5">Like the noble messenger, the female characters are models of
+          integrity and perseverance. Dame Edyff, awaiting the impending birth of a third child when
+          Wymound’s false message arrives, refuses to stay at home where safe delivery would be more
+          certain. Rather, she decides to accompany her husband and sons to London in order to
+          witness what she expects to be a great honor. Instead, the entire family is taken into
+          custody at the order of a king whose good judgment, by this time, has been transformed by
+          Wymound’s treachery. Despite the hardship of captivity, however, Dame Edyff not only
+          manages to survive but shortly thereafter endures the onset of labor in the midst of the
+          ordeal by fire. It is only after she has successfully walked over the burning ploughshares
+          that she gives birth to another son, the child-saint Edmund. Just as the deeds of the
+          noble messenger reveal the lack of integrity in Wymound, the birth of Edmund recalls the
+          cruelty of the king to his pregnant wife and her subsequent miscarriage of the rightful
+          heir to the throne. Like Edyff, the queen endures great suffering. Unlike Edyff, however,
+          her purpose in the narrative is to dramatize the extent to which the king has fallen from
+          rational judgment. As Elizabeth Ashman Rowe argues, the queen’s miscarriage signifies
+          beyond the tragedy of the event itself; it points directly to the king’s miscarriage of
+            justice.<note target="#8" type="footnotelink">8</note></p>
+        <p style="body" n="6">In the struggle between the king and the archbishop, an English
+          audience would no doubt be reminded of the encounter between Henry II and Thomas Becket,
+          the famous conflict which ended with the murder of Becket in 1170. Other probable
+          historical analogues in the poem would include the name Athelston itself (hero of the
+          battle of Brunanburh), and the reference to the birth of St. Edmund (of East Anglia) at
+          the end of the poem. Rowe locates the poem in a specific fourteenth-century context. For
+          Athelston the King we may substitute the tyrannical Richard II, who dispensed with due
+          process for his rivals, whom he then unlawfully imprisoned, exiled, or executed.<note
+            target="#9" type="footnotelink">9</note> The specificity of these historical allusions
+          should not allow us to overlook the larger issues which the poem embodies. Indeed, one of
+          the signal strengths of the poem is that the legendary material out of which it is
+          constructed has become the vehicle for embodying some of the large concerns of the Middle
+          Ages. Clearly the most central of these is the relationship between the secular and the
+          ecclesiastical spheres. This struggle provides the central dramatic conflict in the poem
+          in its vivid and energetic presentation of threat and counter threat by king and bishop.
+          Its implications are far wider than the probable specific allusion to the Becket
+          controversy, however much it may follow the contours of that controversy in insisting on
+          distinct limits to royal power and in seeing ecclesiastical privilege as a check on royal
+          tyranny. As W. R. J. Barron has pointed out, the defiance of tyranny in the name of
+          brotherhood and the importance of the rule of law emerge as key themes in the work.<note
+            target="#10" type="footnotelink">10</note></p>
+        <p style="body" n="7">Another of the larger issues is contained in the way the poem handles
+          the question of good and evil. The poem provides a clear statement of the cause of the
+          betrayal of King Athelston and the Earl of Stone. The Earl of Dover committed his sin not
+          out of greed, but out of envy. As he poignantly tells us immediately before his death
+          (speaking of the king’s relationship to the Earl of Stone and to himself): “He lovyd him
+          to mekyl and me to lyte; / Therfore envye I hadde” (lines 799–800). At this point, the
+          moral implications are more important than the political ones, or perhaps to put it in
+          slightly different terms, this ending shows us how, as in most significant medieval
+          narratives, the moral and the political cannot be meaningfully separated from each
+          other.</p>
+        <p style="body" n="8">Sands states that the audience of <hi rend="italic">Athelston</hi>
+          must have been made up of small tradesmen, “very conscious of the history of their
+          country, very well aware of its traditions, and very sensitive to the authoritarian habit
+          of kings.”<note target="#11" type="footnotelink">11</note> It is not necessary to be quite
+          this restrictive in recreating the audience of <hi rend="italic">Athelston</hi>,
+          especially since the poem is one of many poems written in English for an emerging,
+          influential middle-class.<note target="#12" type="footnotelink">12</note> There is, in
+          fact, some evidence of a middle-class perspective, particularly if we look to the amusing
+          presentation of the hard-working messenger. Of all the characters a middle-class audience
+          might identify with in the poem, he is the most probable, since the king himself, in his
+          rashness, gullibility, and stubbornness, is not especially sympathetic.<note target="#13"
+            type="footnotelink">13</note> Whether or not we want to accept this parallel, it should
+          at least open us to the possibility of a work which is very carefully structured and whose
+          structure, like many medieval romances, is dependent on the careful paralleling of large
+          and small units of meaning.</p>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="1"><space rend="indent1"/>In <hi rend="italic">Athelston: A Middle
+            English Romance</hi>, EETS o.s. 224 (London: Oxford University Press, 1951) A. McI.
+          Trounce argues that Alryke resembles Stephen Langton more than Thomas Becket but also sees
+          a strong historical resemblance between Alryke and William Bateman of Norwich
+          (1344–53).</note>
+        <note type="footnote" n="2"><space rend="indent1"/>See also Kurt Beug, “Die Sage von König
+          Athelstan,” <hi rend="italic">Archiv</hi> 148 (1925), 181–95, for a discussion of the
+          relevance of the Queen Emma legend and the existence of a historical Wymound found guilty
+          of simony in 1102.</note>
+        <note type="footnote" n="3"><space rend="indent1"/>See Laura Hibbard Loomis, <hi
+            rend="italic">Mediæval Romance in England: </hi><hi rend="italic">A Study of the Sources
+            and Analogues of the Non-</hi><hi rend="italic">Cycle Metrical Romances</hi> (New York:
+          Burt Franklin, 1960), pp. 143–46.</note>
+        <note type="footnote" n="4"><space rend="indent1"/>Donald B. Sands, ed., <hi rend="italic"
+            >Middle English Verse Romances</hi> (New York: Holt, Rinehart, and Winston, 1966), p.
+          130.</note>
+        <note type="footnote" n="5"><space rend="indent1"/>Dieter Mehl, <hi rend="italic">The Middle
+            English Romances of the Thirteenth and Fourteenth </hi><hi rend="italic">Centuries</hi>
+          (London: Routledge and Kegan Paul, 1968), p. 148.</note>
+        <note type="footnote" n="6"><space rend="indent1"/>A. Inskip Dickerson, “The Subplot of the
+          Messenger in <hi rend="italic">Athelston</hi>,” <hi rend="italic">Papers on Language and
+            Literature</hi> 12 (1976), 121.</note>
+        <note type="footnote" n="7"><space rend="indent1"/>Kevin S. Kiernan, “<hi rend="italic"
+            >Athelston</hi> and the Rhyme of the English Romances,” <hi rend="italic">Modern
+            Language Quarterly</hi> 36 (1975), 340–41.</note>
+        <note type="footnote" n="8"><space rend="indent1"/>Elizabeth Ashman Rowe, “The Female Body
+          Politic and the Miscarriage of Justice in <hi rend="italic">Athelston</hi>,” <hi
+            rend="italic">Studies in the Age of Chaucer</hi> 17 (1995), 79–98.</note>
+        <note type="footnote" n="9"><space rend="indent1"/>Rowe, p. 88.</note>
+        <note type="footnote" n="10"><space rend="indent1"/>W. R. J. Barron, <hi rend="italic"
+            >English </hi><hi rend="italic">Medieval Romance</hi> (London: Longman, 1987), p.
+          81.</note>
+        <note type="footnote" n="11"><space rend="indent1"/>Sands, p. 131.</note>
+        <note type="footnote" n="12"><space rend="indent1"/>See Derek Pearsall, “The Development of
+          Middle English Romances,” <hi rend="italic">Medieval Studies</hi> 27 (1965),
+          91–116.</note>
+        <note type="footnote" n="13"><space rend="indent1"/>Dickerson, p. 121.</note>
+
+
+      </div>
+    </body>
+  </text>
+</TEI>

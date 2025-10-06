@@ -1,0 +1,2167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Herzman-FourRomances-Export-13-Athelston-Verse-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Athelston</title>
+        <author>Unknown</author>
+        <editor>Herzman, Ronald B.</editor>
+        <editor>Drake, Graham</editor>
+        <editor>Salisbury, Eve</editor>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Amster, Mara I.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Church, Jennifer</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-09" to="2025-10">Audited documents prior to print/export</resp>
+          <resp from="2025-09" to="2025-09">Collected metadata</resp>
+          <resp from="2025-02" to="2025-04">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-10">Encoded TEI</resp>
+          <resp from="2025-08" to="2025-09">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-09">Entered corrections for digital edition</resp>
+          <resp from="2025-02" to="2025-09">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-10">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-12" to="2023-12">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lee, Dong Choon</persName>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Entered corrections for print edition</resp>
+          <resp>Reviewed transcription of base manuscript or early print witness</resp>
+          <resp>Reviewed translations for accuracy</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested glosses</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Norris, James</persName>
+          <resp from="2025-06" to="2025-07">Audited documents prior to print/export</resp>
+          <resp from="2025-06" to="2025-07">Entered corrections for digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested glosses</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Collated and entered corrections</resp>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Prepared edition for publication</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mara I. Amster</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Melissa Bernstein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jennifer Church</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Angela Gibson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ian Peddie</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ann Robinson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John William Sutton</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Dana M. Symons</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Herzman, Ronald B.</editor>
+            <editor>Drake, Graham</editor>
+            <editor>Salisbury, Eve</editor>
+            <title>Four Romances of England: King Horn, Havelok the Dane, Bevis of Hampton,
+              Athelston</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/herzman-fourromances/blob/main/herzman-fourromances-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="enm">English, Middle (1100-1500)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1999</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Herzman-FourRomances-Export-13-Athelston-Verse"/>
+      <div type="text">
+        <lg>
+          <l><space rend="indent1"/>Lord that is off myghtys most,<note type="gloss-indicator" n="1"
+              >G</note><space rend="indent2"/><gloss n="1">powers greatest</gloss></l>
+          <l><space rend="indent1"/>Fadyr and Sone and Holy Gost,</l>
+          <l><space rend="indent2"/>Bryng us out of synne</l>
+          <l><space rend="indent1"/>And lene<note type="gloss-indicator" n="2">G</note> us grace so
+            for to wyrke<space rend="indent2"/><gloss n="2">grant</gloss></l>
+          <l><milestone n="5" unit="line"/><space rend="indent1"/>To love bothe
+              <persName>God</persName> and Holy Kyrke<note type="gloss-indicator" n="3"
+              >G</note><space rend="indent1"/><gloss n="3">Church</gloss></l>
+          <l><space rend="indent2"/>That we may <placeName>hevene</placeName> wynne.<note
+              type="enote-indicator" n="1">N</note>
+            <note type="tnote-indicator" n="1">T</note>
+          </l>
+          <l><space rend="indent1"/>Lystnes, lordyngys, that ben hende,<note type="gloss-indicator"
+              n="4">G</note><space rend="indent1"/><gloss n="4">gracious</gloss></l>
+          <l><space rend="indent1"/>Of<note type="tnote-indicator" n="2">T</note> falsnesse, hou it
+            wil ende<note type="gloss-indicator" n="5">G</note><space rend="indent2"/><gloss n="5"
+              >will bring about an end to</gloss></l>
+          <l><space rend="indent2"/>A man that ledes hym<note type="gloss-indicator" n="6">G</note>
+              therin.<note type="enote-indicator" n="2">N</note>
+            <space rend="indent1"/><gloss n="6">a man [who] leads himself</gloss></l>
+          <l><milestone n="10" unit="line"/><space rend="indent1"/>Of foure weddyd<note
+              type="gloss-indicator" n="7">G</note> bretheryn<note type="enote-indicator" n="3"
+              >N</note> I wole yow tell<space rend="indent1"/><gloss n="7">sworn</gloss></l>
+          <l><space rend="indent1"/>That wolden yn <placeName>Yngelond</placeName> go dwel,<note
+              type="enote-indicator" n="4">N</note>
+          </l>
+          <l><space rend="indent2"/>That sybbe<note type="gloss-indicator" n="8">G</note> were
+            nought of kyn.<note type="gloss-indicator" n="9">G</note><space rend="indent1"/><gloss
+              n="8">relative</gloss><gloss n="9"> family</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>And all foure messangeres they were,</l>
+          <l><space rend="indent1"/>That wolden yn <placeName>Yngelond</placeName> lettrys bere,</l>
+          <l><milestone n="15" unit="line"/><space rend="indent2"/>As it wes here kynde.<note
+              type="gloss-indicator" n="10">G</note><space rend="indent3"/><gloss n="10">their
+              occupation</gloss></l>
+          <l><space rend="indent1"/>By a forest gan<note type="gloss-indicator" n="11">G</note> they
+              mete<note type="gloss-indicator" n="12">G</note><space rend="indent2"/><gloss n="11"
+              >did</gloss><gloss n="12"> meet</gloss></l>
+          <l><space rend="indent1"/>With a cros, stood in a strete<note type="enote-indicator" n="5"
+              >N</note>
+            <note type="gloss-indicator" n="13">G</note><space rend="indent2"/><gloss n="13">by a
+              road</gloss></l>
+          <l><space rend="indent2"/>Be leff<note type="gloss-indicator" n="14">G</note> undyr a
+              lynde,<note type="gloss-indicator" n="15">G</note><space rend="indent2"/><gloss n="14"
+              >By a leaf</gloss><gloss n="15"> linden (tree)</gloss></l>
+          <l><space rend="indent1"/>And, as the story telles me,</l>
+          <l><milestone n="20" unit="line"/><space rend="indent1"/>Ylke<note type="gloss-indicator"
+              n="16">G</note> man was of dyvers<note type="gloss-indicator" n="17">G</note>
+              cuntré,<space rend="indent2"/><gloss n="16">Each</gloss><gloss n="17">
+              different</gloss></l>
+          <l><space rend="indent2"/>In book iwreten we fynde<note type="enote-indicator" n="6"
+              >N</note> —</l>
+          <l><space rend="indent1"/>For love of here<note type="gloss-indicator" n="18">G</note>
+            metyng thare,<space rend="indent2"/><gloss n="18">their</gloss></l>
+          <l><space rend="indent1"/>They swoor hem<note type="gloss-indicator" n="19">G</note>
+            weddyd bretheryn for evermare,<space rend="indent1"/><gloss n="19"
+            >themselves</gloss></l>
+          <l><space rend="indent2"/>In trewthe<note type="gloss-indicator" n="20">G</note> trewely
+            dede hem bynde.<space rend="indent1"/><gloss n="20">an oath</gloss></l>
+        </lg>
+        <lg>
+          <l><milestone n="25" unit="line"/><space rend="indent1"/>The eldeste of hem ylkon,<note
+              type="gloss-indicator" n="21">G</note><space rend="indent2"/><gloss n="21">them
+              all</gloss></l>
+          <l><space rend="indent1"/>He was hyght<note type="gloss-indicator" n="22">G</note>
+            <persName>Athelston</persName>,<note type="enote-indicator" n="7">N</note>
+            <space rend="indent2"/><gloss n="22">called</gloss></l>
+          <l><space rend="indent2"/>The kyngys cosyn dere;</l>
+          <l><space rend="indent1"/>He was of the kyngys blood,<note type="gloss-indicator" n="23"
+              >G</note><space rend="indent2"/><gloss n="23">a [blood] relative</gloss></l>
+          <l><space rend="indent1"/>Hys eemes<note type="gloss-indicator" n="24">G</note> sone, I
+              undyrstood;<space rend="indent2"/><gloss n="24">uncle’s</gloss></l>
+          <l><milestone n="30" unit="line"/><space rend="indent2"/>Therefore he neyghyd<note
+              type="gloss-indicator" n="25">G</note> hym nere.<note type="enote-indicator" n="8"
+              >N</note>
+            <space rend="indent1"/><gloss n="25">approached</gloss></l>
+          <l><space rend="indent1"/>And at the laste, weel<note type="gloss-indicator" n="26"
+              >G</note> and fayr,<space rend="indent2"/><gloss n="26">well</gloss></l>
+          <l><space rend="indent1"/>The kyng him dyyd<note type="gloss-indicator" n="27">G</note>
+            withouten ayr.<note type="gloss-indicator" n="28">G</note><space rend="indent1"/><gloss
+              n="27">died</gloss><gloss n="28"> heir</gloss></l>
+          <l><space rend="indent2"/>Thenne was ther non hys pere<note type="gloss-indicator" n="29"
+              >G</note><space rend="indent1"/><gloss n="29">equal</gloss></l>
+          <l><space rend="indent1"/>But <persName>Athelston</persName>, hys eemes<note
+              type="gloss-indicator" n="30">G</note> sone;<space rend="indent2"/><gloss n="30"
+              >uncle’s</gloss></l>
+          <l><milestone n="35" unit="line"/><space rend="indent1"/>To make hym kyng wolde they
+            nought schone,<note type="gloss-indicator" n="31">G</note><space rend="indent1"/><gloss
+              n="31">refuse (shun)</gloss></l>
+          <l><space rend="indent2"/>To corowne hym with gold so clere.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Now was he kyng semely<note type="gloss-indicator" n="32"
+              >G</note> to se:<space rend="indent2"/><gloss n="32">handsome</gloss></l>
+          <l><space rend="indent1"/>He sendes afftyr his bretheryn<note type="gloss-indicator"
+              n="33">G</note> thre<space rend="indent1"/><gloss n="33">[sworn] brothers</gloss></l>
+          <l><space rend="indent2"/>And gaff hem here warysoun.<note type="gloss-indicator" n="34"
+              >G</note><space rend="indent2"/><gloss n="34">them their reward</gloss></l>
+          <l><milestone n="40" unit="line"/><space rend="indent1"/>The eldest brothir he made Eerl
+            of <placeName>Dovere</placeName><note type="enote-indicator" n="9">N</note> —</l>
+          <l><space rend="indent1"/>And thus the pore man gan covere<note type="gloss-indicator"
+              n="35">G</note> —<space rend="indent1"/><gloss n="35">recover</gloss></l>
+          <l><space rend="indent2"/>Lord of tour<note type="gloss-indicator" n="36">G</note> and
+              toun.<space rend="indent2"/><gloss n="36">tower</gloss></l>
+          <l><space rend="indent1"/>That other brother he made Eerl of
+              <placeName>Stane</placeName><note type="enote-indicator" n="10">N</note>
+            <note type="gloss-indicator" n="37">G</note> —<space rend="indent1"/><gloss n="37"
+              >Stone</gloss></l>
+          <l><space rend="indent1"/><persName>Egelond</persName> was hys name,</l>
+          <l><milestone n="45" unit="line"/><space rend="indent2"/>A man of gret renoun —</l>
+          <l><space rend="indent1"/>And gaff him tyl<note type="gloss-indicator" n="38">G</note> hys
+            weddyd wyff<space rend="indent2"/><gloss n="38">to be</gloss></l>
+          <l><space rend="indent1"/>Hys owne sustyr, Dame <persName>Edyff</persName>,<note
+              type="enote-indicator" n="11">N</note>
+          </l>
+          <l><space rend="indent2"/>With gret devocyoun.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The ferthe<note type="gloss-indicator" n="39">G</note> brothir
+            was a clerk,<note type="gloss-indicator" n="40">G</note><space rend="indent2"/><gloss
+              n="39">fourth</gloss><gloss n="40"> cleric</gloss></l>
+          <l><milestone n="50" unit="line"/><space rend="indent1"/>Mekyl<note type="gloss-indicator"
+              n="41">G</note> he cowde<note type="gloss-indicator" n="42">G</note> of
+              <persName>Goddys</persName> werk.<space rend="indent1"/><gloss n="41"
+              >Much</gloss><gloss n="42"> knew</gloss></l>
+          <l><space rend="indent2"/>Hys name it was <persName>Alryke</persName>.</l>
+          <l><space rend="indent1"/><placeName>Cauntyrbury</placeName> was vacant</l>
+          <l><space rend="indent1"/>And fel into that kyngys hand;</l>
+          <l><space rend="indent2"/>He gaff it hym that wyke,<note type="gloss-indicator" n="43"
+              >G</note><space rend="indent2"/><gloss n="43">office</gloss></l>
+          <l><milestone n="55" unit="line"/><space rend="indent1"/>And made hym bysschop of that
+              stede,<note type="gloss-indicator" n="44">G</note><space rend="indent1"/><gloss n="44"
+              >place</gloss></l>
+          <l><space rend="indent1"/>That noble clerk, on book cowde rede<note type="enote-indicator"
+              n="12">N</note> —</l>
+          <l><space rend="indent2"/>In the world was non hym lyche.<note type="gloss-indicator"
+              n="45">G</note><space rend="indent1"/><gloss n="45">like</gloss></l>
+          <l><space rend="indent1"/>Thus avaunsyd<note type="gloss-indicator" n="46">G</note> he hys
+            brother thorwgh <persName>Goddys</persName> gras,<note type="gloss-indicator" n="47"
+              >G</note><space rend="indent1"/><gloss n="46">advanced</gloss><gloss n="47">
+              grace</gloss></l>
+          <l><space rend="indent1"/>And <persName>Athelston</persName> hymselven was</l>
+          <l><milestone n="60" unit="line"/><space rend="indent2"/>A good kyng and a ryche.<note
+              type="gloss-indicator" n="48">G</note><space rend="indent2"/><gloss n="48"
+              >powerful</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>And he that was Eerl of <placeName>Stane</placeName> —</l>
+          <l><space rend="indent1"/>Sere <persName>Egeland</persName> was hys name —</l>
+          <l><space rend="indent2"/>Was trewe, as ye schal here.</l>
+          <l><space rend="indent1"/>Thorwgh the myght off <persName>Goddys</persName> gras,<note
+              type="gloss-indicator" n="49">G</note><space rend="indent1"/><gloss n="49"
+              >grace</gloss></l>
+          <l><milestone n="65" unit="line"/><space rend="indent1"/>He gat<note
+              type="gloss-indicator" n="50">G</note> upon the countas<note type="gloss-indicator"
+              n="51">G</note><space rend="indent2"/><gloss n="50">begat</gloss><gloss n="51">
+              countess</gloss></l>
+          <l><space rend="indent2"/>Twoo knave-chyldren<note type="gloss-indicator" n="52">G</note>
+              dere.<space rend="indent2"/><gloss n="52">boys</gloss></l>
+          <l><space rend="indent1"/>That on was fyfftene wyntyr<note type="gloss-indicator" n="53"
+              >G</note> old,<note type="enote-indicator" n="13">N</note>
+            <space rend="indent2"/><gloss n="53">years</gloss></l>
+          <l><space rend="indent1"/>That other thryttene, as men me told:</l>
+          <l><space rend="indent2"/>In the world was non here pere<note type="gloss-indicator"
+              n="54">G</note> —<space rend="indent1"/><gloss n="54">their equal</gloss></l>
+          <l><milestone n="70" unit="line"/><space rend="indent1"/>Also whyt so lylye-flour,<note
+              type="gloss-indicator" n="55">G</note><space rend="indent3"/><gloss n="55">As white as
+              [a] lily flower</gloss></l>
+          <l><space rend="indent1"/>Red as rose off here colour,</l>
+          <l><space rend="indent2"/>As bryght as blosme on brere.<note type="gloss-indicator" n="56"
+              >G</note><space rend="indent2"/><gloss n="56">briar</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Bothe the Eerl and hys wyff,</l>
+          <l><space rend="indent1"/>The kyng hem lovede as hys lyff,</l>
+          <l><milestone n="75" unit="line"/><space rend="indent2"/>And here<note
+              type="gloss-indicator" n="57">G</note> sones twoo;<space rend="indent2"/><gloss n="57"
+              >their</gloss></l>
+          <l><space rend="indent1"/>And offtensythe<note type="gloss-indicator" n="58">G</note> he
+            gan hem calle<space rend="indent2"/><gloss n="58">often-times</gloss></l>
+          <l><space rend="indent1"/>Bothe to boure<note type="gloss-indicator" n="59">G</note> and
+            to halle,<note type="enote-indicator" n="14">N</note>
+            <space rend="indent2"/><gloss n="59">inner chamber</gloss></l>
+          <l><space rend="indent2"/>To counsayl whenne they scholde goo.</l>
+          <l><space rend="indent1"/>Therat Sere <persName>Wymound</persName> hadde gret envye,</l>
+          <l><milestone n="80" unit="line"/><space rend="indent1"/>That Eerle of
+              <placeName>Dovere</placeName>, wyttyrlye.<note type="gloss-indicator" n="60"
+              >G</note><space rend="indent2"/><gloss n="60">certainly</gloss></l>
+          <l><space rend="indent2"/>In herte he was ful woo.<note type="gloss-indicator" n="61"
+              >G</note><space rend="indent2"/><gloss n="61">aggrieved</gloss></l>
+          <l><space rend="indent1"/>He thoughte al for here sake<note type="gloss-indicator" n="62"
+              >G</note><space rend="indent2"/><gloss n="62">on their account</gloss></l>
+          <l><space rend="indent1"/>False lesyngys<note type="gloss-indicator" n="63">G</note> on
+            hem to make,<space rend="indent2"/><gloss n="63">lies</gloss></l>
+          <l><space rend="indent2"/>To don hem brenne and sloo.<note type="enote-indicator" n="15"
+              >N</note>
+            <note type="gloss-indicator" n="64">G</note><space rend="indent1"/><gloss n="64">cause
+              them [to be] burned and slain</gloss></l>
+        </lg>
+        <lg>
+          <l><milestone n="85" unit="line"/><space rend="indent1"/>And thanne Sere
+              <persName>Wymound</persName> hym bethoughte:<note type="gloss-indicator" n="65"
+              >G</note><space rend="indent1"/><gloss n="65">thought to himself</gloss></l>
+          <l><space rend="indent1"/>“Here<note type="gloss-indicator" n="66">G</note> love thus
+            endure may noughte;<space rend="indent1"/><gloss n="66">Their</gloss></l>
+          <l><space rend="indent2"/>Thorwgh wurd<note type="gloss-indicator" n="67">G</note> oure
+            werk may sprynge.”<note type="gloss-indicator" n="68">G</note><space rend="indent1"
+              /><gloss n="67">Through word</gloss><gloss n="68"> advance</gloss></l>
+          <l><space rend="indent1"/>He bad hys men maken hem yare;<note type="gloss-indicator"
+              n="69">G</note><space rend="indent2"/><gloss n="69">ready</gloss></l>
+          <l><space rend="indent1"/>Unto <placeName>Londone</placeName> wolde he fare<note
+              type="gloss-indicator" n="70">G</note><space rend="indent2"/><gloss n="70"
+            >go</gloss></l>
+          <l><milestone n="90" unit="line"/><space rend="indent2"/>To speke with the kynge.</l>
+          <l><space rend="indent1"/>Whenne that he to <placeName>Londone</placeName> come,</l>
+          <l><space rend="indent1"/>He mette with the kyng ful sone.<note type="gloss-indicator"
+              n="71">G</note><space rend="indent2"/><gloss n="71">right away</gloss></l>
+          <l><space rend="indent2"/>He sayde, “Welcome, my derelyng.”<note type="gloss-indicator"
+              n="72">G</note><space rend="indent1"/><gloss n="72">friend</gloss></l>
+          <l><space rend="indent1"/>The kyng hym fraynyd seone anon,<note type="gloss-indicator"
+              n="73">G</note><space rend="indent1"/><gloss n="73">questioned soon</gloss></l>
+          <l><milestone n="95" unit="line"/><space rend="indent1"/>By what way he hadde igon,</l>
+          <l><space rend="indent2"/>Withouten ony dwellyng.<note type="gloss-indicator" n="74"
+              >G</note><space rend="indent2"/><gloss n="74">delaying</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“Come thou ought by <placeName>Cauntyrbury</placeName>,</l>
+          <l><space rend="indent1"/>There<note type="gloss-indicator" n="75">G</note> the clerkys
+            syngen mery<note type="enote-indicator" n="16">N</note>
+            <space rend="indent2"/><gloss n="75">Where</gloss></l>
+          <l><space rend="indent2"/>Bothe erly and late?<note type="enote-indicator" n="17">N</note>
+          </l>
+          <l><milestone n="100" unit="line"/><space rend="indent1"/>Hou faryth that noble clerk,</l>
+          <l><space rend="indent1"/>That mekyl can on<note type="gloss-indicator" n="76">G</note>
+            <persName>Goddys</persName> werk?<note type="enote-indicator" n="18">N</note>
+            <space rend="indent1"/><gloss n="76">much knows of</gloss></l>
+          <l><space rend="indent2"/>Knowest thou ought hys state?<note type="gloss-indicator" n="77"
+              >G</note><space rend="indent1"/><gloss n="77">what his condition is</gloss></l>
+          <l><space rend="indent1"/>And come thou ought be<note type="gloss-indicator" n="78"
+              >G</note> the Eerl of <placeName>Stane</placeName>,<space rend="indent1"/><gloss
+              n="78">by</gloss></l>
+          <l><space rend="indent1"/>That wurthy lord in hys wane?<note type="gloss-indicator" n="79"
+              >G</note><space rend="indent2"/><gloss n="79">residence</gloss></l>
+          <l><milestone n="105" unit="line"/><space rend="indent2"/>Wente thou ought<note
+              type="gloss-indicator" n="80">G</note> that gate?<note type="gloss-indicator" n="81"
+              >G</note><space rend="indent2"/><gloss n="80">out of</gloss><gloss n="81">
+            way</gloss></l>
+          <l><space rend="indent1"/>Hou fares that noble knyght,</l>
+          <l><space rend="indent1"/>And hys sones fayr and bryght</l>
+          <l><space rend="indent2"/>My sustyr, yiff<note type="gloss-indicator" n="82">G</note> that
+            thou wate?”<note type="gloss-indicator" n="83">G</note><space rend="indent1"/><gloss
+              n="82">if</gloss><gloss n="83"> know</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“Sere,” thanne he sayde, “withouten les,<note
+              type="gloss-indicator" n="84">G</note><space rend="indent1"/><gloss n="84"
+              >falsehood</gloss></l>
+          <l><milestone n="110" unit="line"/><space rend="indent1"/>Be
+              <placeName>Cauntyrbery</placeName> my way I ches;<note type="gloss-indicator" n="85"
+              >G</note><space rend="indent2"/><gloss n="85">chose</gloss></l>
+          <l><space rend="indent2"/>There<note type="gloss-indicator" n="86">G</note> spak I with
+            that dere.<note type="gloss-indicator" n="87">G</note><space rend="indent2"/><gloss
+              n="86">Where</gloss><gloss n="87"> dear [person]</gloss></l>
+          <l><space rend="indent1"/>Ryght weel gretes thee that noble clerk,</l>
+          <l><space rend="indent1"/>That mykyl can<note type="gloss-indicator" n="88">G</note> of
+              <persName>Goddys</persName> werk;<space rend="indent2"/><gloss n="88">knows
+              much</gloss></l>
+          <l><space rend="indent2"/>In the world is non hys pere.<note type="gloss-indicator" n="89"
+              >G</note><space rend="indent2"/><gloss n="89">equal</gloss></l>
+          <l><milestone n="115" unit="line"/><space rend="indent1"/>And also be
+              <placeName>Stane</placeName> my way I drowgh;<note type="gloss-indicator" n="90"
+              >G</note><space rend="indent1"/><gloss n="90">took</gloss></l>
+          <l><space rend="indent1"/>With <persName>Egelond</persName> I spak inowgh,<note
+              type="gloss-indicator" n="91">G</note><space rend="indent2"/><gloss n="91"
+              >enough</gloss></l>
+          <l><space rend="indent2"/>And with the countesse so clere.<note type="gloss-indicator"
+              n="92">G</note><space rend="indent1"/><gloss n="92">beautiful</gloss></l>
+          <l><space rend="indent1"/>They fare weel,<note type="gloss-indicator" n="93">G</note> is
+            nought to layne,<note type="gloss-indicator" n="94">G</note><space rend="indent1"
+              /><gloss n="93">well</gloss><gloss n="94"> nothing to conceal</gloss></l>
+          <l><space rend="indent1"/>And bothe here<note type="gloss-indicator" n="95">G</note>
+            sones.” The king was fayne<note type="gloss-indicator" n="96">G</note><space
+              rend="indent1"/><gloss n="95">their</gloss><gloss n="96"> happy</gloss></l>
+          <l><milestone n="120" unit="line"/><space rend="indent2"/>And in his herte made glad
+            chere.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“Sere kyng,” he saide, “yiff it be thi wille</l>
+          <l><space rend="indent1"/>To chaumbyr that thou woldest wenden tylle,<note
+              type="gloss-indicator" n="97">G</note><space rend="indent1"/><gloss n="97">go
+              to</gloss></l>
+          <l><space rend="indent2"/>Consayl for to here,</l>
+          <l><space rend="indent1"/>I schal thee telle a swete tydande,<note type="gloss-indicator"
+              n="98">G</note><space rend="indent2"/><gloss n="98">report</gloss></l>
+          <l><milestone n="125" unit="line"/><space rend="indent1"/>There comen nevere non
+              swyche<note type="gloss-indicator" n="99">G</note> in this lande<space rend="indent1"
+              /><gloss n="99">such</gloss></l>
+          <l><space rend="indent2"/>Of all this hundryd yere.”</l>
+          <l><space rend="indent1"/>The kyngys herte than was ful woo<note type="gloss-indicator"
+              n="100">G</note><space rend="indent1"/><gloss n="100">sad</gloss></l>
+          <l><space rend="indent1"/>With that traytour for to goo;</l>
+          <l><space rend="indent2"/>They wente bothe forth in fere;<note type="gloss-indicator"
+              n="101">G</note><space rend="indent1"/><gloss n="101">together</gloss></l>
+          <l><milestone n="130" unit="line"/><space rend="indent1"/>And whenne that they were the
+            chaumbyr withinne,</l>
+          <l><space rend="indent1"/>False lesyngys<note type="gloss-indicator" n="102">G</note> he
+            gan begynne<note type="gloss-indicator" n="103">G</note><space rend="indent2"/><gloss
+              n="102">lies</gloss><gloss n="103"> began</gloss></l>
+          <l><space rend="indent2"/>On hys weddyd brother dere.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“Sere kyng,” he saide, “woo were me,</l>
+          <l><space rend="indent1"/>Ded<note type="gloss-indicator" n="104">G</note> that I
+              scholde<note type="gloss-indicator" n="105">G</note> see thee,<space rend="indent2"
+              /><gloss n="104">Dead</gloss><gloss n="105"> [it] should</gloss></l>
+          <l><milestone n="135" unit="line"/><space rend="indent2"/>So moot I<note
+              type="gloss-indicator" n="106">G</note> have my lyff!<space rend="indent2"/><gloss
+              n="106">As I may</gloss></l>
+          <l><space rend="indent1"/>For by Hym that al this worl<note type="enote-indicator" n="19"
+              >N</note> wan,<note type="gloss-indicator" n="107">G</note><space rend="indent1"
+              /><gloss n="107">world redeemed</gloss></l>
+          <l><space rend="indent1"/>Thou has makyd me a man,</l>
+          <l><space rend="indent2"/>And iholpe<note type="gloss-indicator" n="108">G</note> me for
+            to thryff.<note type="gloss-indicator" n="109">G</note><space rend="indent2"/><gloss
+              n="108">helped</gloss><gloss n="109"> thrive</gloss></l>
+          <l><space rend="indent1"/>For in thy land, sere, is a fals traytour.<note
+              type="tnote-indicator" n="3">T</note>
+          </l>
+          <l><milestone n="140" unit="line"/><space rend="indent1"/>He wole doo thee mykyl<note
+              type="gloss-indicator" n="110">G</note> dyshonour<space rend="indent1"/><gloss n="110"
+              >much</gloss></l>
+          <l><space rend="indent2"/>And brynge thee of lyve.<note type="gloss-indicator" n="111"
+              >G</note><space rend="indent2"/><gloss n="111">kill you</gloss></l>
+          <l><space rend="indent1"/>He wole deposen<note type="tnote-indicator" n="4">T</note>
+              thee<note type="gloss-indicator" n="112">G</note> slyly,<space rend="indent2"/><gloss
+              n="112">depose you</gloss></l>
+          <l><space rend="indent1"/>Sodaynly<note type="gloss-indicator" n="113">G</note> than
+            schalt thou dy<space rend="indent2"/><gloss n="113">Suddenly</gloss></l>
+          <l><space rend="indent2"/>By <persName>Chrystys</persName> woundys fyve!”</l>
+        </lg>
+        <lg>
+          <l><milestone n="145" unit="line"/><space rend="indent1"/>Thenne sayde the kyng, “So
+              moot<note type="gloss-indicator" n="114">G</note> thou the,<note
+              type="enote-indicator" n="20">N</note>
+            <note type="gloss-indicator" n="115">G</note><space rend="indent1"/><gloss n="114"
+              >might</gloss><gloss n="115"> thrive</gloss></l>
+          <l><space rend="indent1"/>Knowe I that man, and I<note type="gloss-indicator" n="116"
+              >G</note> hym see?<space rend="indent2"/><gloss n="116">if I</gloss></l>
+          <l><space rend="indent2"/>His name thou me telle.”</l>
+          <l><space rend="indent1"/>“Nay,” says that traytour, “that wole I nought</l>
+          <l><space rend="indent1"/>For al the gold that evere was wrought —</l>
+          <l><milestone n="150" unit="line"/><space rend="indent2"/>Be masse-book and belle<note
+              type="enote-indicator" n="21">N</note> —</l>
+          <l><space rend="indent1"/>But yiff<note type="gloss-indicator" n="117">G</note> thou me
+            thy trowthe<note type="gloss-indicator" n="118">G</note> will plyght<note
+              type="gloss-indicator" n="119">G</note><space rend="indent1"/><gloss n="117"
+              >Unless</gloss><gloss n="118"> vow</gloss><gloss n="119"> pledge</gloss></l>
+          <l><space rend="indent1"/>That thou schalt nevere bewreye<note type="gloss-indicator"
+              n="120">G</note> the knyght<space rend="indent1"/><gloss n="120">betray</gloss></l>
+          <l><space rend="indent2"/>That thee<note type="gloss-indicator" n="121">G</note> the tale
+            schal telle.”<space rend="indent2"/><gloss n="121">[to] you</gloss></l>
+          <l><space rend="indent1"/>Thanne the kyng his hand up raughte,<note type="enote-indicator"
+              n="22">N</note>
+            <note type="gloss-indicator" n="122">G</note><space rend="indent1"/><gloss n="122"
+              >raised</gloss></l>
+          <l><milestone n="155" unit="line"/><space rend="indent1"/>That false man his trowthe
+              betaughte,<note type="enote-indicator" n="23">N</note>
+            <note type="gloss-indicator" n="123">G</note><space rend="indent1"/><gloss n="123">faith
+              entrusted</gloss></l>
+          <l><space rend="indent2"/>He was a devyl of <placeName>helle</placeName>!</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>“Sere kyng,” he sayde, “thou madyst me knyght,</l>
+          <l><space rend="indent1"/>And now thou hast thy trowthe me plyght<note
+              type="gloss-indicator" n="124">G</note><space rend="indent1"/><gloss n="124"
+              >pledged</gloss></l>
+          <l><space rend="indent2"/>Oure counsayl for to layne:<note type="gloss-indicator" n="125"
+              >G</note><space rend="indent2"/><gloss n="125">conceal</gloss></l>
+          <l><milestone n="160" unit="line"/><space rend="indent1"/>Sertaynly, it is non othir</l>
+          <l><space rend="indent1"/>But <persName>Egelane</persName>, thy weddyd brothir —</l>
+          <l><space rend="indent2"/>He wolde<note type="gloss-indicator" n="126">G</note> that thou
+            were slayne;<space rend="indent1"/><gloss n="126">wishes</gloss></l>
+          <l><space rend="indent1"/>He dos thy sustyr to undyrstand</l>
+          <l><space rend="indent1"/>He wole be kyng of thy lande,</l>
+          <l><milestone n="165" unit="line"/><space rend="indent2"/>And thus he begynnes here
+              trayne.<note type="gloss-indicator" n="127">G</note><space rend="indent1"/><gloss
+              n="127">to lead her astray</gloss></l>
+          <l><space rend="indent1"/>He wole thee poysoun ryght slyly;<note type="enote-indicator"
+              n="24">N</note>
+          </l>
+          <l><space rend="indent1"/>Sodaynly thanne schalt thou dy,</l>
+          <l><space rend="indent2"/>By Him that suffryd payne.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Thanne swoor the kyng be Cros and Roode:<note
+              type="gloss-indicator" n="128">G</note><space rend="indent1"/><gloss n="128"
+              >Cross</gloss></l>
+          <l><milestone n="170" unit="line"/><space rend="indent1"/>“Meete<note
+              type="gloss-indicator" n="129">G</note> ne drynk schal do me goode<space
+              rend="indent1"/><gloss n="129">[Neither] food</gloss></l>
+          <l><space rend="indent2"/>Tyl that he be dede;</l>
+          <l><space rend="indent1"/>Bothe he and hys wyf, hys soones twoo,</l>
+          <l><space rend="indent1"/>Schole they nevere be no moo</l>
+          <l><space rend="indent2"/>In <placeName>Yngelond</placeName> on that stede.”<note
+              type="enote-indicator" n="25">N</note>
+            <note type="gloss-indicator" n="130">G</note><space rend="indent2"/><gloss n="130"
+              >place</gloss></l>
+          <l><milestone n="175" unit="line"/><space rend="indent1"/>“Nay,” says the traytour, “so
+            moot I the,<note type="gloss-indicator" n="131">G</note><space rend="indent1"/><gloss
+              n="131">thrive</gloss></l>
+          <l><space rend="indent1"/>Ded wole I nought my brother se;<note type="enote-indicator"
+              n="26">N</note>
+          </l>
+          <l><space rend="indent2"/>But do thy beste rede.”<note type="gloss-indicator" n="132"
+              >G</note><space rend="indent2"/><gloss n="132">advice</gloss></l>
+          <l><space rend="indent1"/>No lengere there then wolde he lende;<note
+              type="gloss-indicator" n="133">G</note><space rend="indent1"/><gloss n="133"
+              >remain</gloss></l>
+          <l><space rend="indent1"/>He takes hys leve, to <placeName>Dovere</placeName> gan
+              wende.<note type="gloss-indicator" n="134">G</note><space rend="indent1"/><gloss
+              n="134">began to go</gloss></l>
+          <l><milestone n="180" unit="line"/><space rend="indent2"/><persName>God</persName> geve
+            hym schame and dede!<note type="gloss-indicator" n="135">G</note><space rend="indent1"
+              /><gloss n="135">death</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Now is that traytour hom iwent.</l>
+          <l><space rend="indent1"/>A messanger was afftyr<note type="gloss-indicator" n="136"
+              >G</note> sent<space rend="indent2"/><gloss n="136">afterward</gloss></l>
+          <l><space rend="indent2"/>To speke with the kyng.</l>
+          <l><space rend="indent1"/>I wene<note type="gloss-indicator" n="137">G</note> he bar<note
+              type="gloss-indicator" n="138">G</note> his owne name:<space rend="indent2"/><gloss
+              n="137">believe</gloss><gloss n="138"> bore</gloss></l>
+          <l><milestone n="185" unit="line"/><space rend="indent1"/>He was hoten<note
+              type="gloss-indicator" n="139">G</note>
+            <persName>Athelstane</persName>;<note type="enote-indicator" n="27">N</note>
+            <space rend="indent2"/><gloss n="139">called</gloss></l>
+          <l><space rend="indent2"/>He was foundelyng.<note type="gloss-indicator" n="140"
+              >G</note><space rend="indent3"/><gloss n="140">a foundling</gloss></l>
+          <l><space rend="indent1"/>The lettrys were imaad fullyche thare,<note
+              type="gloss-indicator" n="141">G</note><space rend="indent1"/><gloss n="141">fully
+              there</gloss></l>
+          <l><space rend="indent1"/>Unto <placeName>Stane</placeName> for to fare<note
+              type="gloss-indicator" n="142">G</note><space rend="indent3"/><gloss n="142"
+              >go</gloss></l>
+          <l><space rend="indent2"/>Withouten ony dwellyng,<note type="gloss-indicator" n="143"
+              >G</note><space rend="indent2"/><gloss n="143">delaying</gloss></l>
+          <l><milestone n="190" unit="line"/><space rend="indent1"/>To fette<note
+              type="gloss-indicator" n="144">G</note> the eerl and his sones twoo,<space
+              rend="indent1"/><gloss n="144">fetch</gloss></l>
+          <l><space rend="indent1"/>And the countasse alsoo,</l>
+          <l><space rend="indent2"/>Dame <persName>Edyve</persName>, that swete thyng.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>And in the lettre yit<note type="gloss-indicator" n="145"
+              >G</note> was it tolde,<space rend="indent2"/><gloss n="145">also</gloss></l>
+          <l><space rend="indent1"/>That the kyng the eerlys sones wolde</l>
+          <l><milestone n="195" unit="line"/><space rend="indent2"/>Make hem bothe knyght;</l>
+          <l><space rend="indent1"/>And therto his seel<note type="gloss-indicator" n="146">G</note>
+            he sette.<space rend="indent2"/><gloss n="146">seal</gloss></l>
+          <l><space rend="indent1"/>The messanger wolde nought lette;<note type="gloss-indicator"
+              n="147">G</note><space rend="indent1"/><gloss n="147">delay</gloss></l>
+          <l><space rend="indent2"/>The way he rydes ful ryght.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The messanger, the noble man,</l>
+          <l><milestone n="200" unit="line"/><space rend="indent1"/>Takes hys hors and forth he
+              wan,<note type="gloss-indicator" n="148">G</note><space rend="indent2"/><gloss n="148"
+              >went</gloss></l>
+          <l><space rend="indent2"/>And hyes<note type="gloss-indicator" n="149">G</note> a ful good
+              spede.<space rend="indent2"/><gloss n="149">hastens</gloss></l>
+          <l><space rend="indent1"/>The eerl in hys halle he fande;<note type="gloss-indicator"
+              n="150">G</note><space rend="indent2"/><gloss n="150">found</gloss></l>
+          <l><space rend="indent1"/>He took hym the lettre in his hande</l>
+          <l><space rend="indent2"/>Anon he bad<note type="gloss-indicator" n="151">G</note> hym
+              rede:<space rend="indent2"/><gloss n="151">bade</gloss></l>
+          <l><milestone n="205" unit="line"/><space rend="indent1"/>“Sere,” he sayde also
+              swythe,<note type="gloss-indicator" n="152">G</note><space rend="indent2"/><gloss
+              n="152">quickly</gloss></l>
+          <l><space rend="indent1"/>“This lettre oughte to make thee blythe:<note
+              type="gloss-indicator" n="153">G</note><space rend="indent1"/><gloss n="153"
+              >glad</gloss></l>
+          <l><space rend="indent2"/>Thertoo thou take good hede.<note type="gloss-indicator" n="154"
+              >G</note><space rend="indent2"/><gloss n="154">heed</gloss></l>
+          <l><space rend="indent1"/>The kyng wole for the cuntas<note type="gloss-indicator" n="155"
+              >G</note> sake<space rend="indent2"/><gloss n="155">countess’</gloss></l>
+          <l><space rend="indent1"/>Bothe thy sones knyghtes make<note type="enote-indicator" n="28"
+              >N</note> —</l>
+          <l><milestone n="210" unit="line"/><space rend="indent2"/>To <placeName>London</placeName>
+            I rede<note type="gloss-indicator" n="156">G</note> thee spede.<note
+              type="gloss-indicator" n="157">G</note><space rend="indent1"/><gloss n="156"
+              >advise</gloss><gloss n="157"> hurry</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The kyng wole for the cuntas sake</l>
+          <l><space rend="indent1"/>Bothe thy sones knyghtes make,</l>
+          <l><space rend="indent2"/>The blythere<note type="gloss-indicator" n="158">G</note> thou
+            may be.<space rend="indent2"/><gloss n="158">happier</gloss></l>
+          <l><space rend="indent1"/>Thy fayre wyff with thee thou bryng —</l>
+          <l><milestone n="215" unit="line"/><space rend="indent1"/>And ther be ryght no
+              lettyng<note type="gloss-indicator" n="159">G</note> —<space rend="indent2"/><gloss
+              n="159">delaying</gloss></l>
+          <l><space rend="indent2"/>That syghte that sche may see.”</l>
+          <l><space rend="indent1"/>Thenne sayde that eerl with herte mylde,</l>
+          <l><space rend="indent1"/>“My wyff goth ryght gret with chylde,</l>
+          <l><space rend="indent2"/>And forthynkes me,<note type="gloss-indicator" n="160"
+              >G</note><space rend="indent3"/><gloss n="160">I regret [that]</gloss></l>
+          <l><milestone n="220" unit="line"/><space rend="indent1"/>Sche may nought out of chaumbyr
+              wyn,<note type="gloss-indicator" n="161">G</note><space rend="indent1"/><gloss n="161"
+              >go</gloss></l>
+          <l><space rend="indent1"/>To speke with non ende<note type="gloss-indicator" n="162"
+              >G</note> of here kyn<space rend="indent1"/><gloss n="162">no part</gloss></l>
+          <l><space rend="indent2"/>Tyl sche delyveryd be.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>But into chaumbyr they gunne wende,<note type="gloss-indicator"
+              n="163">G</note><space rend="indent1"/><gloss n="163">began to go</gloss></l>
+          <l><space rend="indent1"/>To rede the lettrys before that hende<note
+              type="gloss-indicator" n="164">G</note><space rend="indent1"/><gloss n="164">courteous
+              lady</gloss></l>
+          <l><milestone n="225" unit="line"/><space rend="indent2"/>And tydingys tolde here
+            soone.</l>
+          <l><space rend="indent1"/>Thanne sayde the cuntasse, “So moot I the,<note
+              type="gloss-indicator" n="165">G</note><space rend="indent1"/><gloss n="165"
+              >thrive</gloss></l>
+          <l><space rend="indent1"/>I wil nought lette<note type="gloss-indicator" n="166">G</note>
+            tyl I there be,<space rend="indent2"/><gloss n="166">stop</gloss></l>
+          <l><space rend="indent2"/>Tomorwen or<note type="gloss-indicator" n="167">G</note> it be
+              noone.<space rend="indent2"/><gloss n="167">before</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>To see hem knyghtes, my sones fre,<note type="gloss-indicator"
+              n="168">G</note><space rend="indent1"/><gloss n="168">noble</gloss></l>
+          <l><milestone n="230" unit="line"/><space rend="indent1"/>I wole nought lette tyl I there
+            be;</l>
+          <l><space rend="indent2"/>I schal no lengere dwelle.<note type="gloss-indicator" n="169"
+              >G</note><space rend="indent2"/><gloss n="169">delay</gloss></l>
+          <l><space rend="indent1"/><persName>Cryst</persName> foryelde<note type="gloss-indicator"
+              n="170">G</note> my lord the kyng,<space rend="indent2"/><gloss n="170"
+              >requite</gloss></l>
+          <l><space rend="indent1"/>That has grauntyd hem here dubbyng.<note type="gloss-indicator"
+              n="171">G</note><space rend="indent1"/><gloss n="171">their dubbing</gloss></l>
+          <l><space rend="indent2"/>Myn herte is gladyd welle.”</l>
+        </lg>
+        <lg>
+          <l><milestone n="235" unit="line"/><space rend="indent1"/>The eerl hys men bad make hem
+              yare;<note type="gloss-indicator" n="172">G</note><space rend="indent1"/><gloss
+              n="172">ready</gloss></l>
+          <l><space rend="indent1"/>He and hys wyff forth gunne they fare,<note
+              type="gloss-indicator" n="173">G</note><space rend="indent1"/><gloss n="173">began to
+              go</gloss></l>
+          <l><space rend="indent2"/>To <placeName>London</placeName> faste they wente.</l>
+          <l><space rend="indent1"/>At <placeName>Westemynstyr</placeName><note
+              type="enote-indicator" n="29">N</note> was the kyngys wone;<note
+              type="gloss-indicator" n="174">G</note><space rend="indent1"/><gloss n="174"
+              >dwelling</gloss></l>
+          <l><space rend="indent1"/>There they mette with <persName>Athelstone</persName>,</l>
+          <l><milestone n="240" unit="line"/><space rend="indent2"/>That<note type="gloss-indicator"
+              n="175">G</note> afftyr hem hadde sente.<space rend="indent2"/><gloss n="175"
+              >Who</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The goode eerl soone was hent<note type="gloss-indicator"
+              n="176">G</note><space rend="indent2"/><gloss n="176">seized</gloss></l>
+          <l><space rend="indent1"/>And feteryd<note type="gloss-indicator" n="177">G</note> faste,
+              verrayment,<note type="gloss-indicator" n="178">G</note><space rend="indent2"/><gloss
+              n="177">chained</gloss><gloss n="178"> truly</gloss></l>
+          <l><space rend="indent2"/>And hys sones twoo.</l>
+          <l><space rend="indent1"/>Ful lowde the countasse gan to crye,</l>
+          <l><milestone n="245" unit="line"/><space rend="indent1"/>And sayde, “Goode brothir,
+            mercy!</l>
+          <l><space rend="indent2"/>Why wole ye us sloo?<note type="gloss-indicator" n="179"
+              >G</note><space rend="indent2"/><gloss n="179">slay</gloss></l>
+          <l><space rend="indent1"/>What have we ayens<note type="gloss-indicator" n="180">G</note>
+            yow done,<space rend="indent2"/><gloss n="180">against</gloss></l>
+          <l><space rend="indent1"/>That ye wole have us ded so soone?</l>
+          <l><space rend="indent2"/>Me thynkith ye arn ourn foo.”<note type="gloss-indicator"
+              n="181">G</note><space rend="indent2"/><gloss n="181">enemy</gloss></l>
+          <l><milestone n="250" unit="line"/><space rend="indent1"/>The kyng as wood ferde<note
+              type="gloss-indicator" n="182">G</note> in that stede;<note type="gloss-indicator"
+              n="183">G</note><space rend="indent1"/><gloss n="182">insane behaved</gloss><gloss
+              n="183"> place</gloss></l>
+          <l><space rend="indent1"/>He garte<note type="gloss-indicator" n="184">G</note> hys sustyr
+            to presoun lede —<space rend="indent1"/><gloss n="184">ordered</gloss></l>
+          <l><space rend="indent2"/>In herte he was ful woo.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Thenne a squyer, was the countasses frende,<note
+              type="gloss-indicator" n="185">G</note><space rend="indent1"/><gloss n="185"
+              >friend</gloss></l>
+          <l><space rend="indent1"/>To the qwene he gan wende,<note type="gloss-indicator" n="186"
+              >G</note><space rend="indent2"/><gloss n="186">did go</gloss></l>
+          <l><milestone n="255" unit="line"/><space rend="indent2"/>And tydyngys tolde here
+            soone.</l>
+          <l><space rend="indent1"/>Gerlondes of chyryes<note type="enote-indicator" n="30">N</note>
+            <note type="gloss-indicator" n="187">G</note> off<note type="gloss-indicator" n="188"
+              >G</note> sche caste,<space rend="indent1"/><gloss n="187">Garlands of
+              cherries</gloss><gloss n="188"> off</gloss></l>
+          <l><space rend="indent1"/>Into the halle sche come at the laste,</l>
+          <l><space rend="indent2"/>Longe or<note type="gloss-indicator" n="189">G</note> it were
+              noone.<space rend="indent2"/><gloss n="189">before</gloss></l>
+          <l><space rend="indent1"/>“Sere kyng, I am before thee come</l>
+          <l><milestone n="260" unit="line"/><space rend="indent1"/>With a child, doughtyr or a
+            sone.</l>
+          <l><space rend="indent2"/>Graunte me my bone,<note type="gloss-indicator" n="190"
+              >G</note><space rend="indent2"/><gloss n="190">request</gloss></l>
+          <l><space rend="indent1"/>My brothir and sustyr that I may borwe<note
+              type="gloss-indicator" n="191">G</note><space rend="indent1"/><gloss n="191">act as
+              surety for</gloss></l>
+          <l><space rend="indent1"/>Tyl the nexte day at morwe,</l>
+          <l><space rend="indent2"/>Out of here paynys<note type="gloss-indicator" n="192">G</note>
+              stronge;<space rend="indent2"/><gloss n="192">pain</gloss></l>
+        </lg>
+        <lg>
+          <l><milestone n="265" unit="line"/><space rend="indent1"/>That we mowe wete by comoun
+              sent<note type="gloss-indicator" n="193">G</note><space rend="indent1"/><gloss n="193"
+              >might know by unanimous assent</gloss></l>
+          <l><space rend="indent1"/>In the playne parlement.”<note type="tnote-indicator" n="5"
+              >T</note>
+          </l>
+          <l><space rend="indent2"/>“Dame,” he saide, “goo fro me!</l>
+          <l><space rend="indent1"/>Thy bone<note type="gloss-indicator" n="194">G</note> shall
+            nought igraunted be,<space rend="indent1"/><gloss n="194">request (boon)</gloss></l>
+          <l><space rend="indent1"/>I doo thee to undyrstande.</l>
+          <l><milestone n="270" unit="line"/><space rend="indent2"/>For, be<note
+              type="gloss-indicator" n="195">G</note> Hym that weres<note type="gloss-indicator"
+              n="196">G</note> the corowne of thorn,<space rend="indent1"/><gloss n="195"
+              >by</gloss><gloss n="196"> wears</gloss></l>
+          <l><space rend="indent1"/>They schole be drawen and hangyd tomorn,</l>
+          <l><space rend="indent2"/>Yyff I be kyng of lande!”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>And whenne the qwene these wurdes herde,</l>
+          <l><space rend="indent1"/>As sche hadde be<note type="gloss-indicator" n="197">G</note>
+            beten with yerde,<note type="gloss-indicator" n="198">G</note><space rend="indent1"
+              /><gloss n="197">been</gloss><gloss n="198"> stick</gloss></l>
+          <l><milestone n="275" unit="line"/><space rend="indent2"/>The teeres sche leet<note
+              type="gloss-indicator" n="199">G</note> doun falle.<space rend="indent1"/><gloss
+              n="199">let</gloss></l>
+          <l><space rend="indent1"/>Sertaynly, as I yow telle,</l>
+          <l><space rend="indent1"/>On here bare knees doun she felle,</l>
+          <l><space rend="indent2"/>And prayde yit for hem alle.</l>
+          <l><space rend="indent1"/>“A, dame,” he sayde, “verrayment<note type="gloss-indicator"
+              n="200">G</note><space rend="indent2"/><gloss n="200">truly</gloss></l>
+          <l><milestone n="280" unit="line"/><space rend="indent1"/>Hast thou broke<note
+              type="gloss-indicator" n="201">G</note> my comaundement<space rend="indent1"/><gloss
+              n="201">[If] you have broken</gloss></l>
+          <l><space rend="indent2"/>Abyyd<note type="enote-indicator" n="31">N</note>
+            <note type="gloss-indicator" n="202">G</note> ful dere thou schalle.”<space
+              rend="indent1"/><gloss n="202">Pay for</gloss></l>
+          <l><space rend="indent1"/>With hys foot — he wolde nought wonde<note
+              type="gloss-indicator" n="203">G</note> —<space rend="indent1"/><gloss n="203"
+              >refrain</gloss></l>
+          <l><space rend="indent1"/>He slowgh<note type="gloss-indicator" n="204">G</note> the chyld
+            ryght in here<note type="gloss-indicator" n="205">G</note> wombe;<note
+              type="enote-indicator" n="32">N</note>
+            <space rend="indent1"/><gloss n="204">slew</gloss><gloss n="205"> her</gloss></l>
+          <l><space rend="indent2"/>She swownyd<note type="gloss-indicator" n="206">G</note> amonges
+            hem alle.<space rend="indent1"/><gloss n="206">swooned</gloss></l>
+        </lg>
+        <lg>
+          <l><milestone n="285" unit="line"/><space rend="indent1"/>Ladyys and maydenys that there
+            were,</l>
+          <l><space rend="indent1"/>The qwene to here chaumbyr bere,<note type="gloss-indicator"
+              n="207">G</note><space rend="indent1"/><gloss n="207">bore</gloss></l>
+          <l><space rend="indent2"/>And there was dool inowgh.<note type="gloss-indicator" n="208"
+              >G</note><space rend="indent2"/><gloss n="208">dole (sorrow) enough</gloss></l>
+          <l><space rend="indent1"/>Soone withinne a lytyl spase<note type="gloss-indicator" n="209"
+              >G</note><space rend="indent2"/><gloss n="209">space of time</gloss></l>
+          <l><space rend="indent1"/>A knave-chyld iborn<note type="gloss-indicator" n="210">G</note>
+            ther wase,<note type="enote-indicator" n="33">N</note>
+            <space rend="indent2"/><gloss n="210">miscarried</gloss></l>
+          <l><milestone n="290" unit="line"/><space rend="indent2"/>As bryght as blosme on
+            bowgh.</l>
+          <l><space rend="indent1"/>He was bothe whyt and red;<note type="enote-indicator" n="34"
+              >N</note>
+          </l>
+          <l><space rend="indent1"/>Of that dynt<note type="gloss-indicator" n="211">G</note> was he
+              ded<note type="gloss-indicator" n="212">G</note> —<space rend="indent2"/><gloss
+              n="211">From that blow</gloss><gloss n="212"> dead</gloss></l>
+          <l><space rend="indent2"/>His owne fadyr hym slowgh!<note type="gloss-indicator" n="213"
+              >G</note><space rend="indent2"/><gloss n="213">slew</gloss></l>
+          <l><space rend="indent1"/>Thus may a traytour baret<note type="enote-indicator" n="35"
+              >N</note> rayse<note type="gloss-indicator" n="214">G</note><space rend="indent2"
+              /><gloss n="214">strife raise</gloss></l>
+          <l><milestone n="295" unit="line"/><space rend="indent1"/>And make manye men ful evele at
+              ayse,<note type="gloss-indicator" n="215">G</note><space rend="indent1"/><gloss
+              n="215">ill at ease</gloss></l>
+          <l><space rend="indent2"/>Hymselff nought afftyr<note type="gloss-indicator" n="216"
+              >G</note> it lowgh.<note type="enote-indicator" n="36">N</note>
+            <note type="gloss-indicator" n="217">G</note><space rend="indent1"/><gloss n="216"
+              >after</gloss><gloss n="217"> laughed</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>But yit the qwene, as ye schole here,</l>
+          <l><space rend="indent1"/>Sche callyd upon a messangere,</l>
+          <l><space rend="indent2"/>Bad hym a lettre fonge.<note type="gloss-indicator" n="218"
+              >G</note><space rend="indent2"/><gloss n="218">take</gloss></l>
+          <l><milestone n="300" unit="line"/><space rend="indent1"/>And bad hym wende<note
+              type="gloss-indicator" n="219">G</note> to <placeName>Cauntyrbery</placeName>,<space
+              rend="indent1"/><gloss n="219">go</gloss></l>
+          <l><space rend="indent1"/>There<note type="gloss-indicator" n="220">G</note> the clerkys
+            syngen mery<space rend="indent2"/><gloss n="220">Where</gloss></l>
+          <l><space rend="indent2"/>Bothe masse and evensonge.</l>
+          <l><space rend="indent1"/>“This lettre thou the bysschop take,</l>
+          <l><space rend="indent1"/>And praye hym for <persName>Goddys</persName> sake,</l>
+          <l><milestone n="305" unit="line"/><space rend="indent2"/>Come borewe<note
+              type="gloss-indicator" n="221">G</note> hem out off here bande.<note
+              type="gloss-indicator" n="222">G</note><space rend="indent1"/><gloss n="221"
+              >rescue</gloss><gloss n="222"> bonds</gloss></l>
+          <l><space rend="indent1"/>He wole doo more for hym, I wene,<note type="gloss-indicator"
+              n="223">G</note><space rend="indent1"/><gloss n="223">believe</gloss></l>
+          <l><space rend="indent1"/>Thanne for me, though I be qwene —</l>
+          <l><space rend="indent2"/>I doo thee to undyrstande.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>An eerldom in <placeName>Spayne</placeName><note
+              type="enote-indicator" n="37">N</note> I have of land;</l>
+          <l><milestone n="310" unit="line"/><space rend="indent1"/>Al I sese<note
+              type="gloss-indicator" n="224">G</note> into thyn hand,<space rend="indent3"/><gloss
+              n="224">give as a possession</gloss></l>
+          <l><space rend="indent2"/>Trewely, as I thee hyght,<note type="gloss-indicator" n="225"
+              >G</note><space rend="indent2"/><gloss n="225">promise</gloss></l>
+          <l><space rend="indent1"/>And hundryd besauntys<note type="enote-indicator" n="38"
+              >N</note>
+            <note type="gloss-indicator" n="226">G</note> of gold red.<space rend="indent1"/><gloss
+              n="226">besant (a coin)</gloss></l>
+          <l><space rend="indent1"/>Thou may save hem from the ded,<note type="gloss-indicator"
+              n="227">G</note><space rend="indent2"/><gloss n="227">death</gloss></l>
+          <l><space rend="indent2"/>Yyff that thyn hors be wyght.”<note type="gloss-indicator"
+              n="228">G</note><space rend="indent2"/><gloss n="228">valiant</gloss></l>
+          <l><milestone n="315" unit="line"/><space rend="indent1"/>“Madame, brouke<note
+              type="gloss-indicator" n="229">G</note> weel thy moregeve,<note type="enote-indicator"
+              n="39">N</note>
+            <note type="gloss-indicator" n="230">G</note><space rend="indent1"/><gloss n="229"
+              >use</gloss><gloss n="230"> morning gift</gloss></l>
+          <l><space rend="indent1"/>Also longe as thou may leve.<note type="gloss-indicator" n="231"
+              >G</note><space rend="indent2"/><gloss n="231">live</gloss></l>
+          <l><space rend="indent2"/>Therto have I no ryght.</l>
+          <l><space rend="indent1"/>But of thy gold and of thy fee,<note type="gloss-indicator"
+              n="232">G</note><space rend="indent2"/><gloss n="232">property</gloss></l>
+          <l><space rend="indent1"/><persName>Cryst</persName> in <placeName>hevene</placeName>
+              foryelde<note type="gloss-indicator" n="233">G</note> it thee;<space rend="indent2"
+              /><gloss n="233">reward</gloss></l>
+          <l><milestone n="320" unit="line"/><space rend="indent2"/>I wole be there tonyght.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Madame, thrytty myles<note type="gloss-indicator" n="234"
+              >G</note> of hard way<space rend="indent1"/><gloss n="234">thirty miles</gloss></l>
+          <l><space rend="indent1"/>I have reden syth<note type="gloss-indicator" n="235">G</note>
+            it was day.<space rend="indent2"/><gloss n="235">since</gloss></l>
+          <l><space rend="indent2"/>Ful sore I gan me swynke;<note type="gloss-indicator" n="236"
+              >G</note><space rend="indent2"/><gloss n="236">work</gloss></l>
+          <l><space rend="indent1"/>And for to ryde now fyve and twenti thertoo<note
+              type="enote-indicator" n="40">N</note>
+          </l>
+          <l><milestone n="325" unit="line"/><space rend="indent1"/>An hard thyng it were to
+            doo,</l>
+          <l><space rend="indent2"/>Forsothe, ryght as me thynke.</l>
+          <l><space rend="indent1"/>Madame, it is nerhande passyd prime,<note type="gloss-indicator"
+              n="237">G</note><space rend="indent1"/><gloss n="237">nearly past six a.m.</gloss></l>
+          <l><space rend="indent1"/>And me behoves al for to dyne,</l>
+          <l><space rend="indent2"/>Bothe wyn and ale to drynke.</l>
+          <l><milestone n="330" unit="line"/><space rend="indent1"/>Whenne I have dynyd, thenne wole
+            I fare.<note type="enote-indicator" n="41">N</note>
+          </l>
+          <l><space rend="indent1"/><persName>God</persName> may covere<note type="gloss-indicator"
+              n="238">G</note> hem of here<note type="gloss-indicator" n="239">G</note> care,<space
+              rend="indent1"/><gloss n="238">relieve</gloss><gloss n="239"> their</gloss></l>
+          <l><space rend="indent2"/>Or<note type="gloss-indicator" n="240">G</note> that I slepe a
+              wynke.”<space rend="indent2"/><gloss n="240">Before</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Whenne he hadde dynyd, he wente his way,</l>
+          <l><space rend="indent1"/>Also faste as that he may,</l>
+          <l><milestone n="335" unit="line"/><space rend="indent2"/>He rod be
+              <placeName>Charynge-cross</placeName><note type="enote-indicator" n="42">N</note>
+            <note type="gloss-indicator" n="241">G</note><space rend="indent2"/><gloss n="241"
+              >Charing Cross</gloss></l>
+          <l><space rend="indent1"/>And entryd into <placeName>Flete-strete</placeName><note
+              type="enote-indicator" n="43">N</note>
+            <note type="gloss-indicator" n="242">G</note><space rend="indent2"/><gloss n="242">Fleet
+              Street</gloss></l>
+          <l><space rend="indent1"/>And sithen thorwgh <placeName>Londone</placeName>, I yow
+              hete,<note type="gloss-indicator" n="243">G</note><space rend="indent1"/><gloss
+              n="243">promise</gloss></l>
+          <l><space rend="indent2"/>Upon a noble hors.</l>
+          <l><space rend="indent1"/>The messanger, that noble man,</l>
+          <l><milestone n="340" unit="line"/><space rend="indent1"/>On
+              <placeName>Loundone-brygge</placeName><note type="enote-indicator" n="44">N</note>
+            <note type="gloss-indicator" n="244">G</note> sone he wan<note type="gloss-indicator"
+              n="245">G</note> —<space rend="indent1"/><gloss n="244">London bridge</gloss><gloss
+              n="245"> reached</gloss></l>
+          <l><space rend="indent2"/>For his travayle<note type="gloss-indicator" n="246">G</note> he
+            hadde no los<note type="enote-indicator" n="45">N</note>
+            <note type="gloss-indicator" n="247">G</note> —<space rend="indent1"/><gloss n="246"
+              >work</gloss><gloss n="247"> praise (fame)</gloss></l>
+          <l><space rend="indent1"/>From <placeName>Stone</placeName> into
+              <placeName>Steppyngebourne</placeName>,<note type="enote-indicator" n="46">N</note>
+          </l>
+          <l><space rend="indent1"/>Forsothe, his way nolde he nought tourne;<note
+              type="gloss-indicator" n="248">G</note><space rend="indent1"/><gloss n="248">not
+              alter</gloss></l>
+          <l><space rend="indent2"/>Sparyd he nought for myre ne mos.<note type="tnote-indicator"
+              n="6">T</note>
+            <note type="gloss-indicator" n="249">G</note><space rend="indent1"/><gloss n="249">mud
+              nor bog</gloss></l>
+        </lg>
+        <lg>
+          <l><milestone n="345" unit="line"/><space rend="indent1"/>And thus hys way wendes he</l>
+          <l><space rend="indent1"/>Fro <placeName>Osprynge</placeName> to the
+              <placeName>Blee</placeName>.<note type="enote-indicator" n="47">N</note>
+          </l>
+          <l><space rend="indent2"/>Thenne myghte he see the toun</l>
+          <l><space rend="indent1"/>Of <placeName>Cauntyrbery</placeName>, that noble wyke,<note
+              type="gloss-indicator" n="250">G</note><space rend="indent2"/><gloss n="250"
+              >place</gloss></l>
+          <l><space rend="indent1"/>Therin lay that bysschop ryke,<note type="enote-indicator"
+              n="48">N</note>
+            <note type="gloss-indicator" n="251">G</note><space rend="indent2"/><gloss n="251"
+              >powerful</gloss></l>
+          <l><milestone n="350" unit="line"/><space rend="indent2"/>That lord of gret renoun.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>And whenne they runggen undernbelle,<note type="gloss-indicator"
+              n="252">G</note><space rend="indent1"/><gloss n="252">morning bell</gloss></l>
+          <l><space rend="indent1"/>He rod in <placeName>Londone</placeName>, as I yow telle:</l>
+          <l><space rend="indent2"/>He was non er<note type="gloss-indicator" n="253">G</note>
+              redy;<space rend="indent3"/><gloss n="253">earlier</gloss></l>
+          <l><space rend="indent1"/>And yit to <placeName>Cauntyrbery</placeName> he wan,<note
+              type="gloss-indicator" n="254">G</note><space rend="indent2"/><gloss n="254"
+              >reached</gloss></l>
+          <l><milestone n="355" unit="line"/><space rend="indent1"/>Longe or evensong<note
+              type="gloss-indicator" n="255">G</note> began;<space rend="indent2"/><gloss n="255"
+              >before six p.m.</gloss></l>
+          <l><space rend="indent2"/>He rod mylys fyffty.<note type="gloss-indicator" n="256"
+              >G</note><space rend="indent3"/><gloss n="256">fifty miles</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The messanger nothing abod;<note type="gloss-indicator" n="257"
+              >G</note><space rend="indent2"/><gloss n="257">delayed</gloss></l>
+          <l><space rend="indent1"/>Into the palays forth he rod,</l>
+          <l><space rend="indent2"/>There that the bysschop was inne.</l>
+          <l><milestone n="360" unit="line"/><space rend="indent1"/>Ryght welcome was the
+            messanger,</l>
+          <l><space rend="indent1"/>That was come from the qwene so cleer,<note
+              type="gloss-indicator" n="258">G</note><space rend="indent1"/><gloss n="258"
+              >radiant</gloss></l>
+          <l><space rend="indent2"/>Was of so noble kynne.</l>
+          <l><space rend="indent1"/>He took hym a lettre ful<note type="gloss-indicator" n="259"
+              >G</note> good speed<space rend="indent1"/><gloss n="259">such</gloss></l>
+          <l><space rend="indent1"/>And saide, “Sere bysschop, have<note type="gloss-indicator"
+              n="260">G</note> this and reed,”<note type="enote-indicator" n="49">N</note>
+            <note type="gloss-indicator" n="261">G</note><space rend="indent1"/><gloss n="260"
+              >take</gloss><gloss n="261"> read</gloss></l>
+          <l><milestone n="365" unit="line"/><space rend="indent2"/>And bad hym come with hym.</l>
+          <l><space rend="indent1"/>Or<note type="gloss-indicator" n="262">G</note> he the lettre
+            hadde halff iredde,<note type="gloss-indicator" n="263">G</note><space rend="indent1"
+              /><gloss n="262">Before</gloss><gloss n="263"> read</gloss></l>
+          <l><space rend="indent1"/>For dool,<note type="gloss-indicator" n="264">G</note> hym
+            thoughte hys herte bledde;<space rend="indent1"/><gloss n="264">sorrow</gloss></l>
+          <l><space rend="indent2"/>The teeres fyl ovyr hys chyn.<note type="gloss-indicator"
+              n="265">G</note><space rend="indent2"/><gloss n="265">chin</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The bysschop bad sadele hys palfray:<note type="enote-indicator"
+              n="50">N</note>
+          </l>
+          <l><milestone n="370" unit="line"/><space rend="indent1"/>“Also<note
+              type="gloss-indicator" n="266">G</note> faste as thay may,<space rend="indent3"
+              /><gloss n="266">As</gloss></l>
+          <l><space rend="indent2"/>Bydde my men make hem yare;<note type="gloss-indicator" n="267"
+              >G</note><space rend="indent1"/><gloss n="267">themselves ready</gloss></l>
+          <l><space rend="indent1"/>And wendes before,”<note type="gloss-indicator" n="268">G</note>
+            the bysschop dede say,<space rend="indent1"/><gloss n="268">go before</gloss></l>
+          <l><space rend="indent1"/>“To my maneres<note type="gloss-indicator" n="269">G</note> in
+            the way;<space rend="indent2"/><gloss n="269">manors</gloss></l>
+          <l><space rend="indent2"/>For nothyng that ye spare,</l>
+          <l><milestone n="375" unit="line"/><space rend="indent1"/>And loke at ylke<note
+              type="gloss-indicator" n="270">G</note> fyve mylys ende<space rend="indent2"/><gloss
+              n="270">each</gloss></l>
+          <l><space rend="indent1"/>A fresch hors that I fynde,</l>
+          <l><space rend="indent2"/>Schod<note type="gloss-indicator" n="271">G</note> and nothing
+              bare;<space rend="indent2"/><gloss n="271">Shod</gloss></l>
+          <l><space rend="indent1"/>Blythe schal I nevere be,</l>
+          <l><space rend="indent1"/>Tyl I my weddyd brother see,</l>
+          <l><milestone n="380" unit="line"/><space rend="indent2"/>To kevere<note
+              type="gloss-indicator" n="272">G</note> hym out of care.”<space rend="indent2"/><gloss
+              n="272">recover</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>On nyne<note type="gloss-indicator" n="273">G</note> palfrays
+            the bysschop sprong,<space rend="indent1"/><gloss n="273">nine</gloss></l>
+          <l><space rend="indent1"/>Ar<note type="gloss-indicator" n="274">G</note> it was day, from
+            evensong —<space rend="indent2"/><gloss n="274">Before</gloss></l>
+          <l><space rend="indent2"/>In romaunce as we rede.</l>
+          <l><space rend="indent1"/>Sertaynly, as I yow telle,</l>
+          <l><milestone n="385" unit="line"/><space rend="indent1"/>On
+              <placeName>Londone-brygge</placeName> ded<note type="gloss-indicator" n="275">G</note>
+            doun felle<space rend="indent1"/><gloss n="275">dead</gloss></l>
+          <l><space rend="indent2"/>The messangeres stede.<note type="gloss-indicator" n="276"
+              >G</note><space rend="indent2"/><gloss n="276">messenger’s horse</gloss></l>
+          <l><space rend="indent1"/>“Allas,” he sayde, “that I was born!</l>
+          <l><space rend="indent1"/>Now is my goode hors forlorn,<note type="gloss-indicator"
+              n="277">G</note><space rend="indent2"/><gloss n="277">utterly lost</gloss></l>
+          <l><space rend="indent2"/>Was good at ylke a nede;<note type="gloss-indicator" n="278"
+              >G</note><space rend="indent2"/><gloss n="278">at each need</gloss></l>
+          <l><milestone n="390" unit="line"/><space rend="indent1"/>Yistyrday upon the grounde,</l>
+          <l><space rend="indent1"/>He was wurth an hundryd pounde,<note type="enote-indicator"
+              n="51">N</note>
+          </l>
+          <l><space rend="indent2"/>Ony kyng to lede.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Thenne bespak the erchebysschop.<note type="gloss-indicator"
+              n="279">G</note><space rend="indent1"/><gloss n="279">archbishop</gloss></l>
+          <l><space rend="indent1"/>Oure gostly<note type="gloss-indicator" n="280">G</note> fadyr
+            undyr <persName>God</persName>,<note type="enote-indicator" n="52">N</note>
+            <space rend="indent2"/><gloss n="280">spiritual</gloss></l>
+          <l><milestone n="395" unit="line"/><space rend="indent2"/>Unto the messangere:</l>
+          <l><space rend="indent1"/>“Lat be thy menyng<note type="gloss-indicator" n="281">G</note>
+            of thy stede,<note type="gloss-indicator" n="282">G</note><space rend="indent2"/><gloss
+              n="281">Desist your lamenting</gloss><gloss n="282"> horse</gloss></l>
+          <l><space rend="indent1"/>And thynk upon oure mykyl nede,<note type="gloss-indicator"
+              n="283">G</note><space rend="indent1"/><gloss n="283">great need</gloss></l>
+          <l><space rend="indent2"/>The whylys that we ben here;</l>
+          <l><space rend="indent1"/>For yiff that I may my brother borwe<note type="gloss-indicator"
+              n="284">G</note><space rend="indent1"/><gloss n="284">save</gloss></l>
+          <l><milestone n="400" unit="line"/><space rend="indent1"/>And bryngen hym out off
+              mekyl<note type="gloss-indicator" n="285">G</note> sorwe,<space rend="indent1"/><gloss
+              n="285">great</gloss></l>
+          <l><space rend="indent2"/>Thou may make glad chere;</l>
+          <l><space rend="indent1"/>And thy warysoun<note type="gloss-indicator" n="286">G</note> I
+            schal thee geve,<space rend="indent1"/><gloss n="286">reward</gloss></l>
+          <l><space rend="indent1"/>And<note type="gloss-indicator" n="287">G</note>
+            <persName>God</persName> have grauntyd thee to leve<space rend="indent1"/><gloss n="287"
+              >Even if</gloss></l>
+          <l><space rend="indent2"/>Unto an hundryd yere.”<note type="enote-indicator" n="53"
+              >N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><milestone n="405" unit="line"/><space rend="indent1"/>The bysschop thenne nought ne
+              bod:<note type="gloss-indicator" n="288">G</note><space rend="indent1"/><gloss n="288"
+              >remained no longer</gloss></l>
+          <l><space rend="indent1"/>He took hys hors, and forth he rod</l>
+          <l><space rend="indent2"/>Into <placeName>Westemynstyr</placeName> so lyght;<note
+              type="enote-indicator" n="54">N</note>
+            <note type="gloss-indicator" n="289">G</note><space rend="indent2"/><gloss n="289"
+              >nimbly</gloss></l>
+          <l><space rend="indent1"/>The messanger on his foot alsoo:</l>
+          <l><space rend="indent1"/>With the bysschop come no moo,<note type="gloss-indicator"
+              n="290">G</note><space rend="indent2"/><gloss n="290">no others</gloss></l>
+          <l><milestone n="410" unit="line"/><space rend="indent2"/>Nether squyer ne knyght.</l>
+          <l><space rend="indent1"/>Upon the morwen the kyng aros,</l>
+          <l><space rend="indent1"/>And takes the way, to the kyrke<note type="enote-indicator"
+              n="55">N</note>
+            <note type="gloss-indicator" n="291">G</note> he gos,<space rend="indent1"/><gloss
+              n="291">church</gloss></l>
+          <l><space rend="indent2"/>As man of mekyl myght.</l>
+          <l><space rend="indent1"/>With hym wente bothe preest and clerk,</l>
+          <l><milestone n="415" unit="line"/><space rend="indent1"/>That mykyl cowde<note
+              type="gloss-indicator" n="292">G</note> of <persName>Goddys</persName> werk,<space
+              rend="indent1"/><gloss n="292">Who knew much</gloss></l>
+          <l><space rend="indent2"/>To praye <persName>God</persName> for the ryght.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Whenne that he to the kyrke com;</l>
+          <l><space rend="indent1"/>Tofore the Rode<note type="gloss-indicator" n="293">G</note> he
+            knelyd anon,<space rend="indent2"/><gloss n="293">Cross</gloss></l>
+          <l><space rend="indent2"/>And on hys knees he felle:</l>
+          <l><milestone n="420" unit="line"/><space rend="indent1"/>“<persName>God</persName>, that
+            syt in Trynyté</l>
+          <l><space rend="indent1"/>A bone<note type="gloss-indicator" n="294">G</note> that thou
+            graunte me,<space rend="indent2"/><gloss n="294">boon (i.e., favor)</gloss></l>
+          <l><space rend="indent2"/>Lord, as Thou harewyd<note type="gloss-indicator" n="295"
+              >G</note>
+            <placeName>helle</placeName> —<space rend="indent1"/><gloss n="295">harrowed</gloss></l>
+          <l><space rend="indent1"/>Gyltless<note type="gloss-indicator" n="296">G</note> men yiff
+              thay<note type="gloss-indicator" n="297">G</note> be,<note type="tnote-indicator"
+              n="7">T</note>
+            <space rend="indent2"/><gloss n="296">Guiltless</gloss><gloss n="297"> if
+            they</gloss></l>
+          <l><space rend="indent1"/>That are in my presoun free,<note type="enote-indicator" n="56"
+              >N</note>
+          </l>
+          <l><milestone n="425" unit="line"/><space rend="indent2"/>Forcursyd<note
+              type="gloss-indicator" n="298">G</note> there to yelle,<note type="gloss-indicator"
+              n="299">G</note><space rend="indent2"/><gloss n="298">Condemned</gloss><gloss n="299">
+              shriek</gloss></l>
+          <l><space rend="indent1"/>Of the gylt and<note type="gloss-indicator" n="300">G</note>
+            thay be clene,<note type="gloss-indicator" n="301">G</note><space rend="indent2"/><gloss
+              n="300">if</gloss><gloss n="301"> innocent</gloss></l>
+          <l><space rend="indent1"/>Leve<note type="gloss-indicator" n="302">G</note> it moot on hem
+            be sene,<note type="gloss-indicator" n="303">G</note><space rend="indent2"/><gloss
+              n="302">Grant</gloss><gloss n="303"> seen [by them]</gloss></l>
+          <l><space rend="indent2"/>That garte hem there to dwelle.”<note type="gloss-indicator"
+              n="304">G</note><space rend="indent1"/><gloss n="304">Who made them to dwell
+              there</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>And whenne he hadde maad his prayer,</l>
+          <l><milestone n="430" unit="line"/><space rend="indent1"/>He lokyd up into the qweer;<note
+              type="gloss-indicator" n="305">G</note><space rend="indent2"/><gloss n="305"
+              >choir</gloss></l>
+          <l><space rend="indent2"/>The erchebysschop sawgh he stande.</l>
+          <l><space rend="indent1"/>He was forwondryd of<note type="gloss-indicator" n="306"
+              >G</note> that caas,<note type="gloss-indicator" n="307">G</note><space rend="indent2"
+              /><gloss n="306">astonished at</gloss><gloss n="307"> situation</gloss></l>
+          <l><space rend="indent1"/>And to hym he wente apas,<note type="gloss-indicator" n="308"
+              >G</note><space rend="indent2"/><gloss n="308">quickly</gloss></l>
+          <l><space rend="indent2"/>And took hym be<note type="gloss-indicator" n="309">G</note> the
+              hande.<note type="gloss-indicator" n="310">G</note><space rend="indent2"/><gloss
+              n="309">by</gloss><gloss n="310"> hand</gloss></l>
+          <l><milestone n="435" unit="line"/><space rend="indent1"/>“Welcome,” he sayde, “thou
+            erchebysschop,</l>
+          <l><space rend="indent1"/>Oure gostly<note type="gloss-indicator" n="311">G</note> fadyr
+            undyr <persName>God</persName>.”<space rend="indent2"/><gloss n="311"
+            >spiritual</gloss></l>
+          <l><space rend="indent2"/>He swoor be<note type="gloss-indicator" n="312">G</note>
+            <persName>God</persName> levande,<note type="enote-indicator" n="57">N</note>
+            <note type="gloss-indicator" n="313">G</note><space rend="indent2"/><gloss n="312"
+              >by</gloss><gloss n="313"> living</gloss></l>
+          <l><space rend="indent1"/>“Weddyd brother, weel moot thou spede,<note
+              type="gloss-indicator" n="314">G</note><space rend="indent1"/><gloss n="314"
+              >prosper</gloss></l>
+          <l><space rend="indent1"/>For I hadde nevere so mekyl nede,</l>
+          <l><milestone n="440" unit="line"/><space rend="indent2"/>Sith<note type="gloss-indicator"
+              n="315">G</note> I took cros on hande.<space rend="indent2"/><gloss n="315"
+              >Since</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Goode weddyd brother, now turne thy rede;<note
+              type="gloss-indicator" n="316">G</note><space rend="indent1"/><gloss n="316">change
+              your mind</gloss></l>
+          <l><space rend="indent1"/>Doo nought thyn owne blood to dede<note type="gloss-indicator"
+              n="317">G</note><space rend="indent1"/><gloss n="317">[cause] to die</gloss></l>
+          <l><space rend="indent2"/>But yiff<note type="gloss-indicator" n="318">G</note> it wurthy
+              were.<space rend="indent2"/><gloss n="318">Unless</gloss></l>
+          <l><space rend="indent1"/>For Hym that weres the corowne of thorn,</l>
+          <l><milestone n="445" unit="line"/><space rend="indent1"/>Lat me borwe<note
+              type="gloss-indicator" n="319">G</note> hem tyl tomorn,<space rend="indent2"/><gloss
+              n="319">be surety for</gloss></l>
+          <l><space rend="indent2"/>That we mowe enquere,<note type="gloss-indicator" n="320"
+              >G</note><space rend="indent2"/><gloss n="320">might have an inquiry</gloss></l>
+          <l><space rend="indent1"/>And weten<note type="gloss-indicator" n="321">G</note> alle be
+            comoun asent<note type="gloss-indicator" n="322">G</note><space rend="indent2"/><gloss
+              n="321">know</gloss><gloss n="322"> agreement</gloss></l>
+          <l><space rend="indent1"/>In the playne<note type="gloss-indicator" n="323">G</note>
+              parlement<note type="tnote-indicator" n="8">T</note>
+            <space rend="indent3"/><gloss n="323">full</gloss></l>
+          <l><space rend="indent2"/>Who is wurthy be schent.<note type="gloss-indicator" n="324"
+              >G</note><space rend="indent2"/><gloss n="324">punished</gloss></l>
+          <l><milestone n="450" unit="line"/><space rend="indent1"/>And, but yiff ye wole graunte my
+            bone,</l>
+          <l><space rend="indent1"/>It schal us rewe bothe<note type="gloss-indicator" n="325"
+              >G</note> or none,<note type="gloss-indicator" n="326">G</note><space rend="indent2"
+              /><gloss n="325">grieve us both</gloss><gloss n="326"> before noon</gloss></l>
+          <l><space rend="indent2"/>Be <persName>God</persName> that alle thyng lent.”<note
+              type="gloss-indicator" n="327">G</note><space rend="indent2"/><gloss n="327"
+              >gave</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Thanne the kyng wax wrothe<note type="gloss-indicator" n="328"
+              >G</note> as wynde,<note type="gloss-indicator" n="329">G</note><space rend="indent1"
+              /><gloss n="328">grew angry</gloss><gloss n="329"> wind</gloss></l>
+          <l><space rend="indent1"/>A wodere<note type="gloss-indicator" n="330">G</note> man myghte
+            no man fynde<space rend="indent1"/><gloss n="330">An angrier</gloss></l>
+          <l><milestone n="455" unit="line"/><space rend="indent2"/>Than he began to bee:</l>
+          <l><space rend="indent1"/>He swoor othis be<note type="gloss-indicator" n="331">G</note>
+            sunne and mone:<note type="enote-indicator" n="58">N</note>
+            <note type="gloss-indicator" n="332">G</note><space rend="indent1"/><gloss n="331">oaths
+              by</gloss><gloss n="332"> moon</gloss></l>
+          <l><space rend="indent1"/>“They scholen be drawen and hongyd or none<note
+              type="gloss-indicator" n="333">G</note> —<space rend="indent1"/><gloss n="333">before
+              noon</gloss></l>
+          <l><space rend="indent2"/>With eyen<note type="gloss-indicator" n="334">G</note> thou
+            schalt see!<space rend="indent2"/><gloss n="334">eyes</gloss></l>
+          <l><space rend="indent1"/>Lay doun thy cros and thy staff,</l>
+          <l><milestone n="460" unit="line"/><space rend="indent1"/>Thy mytyr<note
+              type="gloss-indicator" n="335">G</note> and thy ryng that I thee gaff;<note
+              type="enote-indicator" n="59">N</note>
+            <space rend="indent1"/><gloss n="335">mitre</gloss></l>
+          <l><space rend="indent2"/>Out of my land thou flee!</l>
+          <l><space rend="indent1"/>Hyghe<note type="gloss-indicator" n="336">G</note> thee faste
+            out of my syght!<space rend="indent2"/><gloss n="336">Get</gloss></l>
+          <l><space rend="indent1"/>Wher I thee mete, thy deth is dyght;<note type="gloss-indicator"
+              n="337">G</note><space rend="indent1"/><gloss n="337">decided</gloss></l>
+          <l><space rend="indent2"/>Non othir then schal it bee!”</l>
+        </lg>
+        <lg>
+          <l><milestone n="465" unit="line"/><space rend="indent1"/>Thenne bespak that
+              erchebysschop,<note type="enote-indicator" n="60">N</note>
+          </l>
+          <l><space rend="indent1"/>Oure gostly<note type="gloss-indicator" n="338">G</note> fadyr
+            undyr <persName>God</persName>,<space rend="indent2"/><gloss n="338"
+            >spiritual</gloss></l>
+          <l><space rend="indent2"/>Smertly<note type="gloss-indicator" n="339">G</note> to the
+              kyng:<space rend="indent3"/><gloss n="339">Sharply</gloss></l>
+          <l><space rend="indent1"/>“Weel I wot<note type="gloss-indicator" n="340">G</note> that
+            thou me gaff<space rend="indent2"/><gloss n="340">know</gloss></l>
+          <l><space rend="indent1"/>Bothe the cros and the staff,</l>
+          <l><milestone n="470" unit="line"/><space rend="indent2"/>The mytyr and eke<note
+              type="gloss-indicator" n="341">G</note> the ryng;<note type="enote-indicator" n="61"
+              >N</note>
+            <space rend="indent2"/><gloss n="341">also</gloss></l>
+          <l><space rend="indent1"/>My bysschopryche<note type="gloss-indicator" n="342">G</note>
+            thou reves<note type="gloss-indicator" n="343">G</note> me,<space rend="indent1"/><gloss
+              n="342">bishopric</gloss><gloss n="343"> deny</gloss></l>
+          <l><space rend="indent1"/>And Crystyndom forbede<note type="gloss-indicator" n="344"
+              >G</note> I thee!<note type="enote-indicator" n="62">N</note>
+            <space rend="indent1"/><gloss n="344">forbid</gloss></l>
+          <l><space rend="indent2"/>Preest schal ther non syngge;</l>
+          <l><space rend="indent1"/>Neyther maydynchyld<note type="gloss-indicator" n="345">G</note>
+            ne knave<note type="gloss-indicator" n="346">G</note><space rend="indent2"/><gloss
+              n="345">girl</gloss><gloss n="346"> boy</gloss></l>
+          <l><milestone n="475" unit="line"/><space rend="indent1"/>Crystyndom schal ther non
+            have;</l>
+          <l><space rend="indent2"/>To care I schal thee brynge.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>I schal gare crye<note type="gloss-indicator" n="347">G</note>
+            thorwgh ylke a toun<space rend="indent1"/><gloss n="347">proclaim</gloss></l>
+          <l><space rend="indent1"/>That kyrkys<note type="gloss-indicator" n="348">G</note> schole
+            be broken doun<space rend="indent1"/><gloss n="348">churches</gloss></l>
+          <l><space rend="indent2"/>And stoken<note type="gloss-indicator" n="349">G</note> agayn
+            with thorn.<space rend="indent2"/><gloss n="349">stuck</gloss></l>
+          <l><milestone n="480" unit="line"/><space rend="indent1"/>And thou shalt lygge<note
+              type="gloss-indicator" n="350">G</note> in an old dyke,<note type="enote-indicator"
+              n="63">N</note>
+            <note type="gloss-indicator" n="351">G</note><space rend="indent1"/><gloss n="350"
+              >lie</gloss><gloss n="351"> ditch</gloss></l>
+          <l><space rend="indent1"/>As it<note type="gloss-indicator" n="352">G</note> were an
+              heretyke,<note type="gloss-indicator" n="353">G</note><space rend="indent3"/><gloss
+              n="352">if you</gloss><gloss n="353"> heretic</gloss></l>
+          <l><space rend="indent2"/>Allas that thou were born!</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Yiff thou be ded, that I may see,</l>
+          <l><space rend="indent1"/>Assoylyd<note type="gloss-indicator" n="354">G</note> schalt
+            thou nevere bee;<space rend="indent2"/><gloss n="354">Absolved</gloss></l>
+          <l><milestone n="485" unit="line"/><space rend="indent2"/>Thanne is thy soule in
+            sorwe.</l>
+          <l><space rend="indent1"/>And I schal wende<note type="gloss-indicator" n="355">G</note>
+            in uncouthe<note type="gloss-indicator" n="356">G</note> lond,<space rend="indent1"
+              /><gloss n="355">go</gloss><gloss n="356"> unknown</gloss></l>
+          <l><space rend="indent1"/>And gete me stronge men of hond;</l>
+          <l><space rend="indent2"/>My brothir yit schal I borwe.<note type="gloss-indicator"
+              n="357">G</note><space rend="indent2"/><gloss n="357">save</gloss></l>
+          <l><space rend="indent1"/>I schal brynge upon thy lond</l>
+          <l><milestone n="490" unit="line"/><space rend="indent1"/>Hungyr and thyrst ful
+            strong,</l>
+          <l><space rend="indent2"/>Cold, drougthe, and sorwe;</l>
+          <l><space rend="indent1"/>I schal nought leve<note type="gloss-indicator" n="358">G</note>
+            on thy lond<space rend="indent2"/><gloss n="358">leave</gloss></l>
+          <l><space rend="indent1"/>Wurth<note type="gloss-indicator" n="359">G</note> the gloves on
+            thy hond<space rend="indent2"/><gloss n="359">Worth</gloss></l>
+          <l><space rend="indent2"/>To begge ne to borwe.”<note type="enote-indicator" n="64"
+              >N</note>
+          </l>
+        </lg>
+        <lg>
+          <l><milestone n="495" unit="line"/><space rend="indent1"/>The bysschop has his leve
+              tan.<note type="gloss-indicator" n="360">G</note><space rend="indent2"/><gloss n="360"
+              >leave taken</gloss></l>
+          <l><space rend="indent1"/>By that his men were comen ylkan:<note type="gloss-indicator"
+              n="361">G</note><space rend="indent1"/><gloss n="361">each one</gloss></l>
+          <l><space rend="indent2"/>They sayden, “Sere, have good day.”</l>
+          <l><space rend="indent1"/>He entryd into <placeName>Flete-strete</placeName>;</l>
+          <l><space rend="indent1"/>With lordys of <placeName>Yngelond</placeName> gan he mete</l>
+          <l><milestone n="500" unit="line"/><space rend="indent2"/>Upon a noble aray.</l>
+          <l><space rend="indent1"/>On here knees they kneleden adoun,</l>
+          <l><space rend="indent1"/>And prayden hym of hys benysoun,<note type="gloss-indicator"
+              n="362">G</note><space rend="indent1"/><gloss n="362">blessing</gloss></l>
+          <l><space rend="indent2"/>He nykkyd hem with nay.<note type="gloss-indicator" n="363"
+              >G</note><space rend="indent2"/><gloss n="363">refused them by saying no</gloss></l>
+          <l><space rend="indent1"/>Neyther of cros neyther of ryng</l>
+          <l><milestone n="505" unit="line"/><space rend="indent1"/>Hadde they non kyns wetyng;<note
+              type="gloss-indicator" n="364">G</note><space rend="indent2"/><gloss n="364">kind of
+              knowing</gloss></l>
+          <l><space rend="indent2"/>And thanne a knyght gan say.<note type="gloss-indicator" n="365"
+              >G</note><space rend="indent2"/><gloss n="365">began to speak</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>A knyght thanne spak with mylde voys:<note
+              type="gloss-indicator" n="366">G</note><space rend="indent1"/><gloss n="366">mild
+              voice</gloss></l>
+          <l><space rend="indent1"/>“Sere, where is thy ryng? Where is thy croys?<note
+              type="gloss-indicator" n="367">G</note><space rend="indent1"/><gloss n="367"
+              >cross</gloss></l>
+          <l><space rend="indent2"/>Is it fro thee tan?”<note type="gloss-indicator" n="368"
+              >G</note><space rend="indent3"/><gloss n="368">taken</gloss></l>
+          <l><milestone n="510" unit="line"/><space rend="indent1"/>Thanne he sayde, “Youre cursyd
+            kyng</l>
+          <l><space rend="indent1"/>Hath me refft<note type="gloss-indicator" n="369">G</note> of al
+            my thyng,<space rend="indent2"/><gloss n="369">bereft</gloss></l>
+          <l><space rend="indent2"/>And of al my worldly wan;<note type="gloss-indicator" n="370"
+              >G</note><space rend="indent2"/><gloss n="370">goods</gloss></l>
+          <l><space rend="indent1"/>And I have entyrdytyd<note type="tnote-indicator" n="9">T</note>
+            <placeName>Yngelond</placeName>:<note type="gloss-indicator" n="371">G</note><space
+              rend="indent1"/><gloss n="371">interdicted England</gloss></l>
+          <l><space rend="indent1"/>Ther schal no preest synge Masse<note type="gloss-indicator"
+              n="372">G</note> with hond,<space rend="indent1"/><gloss n="372">celebrate
+              Mass</gloss></l>
+          <l><milestone n="515" unit="line"/><space rend="indent2"/>Chyld schal be crystenyd
+              non,<note type="gloss-indicator" n="373">G</note><space rend="indent1"/><gloss n="373"
+              >No child shall be christened</gloss></l>
+          <l><space rend="indent1"/>But yiff<note type="gloss-indicator" n="374">G</note> he graunte
+              me<note type="gloss-indicator" n="375">G</note> that knyght,<space rend="indent1"
+              /><gloss n="374">Unless</gloss><gloss n="375"> release to me</gloss></l>
+          <l><space rend="indent1"/>His wyff and chyldryn fayr and bryght:<note
+              type="enote-indicator" n="65">N</note>
+          </l>
+          <l><space rend="indent2"/>He wolde with wrong hem slon.”<note type="gloss-indicator"
+              n="376">G</note><space rend="indent1"/><gloss n="376">slay</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The knyght sayde, “Bysschop, turne agayn;</l>
+          <l><milestone n="520" unit="line"/><space rend="indent1"/>Of thy body we are ful
+              fayn;<note type="gloss-indicator" n="377">G</note><space rend="indent2"/><gloss
+              n="377">glad</gloss></l>
+          <l><space rend="indent2"/>Thy brothir yit schole we borwe.<note type="gloss-indicator"
+              n="378">G</note><space rend="indent1"/><gloss n="378">rescue</gloss></l>
+          <l><space rend="indent1"/>And, but he graunte us oure bone,</l>
+          <l><space rend="indent1"/>Hys presoun schal be broken<note type="gloss-indicator" n="379"
+              >G</note> soone,<space rend="indent1"/><gloss n="379">violated</gloss></l>
+          <l><space rend="indent2"/>Hymselff to mekyl<note type="gloss-indicator" n="380">G</note>
+              sorwe.<space rend="indent2"/><gloss n="380">[driven] to great</gloss></l>
+          <l><milestone n="525" unit="line"/><space rend="indent1"/>We schole drawe doun both halle
+            and boures,<note type="gloss-indicator" n="381">G</note><space rend="indent1"/><gloss
+              n="381">chambers</gloss></l>
+          <l><space rend="indent1"/>Bothe hys castelles and hys toures,</l>
+          <l><space rend="indent2"/>They schole lygge lowe<note type="gloss-indicator" n="382"
+              >G</note> and holewe.<space rend="indent1"/><gloss n="382">razed</gloss></l>
+          <l><space rend="indent1"/>Though he be kyng and were<note type="gloss-indicator" n="383"
+              >G</note> the corown,<space rend="indent1"/><gloss n="383">wear</gloss></l>
+          <l><space rend="indent1"/>We scholen hym sette in a deep dunjoun:<note
+              type="gloss-indicator" n="384">G</note><space rend="indent1"/><gloss n="384"
+              >dungeon</gloss></l>
+          <l><milestone n="530" unit="line"/><space rend="indent2"/>Oure Crystyndom we wole
+            folewe.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Thanne, as they spoken of this thyng,</l>
+          <l><space rend="indent1"/>Ther comen twoo knyghtes from the kyng,</l>
+          <l><space rend="indent2"/>And sayden, “Bysschop, abyde,<note type="gloss-indicator"
+              n="385">G</note><space rend="indent1"/><gloss n="385">wait</gloss></l>
+          <l><space rend="indent1"/>And have thy cros and thy ryng,</l>
+          <l><milestone n="535" unit="line"/><space rend="indent1"/>And welcome whyl that thou wylt
+              lyng,<note type="gloss-indicator" n="386">G</note><space rend="indent1"/><gloss
+              n="386">stay</gloss></l>
+          <l><space rend="indent2"/>It is nought for to hyde.</l>
+          <l><space rend="indent1"/>Here he grauntys thee the knyght,</l>
+          <l><space rend="indent1"/>Hys wyff and chyldryn fayr and bryght;</l>
+          <l><space rend="indent2"/>Again I rede thou ryde.<note type="gloss-indicator" n="387"
+              >G</note><space rend="indent2"/><gloss n="387">advise you return</gloss></l>
+          <l><milestone n="540" unit="line"/><space rend="indent1"/>He prayes thee pur charyté<note
+              type="gloss-indicator" n="388">G</note><space rend="indent2"/><gloss n="388">by pure
+              charity</gloss></l>
+          <l><space rend="indent1"/>That he myghte asoylyd<note type="gloss-indicator" n="389"
+              >G</note> be,<space rend="indent2"/><gloss n="389">absolved</gloss></l>
+          <l><space rend="indent2"/>And <placeName>Yngelond</placeName> long and wyde.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Hereof<note type="gloss-indicator" n="390">G</note> the bysschop
+            was ful fayn,<note type="gloss-indicator" n="391">G</note><space rend="indent1"/><gloss
+              n="390">Of this</gloss><gloss n="391"> eager</gloss></l>
+          <l><space rend="indent1"/>And turnys hys brydyl and wendes agayn —</l>
+          <l><milestone n="545" unit="line"/><space rend="indent2"/>Barouns gunne<note
+              type="gloss-indicator" n="392">G</note> with hym ryde —<space rend="indent1"/><gloss
+              n="392">did</gloss></l>
+          <l><space rend="indent1"/>Unto the <placeName>Brokene-cros</placeName><note
+              type="enote-indicator" n="66">N</note> of ston;</l>
+          <l><space rend="indent1"/>Thedyr com the kyng ful soone anon,</l>
+          <l><space rend="indent2"/>And there he gan abyde.</l>
+          <l><space rend="indent1"/>Upon hys knees he knelyd adoun,</l>
+          <l><milestone n="550" unit="line"/><space rend="indent1"/>And prayde the bysschop of
+              benysoun,<note type="gloss-indicator" n="393">G</note><space rend="indent1"/><gloss
+              n="393">for blessing</gloss></l>
+          <l><space rend="indent2"/>And he gaff hym<note type="gloss-indicator" n="394">G</note>
+            that tyde.<space rend="indent2"/><gloss n="394">gave it to him</gloss></l>
+          <l><space rend="indent1"/>With holy watyr and orysoun,<note type="gloss-indicator" n="395"
+              >G</note><space rend="indent2"/><gloss n="395">prayer</gloss></l>
+          <l><space rend="indent1"/>He asoylyd<note type="gloss-indicator" n="396">G</note> the kyng
+            that weryd<note type="gloss-indicator" n="397">G</note> the coroun,<space rend="indent1"
+              /><gloss n="396">absolved</gloss><gloss n="397"> who wore</gloss></l>
+          <l><space rend="indent2"/>And <placeName>Yngelond</placeName> long and wyde.</l>
+        </lg>
+        <lg>
+          <l><milestone n="555" unit="line"/><space rend="indent1"/>Than sayde the kyng anon
+            ryght:</l>
+          <l><space rend="indent1"/>“Here I graunte thee that knyght,</l>
+          <l><space rend="indent2"/>And hys sones free,<note type="gloss-indicator" n="398"
+              >G</note><space rend="indent3"/><gloss n="398">noble</gloss></l>
+          <l><space rend="indent1"/>And my sustyr hende<note type="gloss-indicator" n="399">G</note>
+            in halle.<space rend="indent2"/><gloss n="399">courteous</gloss></l>
+          <l><space rend="indent1"/>Thou hast savyd here lyvys<note type="gloss-indicator" n="400"
+              >G</note> alle:<space rend="indent2"/><gloss n="400">their lives</gloss></l>
+          <l><milestone n="560" unit="line"/><space rend="indent2"/>Iblessyd moot thou bee.”</l>
+          <l><space rend="indent1"/>Thenne sayde the bysschop also soone:</l>
+          <l><space rend="indent1"/>“And I schal geven swylke a dome<note type="gloss-indicator"
+              n="401">G</note> —<space rend="indent1"/><gloss n="401">judgment</gloss></l>
+          <l><space rend="indent2"/>With eyen that thou schalt see!<note type="gloss-indicator"
+              n="402">G</note><space rend="indent1"/><gloss n="402">your own eyes</gloss></l>
+          <l><space rend="indent1"/>Yiff thay be gylty off that dede,</l>
+          <l><milestone n="565" unit="line"/><space rend="indent1"/>Sorrere<note
+              type="gloss-indicator" n="403">G</note> the doome thay may drede,<space rend="indent1"
+              /><gloss n="403">More grievous</gloss></l>
+          <l><space rend="indent2"/>Thanne schewe here schame to me.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Whanne the bysschop hadde sayd soo,</l>
+          <l><space rend="indent1"/>A gret fyr<note type="gloss-indicator" n="404">G</note> was maad
+            ryght thoo,<note type="gloss-indicator" n="405">G</note><space rend="indent2"/><gloss
+              n="404">fire</gloss><gloss n="405"> immediately</gloss></l>
+          <l><space rend="indent2"/>In romaunce as we rede —</l>
+          <l><milestone n="570" unit="line"/><space rend="indent1"/>It was set, that men myghte
+              knawe,<note type="gloss-indicator" n="406">G</note><space rend="indent1"/><gloss
+              n="406">know</gloss></l>
+          <l><space rend="indent1"/>Nyne plowgh-lengthe<note type="gloss-indicator" n="407">G</note>
+            on rawe,<note type="enote-indicator" n="67">N</note>
+            <note type="gloss-indicator" n="408">G</note><space rend="indent2"/><gloss n="407"
+              >ploughshares</gloss><gloss n="408"> in a row</gloss></l>
+          <l><space rend="indent2"/>As red as ony glede.<note type="gloss-indicator" n="409"
+              >G</note><space rend="indent3"/><gloss n="409">coal</gloss></l>
+          <l><space rend="indent1"/>Thanne sayde the kyng: “What may this mene?”</l>
+          <l><space rend="indent1"/>“Sere, of<note type="gloss-indicator" n="410">G</note> gylt
+              and<note type="gloss-indicator" n="411">G</note> thay be clene,<note
+              type="gloss-indicator" n="412">G</note><space rend="indent2"/><gloss n="410"
+              >from</gloss><gloss n="411"> if</gloss><gloss n="412"> innocent</gloss></l>
+          <l><milestone n="575" unit="line"/><space rend="indent2"/>This doom<note
+              type="enote-indicator" n="68">N</note>
+            <note type="gloss-indicator" n="413">G</note> hem thar nought drede.”<note
+              type="gloss-indicator" n="414">G</note><space rend="indent1"/><gloss n="413"
+              >ordeal</gloss><gloss n="414"> need not fear</gloss></l>
+          <l><space rend="indent1"/>Thanne sayde the good Kyng <persName>Athelston</persName>:</l>
+          <l><space rend="indent1"/>“An hard doome<note type="gloss-indicator" n="415">G</note> now
+            is this on:<note type="gloss-indicator" n="416">G</note><space rend="indent2"/><gloss
+              n="415">judgment</gloss><gloss n="416"> one</gloss></l>
+          <l><space rend="indent2"/><persName>God</persName> graunte us alle weel to spede.”<note
+              type="gloss-indicator" n="417">G</note><space rend="indent1"/><gloss n="417"
+              >succeed</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>They fetten<note type="gloss-indicator" n="418">G</note> forth
+            Sere <persName>Egelan</persName> —<space rend="indent2"/><gloss n="418"
+            >fetched</gloss></l>
+          <l><milestone n="580" unit="line"/><space rend="indent1"/>A trewere<note
+              type="gloss-indicator" n="419">G</note> eerl was ther nan<note type="gloss-indicator"
+              n="420">G</note> —<space rend="indent2"/><gloss n="419">truer</gloss><gloss n="420">
+              none</gloss></l>
+          <l><space rend="indent2"/>Before the fyr so bryght.</l>
+          <l><space rend="indent1"/>From hym they token the rede scarlet,</l>
+          <l><space rend="indent1"/>Bothe hosyn<note type="gloss-indicator" n="421">G</note> and
+              schoon<note type="gloss-indicator" n="422">G</note> that weren hym met,<note
+              type="enote-indicator" n="69">N</note>
+            <note type="gloss-indicator" n="423">G</note><space rend="indent1"/><gloss n="421"
+              >hose</gloss><gloss n="422"> shoes</gloss><gloss n="423"> suitable</gloss></l>
+          <l><space rend="indent2"/>That fel al<note type="gloss-indicator" n="424">G</note> for a
+              knyght.<space rend="indent2"/><gloss n="424">were appropriate</gloss></l>
+          <l><milestone n="585" unit="line"/><space rend="indent1"/>Nyne sythe<note
+              type="gloss-indicator" n="425">G</note> the bysschop halewid<note
+              type="gloss-indicator" n="426">G</note> the way<space rend="indent1"/><gloss n="425"
+              >times</gloss><gloss n="426"> consecrated</gloss></l>
+          <l><space rend="indent1"/>That his weddyd brother scholde goo that day,</l>
+          <l><space rend="indent2"/>To praye <persName>God</persName> for the ryght.</l>
+          <l><space rend="indent1"/>He was unblemeschyd foot and hand;</l>
+          <l><space rend="indent1"/>That sawgh the lordes of the land,</l>
+          <l><milestone n="590" unit="line"/><space rend="indent2"/>And thankyd
+              <persName>God</persName> of Hys myght.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>They offeryd him with mylde chere<note type="gloss-indicator"
+              n="427">G</note><space rend="indent1"/><gloss n="427">gentle bearing</gloss></l>
+          <l><space rend="indent1"/>Unto Saint <persName>Powlys</persName><note
+              type="gloss-indicator" n="428">G</note> heyghe awtere,<note type="enote-indicator"
+              n="70">N</note>
+            <note type="gloss-indicator" n="429">G</note><space rend="indent1"/><gloss n="428"
+              >Paul’s</gloss><gloss n="429"> altar</gloss></l>
+          <l><space rend="indent2"/>That mekyl was of myght.</l>
+          <l><space rend="indent1"/>Doun upon hys knees he felle,</l>
+          <l><milestone n="595" unit="line"/><space rend="indent1"/>And thankyd
+              <persName>God</persName> that harewede<note type="gloss-indicator" n="430">G</note>
+            <placeName>helle</placeName><space rend="indent1"/><gloss n="430">harrowed</gloss></l>
+          <l><space rend="indent2"/>And Hys modyr so bryght.</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>And yit the bysschop tho<note type="gloss-indicator" n="431"
+              >G</note> gan say:<space rend="indent2"/><gloss n="431">then</gloss></l>
+          <l><space rend="indent1"/>“Now schal the chyldryn gon the way</l>
+          <l><space rend="indent2"/>That the fadyr yede.”<note type="gloss-indicator" n="432"
+              >G</note><space rend="indent3"/><gloss n="432">went</gloss></l>
+          <l><milestone n="600" unit="line"/><space rend="indent1"/>Fro hem they tooke the rede
+            scarlete,</l>
+          <l><space rend="indent1"/>The hosen and schoon<note type="gloss-indicator" n="433"
+              >G</note> that weren hem mete,<note type="gloss-indicator" n="434">G</note><space
+              rend="indent1"/><gloss n="433">shoes</gloss><gloss n="434"> fit</gloss></l>
+          <l><space rend="indent2"/>And al here worldly wede.<note type="gloss-indicator" n="435"
+              >G</note><space rend="indent2"/><gloss n="435">clothes</gloss></l>
+          <l><space rend="indent1"/>The fyr was bothe hydous<note type="gloss-indicator" n="436"
+              >G</note> and rede,<space rend="indent1"/><gloss n="436">hideous</gloss></l>
+          <l><space rend="indent1"/>The chyldryn swownyd as<note type="gloss-indicator" n="437"
+              >G</note> they were ded;<space rend="indent1"/><gloss n="437">as if</gloss></l>
+          <l><milestone n="605" unit="line"/><space rend="indent2"/>The bysschop tyl hem yede;<note
+              type="gloss-indicator" n="438">G</note><space rend="indent2"/><gloss n="438">to them
+              went</gloss></l>
+          <l><space rend="indent1"/>With careful herte on hem gan look;</l>
+          <l><space rend="indent1"/>Be hys hand he hem up took:</l>
+          <l><space rend="indent2"/>“Chyldryn, have ye no drede.”<note type="gloss-indicator"
+              n="439">G</note><space rend="indent2"/><gloss n="439">fear</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Thanne the chyldryn stood and lowgh:<note type="gloss-indicator"
+              n="440">G</note><space rend="indent1"/><gloss n="440">laughed</gloss></l>
+          <l><milestone n="610" unit="line"/><space rend="indent1"/>“Sere, the fyr is cold
+            inowgh.”</l>
+          <l><space rend="indent2"/>Thorwghout they wente apase.<note type="tnote-indicator" n="10"
+              >T</note>
+            <note type="gloss-indicator" n="441">G</note><space rend="indent1"/><gloss n="441"
+              >quickly</gloss></l>
+          <l><space rend="indent1"/>They weren unblemeschyd foot and hand:</l>
+          <l><space rend="indent1"/>That sawgh the lordys of the land,</l>
+          <l><space rend="indent2"/>And thankyd <persName>God</persName> of His grace.</l>
+          <l><milestone n="615" unit="line"/><space rend="indent1"/>They offeryd hem with mylde
+            chere</l>
+          <l><space rend="indent1"/>To Seynt <persName>Poulys</persName> hyghe awtere</l>
+          <l><space rend="indent2"/>This myracle<note type="gloss-indicator" n="442">G</note>
+              schewyd<note type="enote-indicator" n="71">N</note> was there.<space rend="indent1"
+              /><gloss n="442">miracle</gloss></l>
+          <l><space rend="indent1"/>And yit the bysschop efft<note type="gloss-indicator" n="443"
+              >G</note> gan say:<space rend="indent2"/><gloss n="443">again</gloss></l>
+          <l><space rend="indent1"/>“Now schal the countasse goo the way</l>
+          <l><milestone n="620" unit="line"/><space rend="indent2"/>There that the chyldryn
+            were.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>They fetten<note type="gloss-indicator" n="444">G</note> forth
+            the lady mylde;<space rend="indent2"/><gloss n="444">fetched</gloss></l>
+          <l><space rend="indent1"/>Sche was ful gret igon with chylde<note type="gloss-indicator"
+              n="445">G</note><space rend="indent2"/><gloss n="445">very pregnant</gloss></l>
+          <l><space rend="indent2"/>In romaunce as we rede —</l>
+          <l><space rend="indent1"/>Before the fyr whan that sche come,</l>
+          <l><milestone n="625" unit="line"/><space rend="indent1"/>To <persName>Jesu
+              Cryst</persName> he prayde a bone,<note type="enote-indicator" n="72">N</note>
+            <note type="gloss-indicator" n="446">G</note><space rend="indent2"/><gloss n="446"
+              >favor</gloss></l>
+          <l><space rend="indent2"/>That leet His woundys blede:</l>
+          <l><space rend="indent1"/>“Now, <persName>God</persName> lat nevere the kyngys foo</l>
+          <l><space rend="indent1"/>Quyk<note type="gloss-indicator" n="447">G</note> out of the fyr
+              goo.”<space rend="indent3"/><gloss n="447">Alive</gloss></l>
+          <l><space rend="indent2"/>Therof hadde sche no drede.</l>
+        </lg>
+        <lg>
+          <l><milestone n="630" unit="line"/><space rend="indent1"/>Whenne sche hadde maad here
+            prayer,</l>
+          <l><space rend="indent1"/>Sche was brought before the feer,<note type="gloss-indicator"
+              n="448">G</note><space rend="indent2"/><gloss n="448">fire</gloss></l>
+          <l><space rend="indent2"/>That brennyd<note type="gloss-indicator" n="449">G</note> bothe
+            fayr and lyght.<space rend="indent1"/><gloss n="449">burned</gloss></l>
+          <l><space rend="indent1"/>Sche wente fro the lengthe<note type="gloss-indicator" n="450"
+              >G</note> into the thrydde;<note type="gloss-indicator" n="451">G</note><space
+              rend="indent1"/><gloss n="450">end</gloss><gloss n="451"> third
+            [ploughshare]</gloss></l>
+          <l><space rend="indent1"/>Stylle sche stood the fyr amydde,</l>
+          <l><milestone n="635" unit="line"/><space rend="indent2"/>And callyd it merye and
+            bryght.</l>
+          <l><space rend="indent1"/>Hard schourys<note type="gloss-indicator" n="452">G</note>
+            thenne took here stronge<space rend="indent1"/><gloss n="452">[labor] pains</gloss></l>
+          <l><space rend="indent1"/>Bothe in bak<note type="gloss-indicator" n="453">G</note> and
+              eke<note type="gloss-indicator" n="454">G</note> in wombe;<space rend="indent2"
+              /><gloss n="453">back</gloss><gloss n="454"> also</gloss></l>
+          <l><space rend="indent2"/>And sithen it fell at syght.<note type="enote-indicator" n="73"
+              >N</note>
+          </l>
+          <l><space rend="indent1"/>Whenne<note type="gloss-indicator" n="455">G</note> that here
+            paynys slakyd<note type="gloss-indicator" n="456">G</note> was,<space rend="indent1"
+              /><gloss n="455">After</gloss><gloss n="456"> pain abated</gloss></l>
+          <l><milestone n="640" unit="line"/><space rend="indent1"/>And sche hadde passyd<note
+              type="gloss-indicator" n="457">G</note> that hydous pas,<space rend="indent1"/><gloss
+              n="457">walk</gloss></l>
+          <l><space rend="indent2"/>Here nose barst<note type="gloss-indicator" n="458">G</note> on
+              bloode.<space rend="indent2"/><gloss n="458">burst</gloss></l>
+          <l><space rend="indent1"/>Sche was unblemeschyd foot and hand:</l>
+          <l><space rend="indent1"/>That sawgh the lordys of the land,</l>
+          <l><space rend="indent2"/>And thankyd <persName>God</persName> on Rode.<note
+              type="gloss-indicator" n="459">G</note><space rend="indent2"/><gloss n="459"
+              >Cross</gloss></l>
+          <l><milestone n="645" unit="line"/><space rend="indent1"/>They comaundyd men here away to
+              drawe,<note type="gloss-indicator" n="460">G</note><space rend="indent1"/><gloss
+              n="460">move away from here</gloss></l>
+          <l><space rend="indent1"/>As it was the landys lawe;<note type="enote-indicator" n="74"
+              >N</note>
+            <note type="gloss-indicator" n="461">G</note><space rend="indent2"/><gloss n="461">law
+              of the land (customary)</gloss></l>
+          <l><space rend="indent2"/>And ladyys thanne tyl here yode.<note type="gloss-indicator"
+              n="462">G</note><space rend="indent1"/><gloss n="462">to her went</gloss></l>
+          <l><space rend="indent1"/>She knelyd doun upon the ground</l>
+          <l><space rend="indent1"/>And there was born Seynt <persName>Edemound</persName>:<note
+              type="enote-indicator" n="75">N</note>
+          </l>
+          <l><milestone n="650" unit="line"/><space rend="indent2"/>Iblessed be that foode!<note
+              type="gloss-indicator" n="463">G</note><space rend="indent2"/><gloss n="463"
+              >child</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>And whanne this chyld iborn was,</l>
+          <l><space rend="indent1"/>It was brought into the plas;<note type="enote-indicator" n="76"
+              >N</note>
+            <note type="gloss-indicator" n="464">G</note><space rend="indent2"/><gloss n="464"
+              >place</gloss></l>
+          <l><space rend="indent2"/>It was bothe hool<note type="gloss-indicator" n="465">G</note>
+            and sound<space rend="indent2"/><gloss n="465">whole (healthy)</gloss></l>
+          <l><space rend="indent1"/>Bothe the kyng and bysschop free<note type="gloss-indicator"
+              n="466">G</note><space rend="indent2"/><gloss n="466">noble</gloss></l>
+          <l><milestone n="655" unit="line"/><space rend="indent1"/>They crystnyd<note
+              type="gloss-indicator" n="467">G</note> the chyld, that men myght see,<space
+              rend="indent1"/><gloss n="467">christened</gloss></l>
+          <l><space rend="indent2"/>And callyd it <persName>Edemound</persName>.<note
+              type="gloss-indicator" n="468">G</note><space rend="indent2"/><gloss n="468"
+              >Edmund</gloss></l>
+          <l><space rend="indent1"/>“Halff my land,” he sayde, “I thee geve,</l>
+          <l><space rend="indent1"/>Also<note type="gloss-indicator" n="469">G</note> longe as I may
+              leve,<space rend="indent3"/><gloss n="469">As</gloss></l>
+          <l><space rend="indent2"/>With markys<note type="gloss-indicator" n="470">G</note> and
+            with pounde;<space rend="indent1"/><gloss n="470">marks</gloss></l>
+          <l><milestone n="660" unit="line"/><space rend="indent1"/>And al afftyr my dede<note
+              type="gloss-indicator" n="471">G</note> —<space rend="indent3"/><gloss n="471"
+              >death</gloss></l>
+          <l><space rend="indent1"/><placeName>Yngelond</placeName> to wysse<note
+              type="gloss-indicator" n="472">G</note> and rede.”<note type="gloss-indicator" n="473"
+              >G</note><space rend="indent2"/><gloss n="472">guide</gloss><gloss n="473">
+              advise</gloss></l>
+          <l><space rend="indent2"/>Now iblessyd be that stounde!<note type="gloss-indicator"
+              n="474">G</note><space rend="indent1"/><gloss n="474">time</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Thanne sayde the bysschop to the Kyng:</l>
+          <l><space rend="indent1"/>“Sere, who made this grete lesyng,<note type="gloss-indicator"
+              n="475">G</note><space rend="indent2"/><gloss n="475">lie</gloss></l>
+          <l><milestone n="665" unit="line"/><space rend="indent2"/>And who wroughte al this
+              bale?”<note type="gloss-indicator" n="476">G</note><space rend="indent1"/><gloss
+              n="476">evil</gloss></l>
+          <l><space rend="indent1"/>Thanne sayde the kyng, “So moot I thee,<note
+              type="gloss-indicator" n="477">G</note><space rend="indent1"/><gloss n="477"
+              >thrive</gloss></l>
+          <l><space rend="indent1"/>That schalt thou nevere wete<note type="gloss-indicator" n="478"
+              >G</note> for me,<space rend="indent1"/><gloss n="478">know</gloss></l>
+          <l><space rend="indent2"/>In burgh<note type="gloss-indicator" n="479">G</note> neyther in
+              sale;<note type="gloss-indicator" n="480">G</note><space rend="indent2"/><gloss
+              n="479">town</gloss><gloss n="480"> hall</gloss></l>
+          <l><space rend="indent1"/>For I have sworn be Seynt <persName>Anne</persName><note
+              type="enote-indicator" n="77">N</note>
+          </l>
+          <l><milestone n="670" unit="line"/><space rend="indent1"/>That I schal nevere bewreye<note
+              type="gloss-indicator" n="481">G</note> that manne,<space rend="indent1"/><gloss
+              n="481">betray</gloss></l>
+          <l><space rend="indent2"/>That me gan telle that tale.</l>
+          <l><space rend="indent1"/>They arn<note type="gloss-indicator" n="482">G</note> savyd
+            thorwgh thy red;<note type="gloss-indicator" n="483">G</note><space rend="indent2"
+              /><gloss n="482">are</gloss><gloss n="483"> counsel</gloss></l>
+          <l><space rend="indent1"/>Now lat al this be ded,<note type="gloss-indicator" n="484"
+              >G</note><space rend="indent3"/><gloss n="484">dead</gloss></l>
+          <l><space rend="indent2"/>And kepe<note type="gloss-indicator" n="485">G</note> this
+            counseyl hale.”<note type="gloss-indicator" n="486">G</note><space rend="indent1"
+              /><gloss n="485">hold (keep secret)</gloss><gloss n="486"> entirely</gloss></l>
+        </lg>
+        <lg>
+          <l><milestone n="675" unit="line"/><space rend="indent1"/>Thenne swoor the bysschop, “So
+            moot I the,<note type="gloss-indicator" n="487">G</note><space rend="indent1"/><gloss
+              n="487">thrive</gloss></l>
+          <l><space rend="indent1"/>Now I have power and dignyté</l>
+          <l><space rend="indent2"/>For to asoyle<note type="gloss-indicator" n="488">G</note> thee
+            as clene<note type="gloss-indicator" n="489">G</note><space rend="indent2"/><gloss
+              n="488">absolve</gloss><gloss n="489"> guiltless</gloss></l>
+          <l><space rend="indent1"/>As thou were hoven off<note type="gloss-indicator" n="490"
+              >G</note> the fount-ston.<note type="enote-indicator" n="78">N</note>
+            <note type="gloss-indicator" n="491">G</note><space rend="indent1"/><gloss n="490"
+              >lifted from</gloss><gloss n="491"> baptismal font</gloss></l>
+          <l><space rend="indent1"/>Trustly trowe<note type="gloss-indicator" n="492">G</note> thou
+              therupon,<space rend="indent2"/><gloss n="492">Truly believe</gloss></l>
+          <l><milestone n="680" unit="line"/><space rend="indent2"/>And holde it for no wene:<note
+              type="gloss-indicator" n="493">G</note><space rend="indent2"/><gloss n="493"
+              >guess</gloss></l>
+          <l><space rend="indent1"/>I swere bothe be book and belle,</l>
+          <l><space rend="indent1"/>But yiff<note type="gloss-indicator" n="494">G</note> thou me
+            his name telle,<space rend="indent2"/><gloss n="494">Unless</gloss></l>
+          <l><space rend="indent2"/>The ryght doom<note type="gloss-indicator" n="495">G</note>
+            schal I deme:<note type="gloss-indicator" n="496">G</note><space rend="indent1"/><gloss
+              n="495">judgment</gloss><gloss n="496"> pronounce</gloss></l>
+          <l><space rend="indent1"/>Thyselff schalt goo the ryghte way</l>
+          <l><milestone n="685" unit="line"/><space rend="indent1"/>That thy brother wente
+            today,</l>
+          <l><space rend="indent2"/>Though it thee evele beseme.”<note type="gloss-indicator"
+              n="497">G</note><space rend="indent2"/><gloss n="497">ill befits you</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Thenne sayde the kyng, “So moot I the,<note
+              type="gloss-indicator" n="498">G</note><space rend="indent1"/><gloss n="498"
+              >thrive</gloss></l>
+          <l><space rend="indent1"/>Be schryffte of mouthe<note type="gloss-indicator" n="499"
+              >G</note> telle I it thee;<space rend="indent1"/><gloss n="499">By
+            confession</gloss></l>
+          <l><space rend="indent2"/>Therto I am unblyve.<note type="gloss-indicator" n="500"
+              >G</note><space rend="indent3"/><gloss n="500">reluctant</gloss></l>
+          <l><milestone n="690" unit="line"/><space rend="indent1"/>Sertaynly, it is non othir</l>
+          <l><space rend="indent1"/>But <persName>Wymound</persName>, oure weddyd<note
+              type="gloss-indicator" n="501">G</note> brother;<space rend="indent1"/><gloss n="501"
+              >sworn</gloss></l>
+          <l><space rend="indent2"/>He wole nevere thryve.”</l>
+          <l><space rend="indent1"/>“Allas,” sayde the bysschop than,</l>
+          <l><space rend="indent1"/>I wende<note type="gloss-indicator" n="502">G</note> he were the
+            treweste man,<space rend="indent1"/><gloss n="502">thought</gloss></l>
+          <l><milestone n="695" unit="line"/><space rend="indent2"/>That evere yit levyd on
+            lyve.</l>
+          <l><space rend="indent1"/>And<note type="gloss-indicator" n="503">G</note> he with this
+              ateynt<note type="gloss-indicator" n="504">G</note> may bee,<space rend="indent2"
+              /><gloss n="503">If</gloss><gloss n="504"> guilty</gloss></l>
+          <l><space rend="indent1"/>He schal be hongyd on trees three,</l>
+          <l><space rend="indent2"/>And drawen with hors<note type="gloss-indicator" n="505"
+              >G</note> fyve.”<note type="enote-indicator" n="79">N</note>
+            <space rend="indent2"/><gloss n="505">horses</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>And whenne that the bysschop the sothe<note
+              type="gloss-indicator" n="506">G</note> hade<space rend="indent1"/><gloss n="506"
+              >truth</gloss></l>
+          <l><milestone n="700" unit="line"/><space rend="indent1"/>That that traytour that
+              lesyng<note type="gloss-indicator" n="507">G</note> made,<space rend="indent1"/><gloss
+              n="507">lie</gloss></l>
+          <l><space rend="indent2"/>He callyd a messangere,</l>
+          <l><space rend="indent1"/>Bad hym to <placeName>Dovere</placeName> that he scholde
+              founde,<note type="gloss-indicator" n="508">G</note><space rend="indent1"/><gloss
+              n="508">hasten</gloss></l>
+          <l><space rend="indent1"/>For to fette<note type="gloss-indicator" n="509">G</note> that
+            Eerl <persName>Wymounde</persName>:<space rend="indent2"/><gloss n="509"
+            >fetch</gloss></l>
+          <l><space rend="indent2"/>(That traytour has no pere!)</l>
+          <l><milestone n="705" unit="line"/><space rend="indent1"/>Sey<note type="tnote-indicator"
+              n="11">T</note>
+            <persName>Egelane</persName> and hys sones be slawe,</l>
+          <l><space rend="indent1"/>Bothe ihangyd and to-drawe.</l>
+          <l><space rend="indent2"/>(Doo as I thee lere!<note type="gloss-indicator" n="510"
+              >G</note>)<space rend="indent3"/><gloss n="510">teach</gloss></l>
+          <l><space rend="indent1"/>The countasse is in presoun done;</l>
+          <l><space rend="indent1"/>Schal sche nevere out of presoun come,</l>
+          <l><milestone n="710" unit="line"/><space rend="indent2"/>But yiff<note
+              type="gloss-indicator" n="511">G</note> it be on bere.”<note type="gloss-indicator"
+              n="512">G</note><space rend="indent2"/><gloss n="511">Unless</gloss><gloss n="512">
+              bier</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Now with the messanger was no badde;<note type="gloss-indicator"
+              n="513">G</note><space rend="indent1"/><gloss n="513">delay</gloss></l>
+          <l><space rend="indent1"/>He took his hors, as the bysschop radde,<note
+              type="gloss-indicator" n="514">G</note><space rend="indent1"/><gloss n="514"
+              >commanded</gloss></l>
+          <l><space rend="indent2"/>To <placeName>Dovere</placeName> tyl that he come.</l>
+          <l><space rend="indent1"/>The eerl in hys halle he fand:<note type="gloss-indicator"
+              n="515">G</note><space rend="indent2"/><gloss n="515">found</gloss></l>
+          <l><milestone n="715" unit="line"/><space rend="indent1"/>He took hym the lettre in his
+            hand</l>
+          <l><space rend="indent2"/>On hygh,<note type="gloss-indicator" n="516">G</note> wolde he
+            nought wone:<note type="gloss-indicator" n="517">G</note><space rend="indent1"/><gloss
+              n="516">In haste</gloss><gloss n="517"> delay</gloss></l>
+          <l><space rend="indent1"/>“Sere <persName>Egelane</persName> and his sones be slawe,</l>
+          <l><space rend="indent1"/>Bothe ihangyd and to-drawe:</l>
+          <l><space rend="indent2"/>Thou getyst that eerldome.</l>
+          <l><milestone n="720" unit="line"/><space rend="indent1"/>The countasse is in presoun
+            done;</l>
+          <l><space rend="indent1"/>Schal sche nevere more out come,</l>
+          <l><space rend="indent2"/>Ne see neyther sunne ne mone.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Thanne that eerl made hym glade,</l>
+          <l><space rend="indent1"/>And thankyd <persName>God</persName> that lesyng<note
+              type="gloss-indicator" n="518">G</note> was made:<space rend="indent1"/><gloss n="518"
+              >lie</gloss></l>
+          <l><milestone n="725" unit="line"/><space rend="indent2"/>“It hath gete me this
+            eerldome.”</l>
+          <l><space rend="indent1"/>He sayde, “Felawe, ryght weel thou bee!</l>
+          <l><space rend="indent1"/>Have here besauntys<note type="gloss-indicator" n="519">G</note>
+            good plenté<space rend="indent2"/><gloss n="519">besants (coins)</gloss></l>
+          <l><space rend="indent2"/>For thyn hedyr-come.”<note type="gloss-indicator" n="520"
+              >G</note><space rend="indent2"/><gloss n="520">coming hither</gloss></l>
+          <l><space rend="indent1"/>Thanne the messanger made his mon:<note type="gloss-indicator"
+              n="521">G</note><space rend="indent1"/><gloss n="521">complaint</gloss></l>
+          <l><milestone n="730" unit="line"/><space rend="indent1"/>“Sere, of youre goode hors lende
+            me on:<note type="gloss-indicator" n="522">G</note><space rend="indent1"/><gloss n="522"
+              >one</gloss></l>
+          <l><space rend="indent2"/>Now graunte me my bone;</l>
+          <l><space rend="indent1"/>For yystyrday deyde<note type="gloss-indicator" n="523">G</note>
+            my nobyl stede,<space rend="indent1"/><gloss n="523">died</gloss></l>
+          <l><space rend="indent1"/>On youre arende<note type="enote-indicator" n="80">N</note>
+            <note type="gloss-indicator" n="524">G</note> as I yede,<note type="gloss-indicator"
+              n="525">G</note><space rend="indent2"/><gloss n="524">business</gloss><gloss n="525">
+              went</gloss></l>
+          <l><space rend="indent2"/>Be the way as I come.”</l>
+        </lg>
+        <lg>
+          <l><milestone n="735" unit="line"/><space rend="indent1"/>“Myn hors be fatte and
+            cornfed,</l>
+          <l><space rend="indent1"/>And of thy lyff I am adred.”<note type="gloss-indicator" n="526"
+              >G</note><space rend="indent2"/><gloss n="526">anxious</gloss></l>
+          <l><space rend="indent2"/>That eerl sayde to him than,</l>
+          <l><space rend="indent1"/>“Thanne yiff min hors sholde thee sloo,<note
+              type="gloss-indicator" n="527">G</note><space rend="indent1"/><gloss n="527"
+              >slay</gloss></l>
+          <l><space rend="indent1"/>My lord the kyng wolde be ful woo</l>
+          <l><milestone n="740" unit="line"/><space rend="indent2"/>To lese<note
+              type="gloss-indicator" n="528">G</note> swylk<note type="gloss-indicator" n="529"
+              >G</note> a man.”<space rend="indent2"/><gloss n="528">lose</gloss><gloss n="529">
+              such</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>The messanger yit he broughte a stede,</l>
+          <l><space rend="indent1"/>On<note type="gloss-indicator" n="530">G</note> of the beste at
+            ylke a nede<note type="gloss-indicator" n="531">G</note><space rend="indent2"/><gloss
+              n="530">One</gloss><gloss n="531"> this very need</gloss></l>
+          <l><space rend="indent2"/>That evere on grounde dede gange,<note type="gloss-indicator"
+              n="532">G</note><space rend="indent1"/><gloss n="532">go</gloss></l>
+          <l><space rend="indent1"/>Sadelyd and brydelyd at the beste.</l>
+          <l><milestone n="745" unit="line"/><space rend="indent1"/>The messanger was ful
+              preste,<note type="gloss-indicator" n="533">G</note><space rend="indent2"/><gloss
+              n="533">ready</gloss></l>
+          <l><space rend="indent2"/>Wyghtly<note type="gloss-indicator" n="534">G</note> on hym he
+              sprange.<space rend="indent2"/><gloss n="534">With agility</gloss></l>
+          <l><space rend="indent1"/>“Sere,” he sayde, “have good day;</l>
+          <l><space rend="indent1"/>Thou schalt come whan thou may;</l>
+          <l><space rend="indent2"/>I schal make the kyng at hande.”<note type="gloss-indicator"
+              n="535">G</note><space rend="indent1"/><gloss n="535">aware</gloss></l>
+          <l><milestone n="750" unit="line"/><space rend="indent1"/>With sporys<note
+              type="gloss-indicator" n="536">G</note> faste he strook<note type="gloss-indicator"
+              n="537">G</note> the stede;<space rend="indent1"/><gloss n="536">spurs</gloss><gloss
+              n="537"> struck</gloss></l>
+          <l><space rend="indent1"/>To <placeName>Gravysende</placeName><note type="enote-indicator"
+              n="81">N</note> he come good spede,</l>
+          <l><space rend="indent2"/>Is fourty myle to fande.<note type="gloss-indicator" n="538"
+              >G</note><space rend="indent2"/><gloss n="538">travel</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>There the messanger the traytour abood,<note
+              type="gloss-indicator" n="539">G</note><space rend="indent1"/><gloss n="539"
+              >awaited</gloss></l>
+          <l><space rend="indent1"/>And sethyn<note type="gloss-indicator" n="540">G</note> bothe
+              insame<note type="gloss-indicator" n="541">G</note> they rod<space rend="indent1"
+              /><gloss n="540">then</gloss><gloss n="541"> together</gloss></l>
+          <l><milestone n="755" unit="line"/><space rend="indent2"/>To
+              <placeName>Westemynstyr</placeName> wone.<note type="gloss-indicator" n="542"
+              >G</note><space rend="indent2"/><gloss n="542">town</gloss></l>
+          <l><space rend="indent1"/>In the palays there thay lyght;<note type="gloss-indicator"
+              n="543">G</note><space rend="indent2"/><gloss n="543">alighted</gloss></l>
+          <l><space rend="indent1"/>Into the halle they come ful ryght,<note type="gloss-indicator"
+              n="544">G</note><space rend="indent2"/><gloss n="544">immediately</gloss></l>
+          <l><space rend="indent2"/>And mette with <persName>Athelstone</persName>.</l>
+          <l><space rend="indent1"/>He wolde have kyssyd his lord swete.</l>
+          <l><milestone n="760" unit="line"/><space rend="indent1"/>He sayde: “Traytour, nought yit!
+              lete!<note type="enote-indicator" n="82">N</note>
+            <note type="gloss-indicator" n="545">G</note><space rend="indent1"/><gloss n="545"
+              >[allow] it not! desist!</gloss></l>
+          <l><space rend="indent2"/>Be <persName>God</persName> and be Seynt
+              <persName>Jhon</persName>!<note type="gloss-indicator" n="546">G</note><space
+              rend="indent2"/><gloss n="546">John</gloss></l>
+          <l><space rend="indent1"/>For<note type="gloss-indicator" n="547">G</note> thy falsnesse
+            and thy lesyng<space rend="indent2"/><gloss n="547">Because of</gloss></l>
+          <l><space rend="indent1"/>I slowgh myn heyr,<note type="gloss-indicator" n="548">G</note>
+            scholde have ben kyng,<space rend="indent1"/><gloss n="548">heir</gloss></l>
+          <l><space rend="indent2"/>When my lyf hadde ben gon.”</l>
+        </lg>
+        <lg>
+          <l><milestone n="765" unit="line"/><space rend="indent1"/>There he denyyd faste<note
+              type="gloss-indicator" n="549">G</note> the kyng,<space rend="indent2"/><gloss n="549"
+              >strongly denied</gloss></l>
+          <l><space rend="indent1"/>That he made nevere that lesyng,<note type="gloss-indicator"
+              n="550">G</note><space rend="indent2"/><gloss n="550">ever made that lie</gloss></l>
+          <l><space rend="indent2"/>Among hys peres alle.</l>
+          <l><space rend="indent1"/>The bysschop has hym be the hand tan;<note
+              type="gloss-indicator" n="551">G</note><space rend="indent1"/><gloss n="551"
+              >taken</gloss></l>
+          <l><space rend="indent1"/>Forth insame<note type="gloss-indicator" n="552">G</note> they
+            are gan<space rend="indent2"/><gloss n="552">together</gloss></l>
+          <l><milestone n="770" unit="line"/><space rend="indent2"/>Into the wyde halle.</l>
+          <l><space rend="indent1"/>Myghte he nevere with crafft ne gynne,<note
+              type="gloss-indicator" n="553">G</note><space rend="indent1"/><gloss n="553"
+              >trick</gloss></l>
+          <l><space rend="indent1"/>Gare hym shryven<note type="gloss-indicator" n="554">G</note> of
+            hys synne,<space rend="indent2"/><gloss n="554">Have himself absolved</gloss></l>
+          <l><space rend="indent2"/>For nought that myghte befalle.</l>
+          <l><space rend="indent1"/>Thenne sayde the goode Kyng <persName>Athelston</persName>:</l>
+          <l><milestone n="775" unit="line"/><space rend="indent1"/>“Lat hym to the fyr gon,</l>
+          <l><space rend="indent2"/>To preve the trewthe with alle.”<note type="tnote-indicator"
+              n="12">T</note>
+          </l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Whenne the kyng hadde sayd soo,</l>
+          <l><space rend="indent1"/>A gret fyr was maad thoo,<note type="gloss-indicator" n="555"
+              >G</note><space rend="indent2"/><gloss n="555">then</gloss></l>
+          <l><space rend="indent2"/>In romaunce as we rede.</l>
+          <l><milestone n="780" unit="line"/><space rend="indent1"/>It was set, that men myghten
+            knawe,</l>
+          <l><space rend="indent1"/>Nyne plowgh-lenge<note type="gloss-indicator" n="556">G</note>
+            on rawe,<note type="gloss-indicator" n="557">G</note><space rend="indent2"/><gloss
+              n="556">lengths</gloss><gloss n="557"> row</gloss></l>
+          <l><space rend="indent2"/>As red as ony glede.<note type="gloss-indicator" n="558"
+              >G</note><space rend="indent3"/><gloss n="558">coal</gloss></l>
+          <l><space rend="indent1"/>Nyne sythis<note type="gloss-indicator" n="559">G</note> the
+            bysschop halewes<note type="gloss-indicator" n="560">G</note> the way<space
+              rend="indent1"/><gloss n="559">times</gloss><gloss n="560"> blessed</gloss></l>
+          <l><space rend="indent1"/>That that traytour schole<note type="tnote-indicator" n="13"
+              >T</note> goo that day:</l>
+          <l><milestone n="785" unit="line"/><space rend="indent2"/>The wers<note
+              type="gloss-indicator" n="561">G</note> him gan to spede.<note type="gloss-indicator"
+              n="562">G</note><space rend="indent2"/><gloss n="561">worse</gloss><gloss n="562">
+              happened</gloss></l>
+          <l><space rend="indent1"/>He wente fro the lengthe into the thrydde,</l>
+          <l><space rend="indent1"/>And doun he fell the fyr amydde:</l>
+          <l><space rend="indent2"/>Hys eyen wolde hym nought lede.<note type="gloss-indicator"
+              n="563">G</note><space rend="indent1"/><gloss n="563">lead (guide)</gloss></l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Than the eerlys chyldryn were war ful smerte,<note
+              type="gloss-indicator" n="564">G</note><space rend="indent1"/><gloss n="564">fully
+              aware</gloss></l>
+          <l><milestone n="790" unit="line"/><space rend="indent1"/>And wyghtly<note
+              type="gloss-indicator" n="565">G</note> to the traytour sterte,<note
+              type="gloss-indicator" n="566">G</note><space rend="indent1"/><gloss n="565"
+              >quickly</gloss><gloss n="566"> ran</gloss></l>
+          <l><space rend="indent2"/>And out of the fyr him hade;</l>
+          <l><space rend="indent1"/>And sworen bothe be book and belle:</l>
+          <l><space rend="indent1"/>“Or<note type="gloss-indicator" n="567">G</note> that thou deye,
+            thou schalt telle<space rend="indent1"/><gloss n="567">Before</gloss></l>
+          <l><space rend="indent2"/>Why thou that lesyng made.”<note type="gloss-indicator" n="568"
+              >G</note><space rend="indent2"/><gloss n="568">made that lie</gloss></l>
+          <l><milestone n="795" unit="line"/><space rend="indent1"/>“Certayn, I can non other<note
+              type="gloss-indicator" n="569">G</note> red,<space rend="indent2"/><gloss n="569">know
+              no other</gloss></l>
+          <l><space rend="indent1"/>Now I wot I am but ded:<note type="gloss-indicator" n="570"
+              >G</note><space rend="indent3"/><gloss n="570">nearly dead</gloss></l>
+          <l><space rend="indent2"/>I telle yow nothyng gladde<note type="gloss-indicator" n="571"
+              >G</note> —<space rend="indent2"/><gloss n="571">reluctantly (without joy)</gloss></l>
+          <l><space rend="indent1"/>Certayn, ther was non other wyte:<note type="gloss-indicator"
+              n="572">G</note><space rend="indent1"/><gloss n="572">injury</gloss></l>
+          <l><space rend="indent1"/>He lovyd him to mekyl<note type="gloss-indicator" n="573"
+              >G</note> and me to lyte;<note type="gloss-indicator" n="574">G</note><space
+              rend="indent1"/><gloss n="573">much</gloss><gloss n="574"> little</gloss></l>
+          <l><milestone n="800" unit="line"/><space rend="indent2"/>Therfore envye I hadde.”</l>
+        </lg>
+        <lg>
+          <l><space rend="indent1"/>Whenne that traytour so hadde sayde,</l>
+          <l><space rend="indent1"/>Fyve good hors to hym were tayde,<note type="gloss-indicator"
+              n="575">G</note><space rend="indent1"/><gloss n="575">tied</gloss></l>
+          <l><space rend="indent2"/>Alle men<note type="enote-indicator" n="83">N</note> myghten see
+            with yghe<note type="gloss-indicator" n="576">G</note> —<space rend="indent1"/><gloss
+              n="576">eye</gloss></l>
+          <l><space rend="indent1"/>They drowen<note type="gloss-indicator" n="577">G</note> him
+            thorwgh ylke<note type="gloss-indicator" n="578">G</note> a strete,<space rend="indent1"
+              /><gloss n="577">drew</gloss><gloss n="578"> each</gloss></l>
+          <l><milestone n="805" unit="line"/><space rend="indent1"/>And sethyn<note
+              type="gloss-indicator" n="579">G</note> to the <placeName>Elmes</placeName>,<note
+              type="enote-indicator" n="84">N</note> I yow hete,<note type="gloss-indicator" n="580"
+              >G</note><space rend="indent1"/><gloss n="579">then</gloss><gloss n="580">
+              assure</gloss></l>
+          <l><space rend="indent2"/>And hongyd him ful hyghe.</l>
+          <l><space rend="indent1"/>Was ther nevere man so hardy,<note type="gloss-indicator"
+              n="581">G</note><space rend="indent2"/><gloss n="581">bold</gloss></l>
+          <l><space rend="indent1"/>That durste felle<note type="gloss-indicator" n="582">G</note>
+            hys false body:<space rend="indent2"/><gloss n="582">dared take down</gloss></l>
+          <l><space rend="indent2"/>This hadde he for hys lye.</l>
+          <l><milestone n="810" unit="line"/><space rend="indent1"/>Now <persName>Jesu</persName>,
+            that is <placeName>Hevene</placeName>-kyng,</l>
+          <l><space rend="indent1"/>Leve nevere traytour have betere<note type="gloss-indicator"
+              n="583">G</note> endyng,<space rend="indent1"/><gloss n="583">better</gloss></l>
+          <l><space rend="indent2"/>But swych dome<note type="gloss-indicator" n="584">G</note> for
+            to dye.<space rend="indent2"/><gloss n="584">judgment</gloss></l>
+        </lg>
+        <trailer><l><space rend="indent1"/><foreign xml:lang="lat">Explicit</foreign></l></trailer>
+      </div>
+    </body>
+  </text>
+</TEI>

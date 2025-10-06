@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Herzman-FourRomances-Export-22-Bib-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bibliography</title>
+        <author>Herzman, Ronald B.</author>
+        <author>Drake, Graham</author>
+        <author>Salisbury, Eve</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Amster, Mara I.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Church, Jennifer</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-09" to="2025-10">Audited documents prior to print/export</resp>
+          <resp from="2025-09" to="2025-09">Collected metadata</resp>
+          <resp from="2025-02" to="2025-04">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-10">Encoded TEI</resp>
+          <resp from="2025-08" to="2025-09">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-09">Entered corrections for digital edition</resp>
+          <resp from="2025-02" to="2025-09">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-10">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-12" to="2023-12">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Collated and entered corrections</resp>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Prepared edition for publication</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mara I. Amster</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Melissa Bernstein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jennifer Church</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Angela Gibson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ian Peddie</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ann Robinson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John William Sutton</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Dana M. Symons</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Herzman, Ronald B.</editor>
+            <editor>Drake, Graham</editor>
+            <editor>Salisbury, Eve</editor>
+            <title>Four Romances of England: King Horn, Havelok the Dane, Bevis of Hampton,
+              Athelston</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/herzman-fourromances/blob/main/herzman-fourromances-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1999</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Herzman-FourRomances-Export-22-Bib"/>
+      <div type="text">
+        <p style="heading">Select Bibliography</p>
+        <listBibl>
+          <bibl>Barron, W. R. J. <hi rend="italic">English Medieval Romance</hi>. London: Longman,
+            1987. [A general discussion of the genre, audience, and historical backgrounds.]</bibl>
+          <bibl>Brownlee, Kevin, and Marina Scordilis. <hi rend="italic">Romance: Generic
+              Transformation from Chrétien de Troyes to Cervantes</hi>. Hanover: University Press of
+            New England, 1985.</bibl>
+          <bibl>Crane, Susan. <hi rend="italic">Insular Romance: Politics, Faith, and Culture in
+              Anglo-Norman and Middle English Literature</hi>. Berkeley: University of California
+            Press, 1986. [Delineates distin-guishing features of English romance as well as cultural
+            and ideological issues.]</bibl>
+          <bibl>Fewster, Carol. <hi rend="italic">Traditionality and Genre in Middle English
+              Romance</hi>. Cambridge: D. S. Brewer, 1987. [Discusses theories and approaches,
+            implied audiences, style, structure, and romance narrativity.]</bibl>
+          <bibl>Frye, Northrop. <hi rend="italic">The Secular Scripture: A Study of the Structure of
+              Romance</hi>. Cambridge: Harvard University Press, 1976.</bibl>
+          <bibl>Hudson, Harriet. “Middle English Popular Romances: The Manuscript Evidence.” <hi
+              rend="italic">Manuscripta</hi> 28 (1984), 67–78. [Discusses the provenance of romance
+            manuscripts and their probable audiences.]</bibl>
+          <bibl>Hume, Kathryn. “The Formal Nature of Middle English Romance.” <hi rend="italic"
+              >Philological Quarterly</hi> 53 (1974), 158–80. [Distinguishes three types of romance
+            based upon the hero’s ability to fulfill his destiny.]</bibl>
+          <bibl>Knight, Stephen. “The Social Function of the Middle English Romance.” In <hi
+              rend="italic">Medieval Literature: Criticism, Ideology, &amp; History</hi>. Ed. David
+            Aers. New York: St. Martin’s Press, 1986. Pp. 99–122.</bibl>
+          <bibl>Loomis, Laura A. [Hibbard]. “The Auchinleck Manuscript and a Possible London
+            Bookshop of 1330–1340.” <hi rend="italic">PMLA</hi> 57 (1942), 595–627. [Study of
+            internal evidence in order to locate the manuscript’s production in a commercial
+            scriptorium in London.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Mediæval Romance in England: A
+              Study of the Sources and Analogues of the Non-Cyclic Metrical Romances</hi>. 1924;
+            rpt. New York: Burt Franklin, 1960. [A useful study of various versions of thirty-nine
+            English romances.]</bibl>
+          <bibl>Mehl, Dieter. <hi rend="italic">The Middle English Romances of the Thirteenth and
+              Fourteenth Centuries</hi>. London: Routledge &amp; Kegan Paul, 1968. Pp. 146–52.
+            [Addresses historical contexts, audience, generic definitions, narrative techniques of
+            several categories of romance.]</bibl>
+          <bibl>Pearsall, Derek. “The Development of Middle English Romance.” <hi rend="italic"
+              >Mediaeval Studies</hi> 27 (1965), 91–116. [Follows the growth and development of the
+            genre from 1240 to 1400.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Middle English Romance and Its Audience.” In <hi
+              rend="italic">Historical &amp; Editorial Studies in Medieval &amp; Early Modern
+              English for Johan Gerritsen</hi>. Ed. MaryJo Arn and Hanneke Wirtjes, with Hans
+            Jansen. Froningen: Wolters-Noordhoof, 1985. Pp. 37–47. [Discusses a range of possible
+            audiences from urban to provincial.]</bibl>
+          <bibl>Ramsey, Lee C. <hi rend="italic">Chivalric Romances: Popular Literature in Medieval
+              England</hi>. Bloomington: Indiana University Press, 1983. [A general survey of the
+            origins of medieval romance as well as the major types of English romance plots.
+            Includes a chronological list of romances.]</bibl>
+          <bibl>Strohm, Paul. “Storie, Spelle, Geste, Romaunce, Tragedie: Generic Distinctions in
+            the Middle English Troy Narratives.” <hi rend="italic">Speculum</hi> 46 (1971), 348–59.
+            [A useful study of genre as perceived by medieval writers.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Origin and Meaning of Middle Engish
+            Romaunce.” <hi rend="italic">Genre</hi> 10 (1977), 1–28. [Discusses the use of the term
+            from the twelfth through the fifteenth centuries and addresses such related terms as
+            storie, geste, and lay.]</bibl>
+          <bibl>Wittig, Susan. <hi rend="italic">Stylistic and Narrative Structures in the Middle
+              English Romances</hi>. Austin: University of Texas Press, 1978. [A study of the
+            problems of stylistic analysis and various structural units.]</bibl>
+        </listBibl>
+        <p style="heading4">Select Bibliography for <hi rend="italic">King Horn</hi></p>
+        <p style="heading2">Manuscripts</p>
+        <listBibl>
+          <bibl>Cambridge University Library MS Gg.4.27.2.</bibl>
+          <bibl>British Library MS Harley 2253.</bibl>
+          <bibl>Bodleian Library MS Laud Misc. 108.</bibl>
+        </listBibl>
+        <p style="heading2">Critical Editions</p>
+        <listBibl>
+          <bibl>Allen, Rosamund S., ed. <hi rend="italic">King Horn</hi>. New York: Garland Medieval
+            Texts, 1984.</bibl>
+          <bibl>Hall, Joseph, ed. <hi rend="italic">King Horn</hi>. Oxford: Oxford University Press,
+            1901.</bibl>
+          <bibl>French, Walter Hoyt, and Charles Brockway Hale, eds. <hi rend="italic">Middle
+              English Metrical Romances</hi>. New York: Prentice-Hall, 1930.</bibl>
+          <bibl>Gibbs, A. C., ed. <hi rend="italic">King Horn, Havelok, Floriz &amp; Blauncheflur,
+              Orfeo, Amis &amp; Amiloun</hi>. Evanston: Northwestern University Press, 1966.</bibl>
+          <bibl>McKnight, George H. ed. <hi rend="italic">King Horn, Floriz &amp; Blauncheflur, The
+              Assumption of Our Lady</hi>. EETS o.s. 14. London: Oxford University Press, 1901; rpt.
+            1962.</bibl>
+          <bibl>Sands, Donald B., ed. <hi rend="italic">Middle English Verse Romances</hi>. New
+            York: Holt, Rinehart and Winston, 1966.</bibl>
+        </listBibl>
+        <p style="heading2">Related Studies</p>
+        <listBibl>
+          <bibl>Allen, Rosamund “The Date and Provenance of <hi rend="italic">King Horn</hi>: Some
+            Interim Reassessments.” In <hi rend="italic">Medieval English Studies Presented to
+              George Kane</hi>. Ed. Edward Donald Kennedy, Ronald Waldron, and Joseph S. Wittig.
+            Suffolk, England: St. Edmundsburg Press, 1988. Pp. 99–126. [Based on both internal and
+            external evidence, argues a later date for all MSS than previously thought.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Some Textual Cruces in <hi rend="italic">King
+              Horn</hi>.” <hi rend="italic">Medium Aevum</hi> 53 (1984), 73–77. [Isolates six
+            examples where cruces occur by comparing three MS versions.]</bibl>
+          <bibl>Dannebaum, Susan. “‘Fairer Bi One Ribbe/Thane Eni Man That Libbe’ (<hi rend="italic"
+              >King Horn</hi> C315–16).” <hi rend="italic">Notes and Queries</hi> 226 (1981),
+            116–17. [Posits a masculine ideal for physical beauty operating within the poem that
+            derives from Adam and Christ.]</bibl>
+          <bibl>French, Walter H. <hi rend="italic">Essays on King Horn</hi>. Ithaca: Cornell
+            University Press, 1940. [Contains theories about meter, text, and personal
+            names.]</bibl>
+          <bibl>Hearn, Matthew. “Twins of Infidelity: The Double Antagonists of <hi rend="italic"
+              >King Horn</hi>.” <hi rend="italic">Medieval Perspectives</hi> 8 (1993), 78–86. [“<hi
+              rend="italic">King Horn</hi> deals with the turbulent historical forces of its time in
+            a rather oblique fashion, repressing the real or ‘historically accurate’ traces of
+            domestic social tensions and projecting them instead onto a set of fictional antagonists
+            more ideologically digestible to its audience: infidel Saracens and the traitor
+            Fikenhild” (p. 79).]</bibl>
+          <bibl>Hurt, James R. “The Texts of <hi rend="italic">King Horn</hi>.” <hi rend="italic"
+              >Journal of the Folklore Institute</hi> 7 (1970), 47–59.</bibl>
+          <bibl>Hynes-Berry, Mary. “Cohesion in <hi rend="italic">King Horn</hi> and <hi
+              rend="italic">Sir Orfeo</hi>.” <hi rend="italic">Speculum</hi> 50 (1975), 652–70.
+            [Argues that all episodes fit into a “cohesively progressive pattern” in which every
+            incident contributes to narrative development.]</bibl>
+          <bibl>Jamison, Carol. “A Description of the Medieval Romance Based upon <hi rend="italic"
+              >King Horn</hi>.” <hi rend="italic">Quondam-et-Futurus</hi> 1:2 (Summer 1991), 44–58.
+            [General discussion of generic evolution, poetic style, audience, and structural
+            principles.]</bibl>
+          <bibl>McLaughlin, John. “The Return Song in Medieval Romance and Ballad: <hi rend="italic"
+              >King Horn</hi> and <hi rend="italic">King Orfeo</hi>.” <hi rend="italic">Journal of
+              American Folklore</hi> 88 (1975), 304–07. [Links twentieth-century Serbo-Croatian
+            heroic poetry, medieval French romances, and nineteenth-century Scottish ballads, by
+            recognizing a “return song” pattern common to all.]</bibl>
+          <bibl>Nimchinsky, Howard. “Orfeo, Guillaume, and Horn.” <hi rend="italic">Romance
+              Philology</hi> 22 (1968), 1–14. [Comparative cross-cultural study of similar
+            passages.]</bibl>
+          <bibl>O’Brien, Timothy. “Word Play in the Allegory of <hi rend="italic">King Horn</hi>.”
+              <hi rend="italic">Allegorica</hi> 7 (1982), 110–22. [Magic rings, Horn’s disguises,
+            and the love triangle “comment upon the political and psychological meanings contained
+            in the poem’s word play” (p. 121).]</bibl>
+          <bibl>Purdon, Liam. “<hi rend="italic">King Horn</hi> and the Medieval Trope of Christ the
+            Lover-Knight.” <hi rend="italic">Proceedings of the PMR Conference at Villanova</hi> 10
+            (1985), 137–47. [Horn is not only physically beautiful but achieves a state of moral
+            perfection. By incorporating features of the trope of Christ the Lover-Knight the poet
+            establishes the logic of Horn’s many trials and generates the poem’s suspense.]</bibl>
+          <bibl>Quinn, William A. <hi rend="italic">Jongleur: A Modified Theory of Oral
+              Improvisation and Its Effects on the Performance and Transmission of Middle English
+              Romance</hi>. Washington, D.C.: University Press of America, 1982. [Discusses the
+            close relationship between oral performance and the making of written texts.]</bibl>
+          <bibl>Scott, Anne. “Plans, Predictions, and Promises: Traditional Story Techniques and the
+            Configuration of Word and Deed in <hi rend="italic">King Horn</hi>.” In <hi
+              rend="italic">Studies in Medieval English Romances: Some New Approaches</hi>. Ed. D.
+            S. Brewer. Cambridge: Brewer, 1988. Pp. 37–68. [Explores the “binding power of promises,
+            intentions, and desires” and the poet’s means of reaffirming and challenging
+            “traditional narrative techniques” (p. 47).]</bibl>
+          <bibl>Speed, Diane. “The Saracens of <hi rend="italic">King Horn</hi>.” <hi rend="italic"
+              >Speculum</hi> 65 (1990), 564–95. [The Saracens named in the poem are not “figures
+            from real life,” but rather a “literary phenomenon.”]</bibl>
+          <bibl>Ziegler, Georgianna. “Structural Repetition in <hi rend="italic">King Horn</hi>.”
+              <hi rend="italic">Neuphilologische Mitteilungen</hi> 81 (1980), 403–08. [Divides the
+            narrative into four parts and draws attention to “the skillful interweaving of matter
+            with form” (p. 403).]</bibl>
+        </listBibl>
+        <p style="heading4">Select Bibliography for <hi rend="italic">Havelok the Dane</hi></p>
+        <p style="heading2">Manuscripts</p>
+        <listBibl>
+          <bibl>Bodleian Library, Oxford, MS Laud Misc. 108 (c. 1300–25).</bibl>
+          <bibl>Cambridge University Library Add. 4407 (fragments).</bibl>
+        </listBibl>
+        <p style="heading2">Editions</p>
+        <listBibl>
+          <bibl>French, Walter Hoyt, and Charles Brockway Hale, eds. <hi rend="italic">Middle
+              English Metrical Romances</hi>. New York: Prentice-Hall, 1930. [Older edition with
+            textual notes and limited glossary.]</bibl>
+          <bibl>Holthausen, Ferdinand, ed. <hi rend="italic">Havelok</hi>. London: Sampson Low
+            Marton &amp; Co., 1901. [Brief notes and glossary.]</bibl>
+          <bibl>Madden, Sir Frederic, ed. <hi rend="italic">Havelok the Dane</hi>. Roxburghe Club.
+            London: W. Nicol, Shakespeare Press, 1828. </bibl>
+          <bibl>Sands, Donald B., ed. <hi rend="italic">Middle English Verse Romances</hi>. New
+            York: Holt, Rinehart, and Winston, 1966. [An edition with regularized spelling for
+            modern students and scholars; discusses major textual cruces for this audience and
+            updates French and Hale and Skeat.]</bibl>
+          <bibl>Skeat, W. W., ed. <hi rend="italic">The Lay of Havelok the Dane</hi>. Second ed.
+            Revised by Kenneth Sisam. Oxford: Clarendon Press, 1956. [Early scholarly text with more
+            intensive textual/cultural notes than F&amp;H, but much superseded by later
+            editions.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">The Lay of Havelok the
+              Dane</hi>. EETS e.s. 4. London: N. Trübner &amp; Co., 1868. [Identifies the poem as in
+            no way connected with France, but derived from British or Welsh traditions. Cautions
+            against close association with the lays of Marie de France.]</bibl>
+          <bibl>Smithers, G. V., ed. <hi rend="italic">Havelok</hi>. Oxford: Clarendon Press, 1987.
+            [Updated edition that includes thorough introduction to the poem’s sources, date of
+            composition, dialect and provenance, with commentary on the text. The edition also
+            prints lines connected with the poem from Cambridge University Library MS Add. 4407
+            which do not appear in Laud MS 108.]</bibl>
+        </listBibl>
+        <p style="heading2">Related Studies</p>
+        <listBibl>
+          <bibl>Barron, W. R. J. <hi rend="italic">English Medieval Romance</hi>. London: Longman,
+            1987. [Comprehensive general study of generic features, historical contexts, and
+            evolutionary principles.]</bibl>
+          <bibl>Boitani, Piero. <hi rend="italic">English Medieval Narrative in the 13th and 14th
+              Centuries</hi>. Trans. Joan Krakover Hall. Cambridge: Cambridge University Press,
+            1982. [Surveys several medieval English literary genres, including religious writing,
+            comic writing, dream visions, and romances, with separate chapters on Gower and Chaucer;
+            compares English with French culture and romance with epic; discusses how Chaucer uses
+            romance.]</bibl>
+          <bibl>Bradbury, Nancy Mason. “The Traditional Origins of <hi rend="italic">Havelok the
+              Dane</hi>.” <hi rend="italic">Studies in Philology</hi> 90 (1993), 115–42. [Employs
+            folklore methods for tracing oral origins of the Havelok story as presented in the
+            English poem.]</bibl>
+          <bibl>Crane, Susan. <hi rend="italic">Insular Romance: Politics, Faith, and Culture in
+              Anglo-Norman and Middle English Literature</hi>. Berkeley: University of California
+            Press, 1986. [Sees the exile and return pattern of <hi rend="italic">Havelok</hi> as a
+            frame for ideological expression of the nobility’s interest in land and personal
+            title.]</bibl>
+          <bibl>Delaney, Sheila, and Vahan Ishkanian. “Theocratic and Contractual Kingship in <hi
+              rend="italic">Havelok the Dane</hi>.” <hi rend="italic">Zeitschrift für Anglistik und
+              Amerikanistik</hi> 22 (1974), 290–302. [Argues for a date in later decades of the
+            thirteenth century and marks parallels between Havelok and Edward I.]</bibl>
+          <bibl>Halverson, J. “<hi rend="italic">Havelok the Dane</hi> and Society.” <hi
+              rend="italic">Chaucer Review</hi> 6 (1971), 142–51. [Supports the view of a non-noble
+            audience for the poem.]</bibl>
+          <bibl>Hanning, Robert W. “<hi rend="italic">Havelok the Dane</hi>: Structure, Symbols,
+            Meaning.” <hi rend="italic">Studies in Philology</hi> 64 (1967), 586–605. [Argues that
+            despite its lack of aesthetic beauty, the poem is deserving of commendation for its
+            unified structure, for its consistent use of central symbolic acts or devices, and for
+            the way in which structure and symbols cooperate to establish and clarify the work’s
+            central meanings (p. 587).]</bibl>
+          <bibl>Haskin, Dayton. “Food, Clothing and Kingship in <hi rend="italic">Havelok the
+              Dane</hi>.” <hi rend="italic">American Benedictine Review</hi> 24 (1973), 204–13.
+            [Furthers the discussion of Havelok’s kingship “by attending to the hero’s interaction
+            with his subjects and his dependence upon them for his eventual truimph, with a view of
+            amplifying our understanding of the poet’s vision of the apt ruler” (p. 205).]</bibl>
+          <bibl>Hirsch, John C. “<hi rend="italic">Havelok</hi> 2933: A Problem in Medieval Literary
+            History.” <hi rend="italic">Neuphilologische Mitteilungen</hi> 78 (1977), 339–49. [“Such
+            romances as <hi rend="italic">Havelok</hi> tell us not so much what the lower classes
+            thought of the upper, as what the upper classes liked to think the lower classes thought
+            of them” (p. 343).]</bibl>
+          <bibl>Kretzschmar, William A., Jr. “Three Stories in Search of an Author: The Narrative
+            Versions of <hi rend="italic">Havelok</hi>.” <hi rend="italic">Allegorica</hi> 5 (1980),
+            21–97. [Compares first 800 lines of Gaimar’s <hi rend="italic">Estoire des Angleis</hi>
+            (c. 1150) with the <hi rend="italic">Lai d’Haveloc</hi> of the latter half of the
+            twelfth century. Presents complete text and translation of the <hi rend="italic"
+              >Lai</hi>.]</bibl>
+          <bibl>Levine, Robert. “Who Composed <hi rend="italic">Havelok</hi> for Whom?” <hi
+              rend="italic">Yearbook of English Studies</hi> 22 (1992), 95–104. [Rejects the
+            characterization of the poem’s audience as lower class.]</bibl>
+          <bibl>Liuzza, Roy Michael. “Representation and Readership in the ME <hi rend="italic"
+              >Havelok</hi>.” <hi rend="italic">Journal of English and Germanic Philology</hi> 93
+            (1994), 504–19. [Sees the catalogue of fish as part of a larger system of economic
+            exchange.]</bibl>
+          <bibl>McIntosh, Angus. “The Language of the Extant Versions of <hi rend="italic">Havelok
+              the Dane</hi>.” <hi rend="italic">Medium Aevum</hi> 45 (1976), 36–49. [Disputes, by
+            linguistic analysis, the scholarly presumption of Lincolnshire origin; instead, argues
+            Norfolk influence.]</bibl>
+          <bibl>Mills, Maldwyn. “Havelok’s Return.” <hi rend="italic">Medium Aevum</hi> 45 (1976),
+            20–35. [Explores the return scene to shed light on the genesis and unity of the
+            poem.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Havelok and the Brutal Fisherman.” <hi
+              rend="italic">Medium Aevum</hi> 36 (1967), 219–30. [Argues that Grim is not as good as
+            he seems.]</bibl>
+          <bibl>Pearsall, Derek. “John Capgrave’s Life of St. Katharine and Popular Romance Style.”
+              <hi rend="italic">Medievalia et Humanistica</hi> 6 (1975), 121–37. [John Capgrave, a
+            fifteenth-century Augustinian friar, knew and mimicked romance formulae found in <hi
+              rend="italic">Havelok</hi> in his Life of St. Katharine. The close thematic
+            associations of hagiography and romance are textually manifest as well.]</bibl>
+          <bibl>Purdon, Liam O. “The Rite of Vassalage in <hi rend="italic">Havelok the Dane</hi>.”
+              <hi rend="italic">Medievalia et Humanistica</hi> 20 (1993), 25–39. [The rites
+            solidifying the connection between a vassal and his feudal lord combine homage, fealty,
+            and investiture with a fief. These rites, incomplete or bypassed, help to explain the
+            motives and actions of characters in the romance.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “‘Na Yaf He Nouth a Stra’ in <hi rend="italic"
+              >Havelok</hi>.” <hi rend="italic">Philological Quarterly</hi> 69 (1990), 377–83.
+            [Argues that the feudal act of renunciation is suggested by the placement, repetition,
+            and language of this particular expression.]</bibl>
+          <bibl>Ramsey, Lee C. <hi rend="italic">Chivalric Romances: Popular Literature in Medieval
+              England</hi>. Bloomington: Indiana University Press, 1983. [A study of the Middle
+            English romance with a chapter on the child exile story, comparing the characters of the
+            king and traitors and the relation of heroes to heroines in <hi rend="italic"
+              >Havelok</hi> and <hi rend="italic">King Horn</hi>. Sees royalist sympathies and a
+            concern for the rule of law in thirteenth-century England.]</bibl>
+          <bibl>Reiss, Edmund. “<hi rend="italic">Havelok the Dane</hi> and Norse Mythology.” <hi
+              rend="italic">Modern Language Quarterly</hi> 27 (1966), 115–24. [Reveals Scandinavian
+            mythological traces in several characters of the poem.]</bibl>
+          <bibl>Scott, Anne. “Language as Convention, Language as Sociolect in <hi rend="italic"
+              >Havelok the Dane</hi>.” <hi rend="italic">Studies in Philology</hi> 89 (1992),
+            137–60. [Views formulaic style of <hi rend="italic">Havelok</hi> as an expression of
+            Havelok’s acquisition of “language” or “sociolect” appropriate for a king.]</bibl>
+          <bibl>Smithers, G. V. “The Style of <hi rend="italic">Havelok</hi>.” <hi rend="italic"
+              >Medium Aevum</hi> 57 (1988), 190–218. [Meticulously detailed study of repetition,
+            periphrasis, apostrophe, simile, hyperbole, and other devices, with comparisons to
+            Anglo-Norman rhetorical practice on which these devices may have depended.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “The Scansion of <hi rend="italic">Havelok</hi>
+            and the Use of ME <hi rend="italic">-en</hi> and <hi rend="italic">-e</hi> in <hi
+              rend="italic">Havelok</hi> and by Chaucer.” In <hi rend="italic">Middle English
+              Studies Presented to Norman Davis in Honour of His Seventieth Birthday</hi>. Ed.
+            Douglas Gray and E. G. Stanley. Oxford: Clarendon Press, 1983. Pp. 195–234. [Preliminary
+            study of versification for his 1987 edition.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. “Four Notes on Havelok.” In <hi rend="italic">So
+              Meny People, Longages and Tonges: Philological Essays in Scots and Mediaeval English
+              Presented to Angus McIntosh</hi>. Ed. Michael Benskin and M. L. Samuels. Edinburgh:
+            Middle English Dialect Project, 1981. Pp. 191–209. [Precedes his 1987 edition with a
+            fuller discussion of certain textual cruces.]</bibl>
+          <bibl>Staines, David. “<hi rend="italic">Havelok the Dane</hi>: A Thirteenth-Century
+            Handbook for Princes.” <hi rend="italic">Speculum</hi> 51 (1976), 602–23. [Argues that
+              <hi rend="italic">Havelok</hi> is a mirror for princes with implicit admonitions to
+            treat the lower classes well and observe the rule of law. Sees a number of interesting
+            parallels between Havelok and Edward I.]</bibl>
+        </listBibl>
+        <p style="heading4">Select Bibliography for <hi rend="italic">Bevis of Hampton</hi></p>
+        <p style="heading2">Manuscripts</p>
+        <listBibl>
+          <bibl>Auchinleck MS, fols. 176–201.</bibl>
+          <bibl>University Library, Cambridge Ff. 2.38.</bibl>
+          <bibl>Caius College, Cambridge, Gonville and Caius 175.</bibl>
+          <bibl>Royal Library, Naples, XIII, B 29.</bibl>
+          <bibl>Duke of Sutherland (now Egerton 2862).</bibl>
+          <bibl>Chetham Library, no. 8009, Manchester.</bibl>
+          <bibl>Douce fragments, No. 19.</bibl>
+          <bibl>Early printed text by Wynkyn de Worde.</bibl>
+        </listBibl>
+        <p style="heading2">Edition</p>
+        <listBibl>
+          <bibl>Kölbing, Eugen, ed. <hi rend="italic">The Romance of Sir Beves of Hamtoun</hi>. EETS
+            e.s. 46, 48, 65. London: Kegan Paul, Trench Trübner &amp; Co., 1885–94, rpt. as 1 vol.,
+            1973.</bibl>
+        </listBibl>
+        <p style="heading2">Related Studies</p>
+        <listBibl>
+          <bibl>Baldwin, Charles Sears. <hi rend="italic">Three Medieval Centuries of Literature in
+              England 1100–1400</hi>. New York: Phaeton Press, 1968. Pp. 109–12, 255–56. [Study of
+            several genres in their historical contexts.]</bibl>
+          <bibl>Barron, W. R. J. <hi rend="italic">English Medieval Romance</hi>. London: Longman,
+            1987. [Though the analysis of <hi rend="italic">Bevis</hi> is by no means extensive,
+            references are useful in that they place the work in the larger context of a Middle
+            English romance tradition.]</bibl>
+          <bibl>Baugh, A. C. “The Making of <hi rend="italic">Beves of Hampton</hi>.” <hi
+              rend="italic">Bibliographical Studies in Honor of Rudolf Hirsch</hi>. Ed. William E.
+            Miller and Thomas G. Waldman. Philadelphia: University of Pennsylvania Press, 1974. Pp.
+            15–37. [This study is important not only for the textual tradition of <hi rend="italic"
+              >Bevis</hi>, but for its insights with respect to a Middle English romance tradition
+            generally.]</bibl>
+          <bibl>Bennett, J. A. W. <hi rend="italic">Middle English Literature</hi>. Ed. Douglas
+            Gray. Oxford: Clarendon Press, 1986. Pp. 91, 125–26, 194. [General information.]</bibl>
+          <bibl>Brownrigg, Linda. “The Taymouth Hours and the Romance of <hi rend="italic">Beves of
+              Hampton</hi>.” <hi rend="italic">English Manuscript Studies 1100–1700</hi> 1 (1989),
+            222–41. [Looks for stylistic similarities between Bevis and one of the outstanding
+            contemporary examples of English MS illumi-nation.]</bibl>
+          <bibl>Burrow, J. A. <hi rend="italic">Essays on Medieval Literature</hi>. Oxford:
+            Clarendon Press, 1984. Pp. 63, 68, 107. [Argues Chaucer’s use of Bevis in Sir
+            Thopas.]</bibl>
+          <bibl>Jacobs, Nicolas. “<hi rend="italic">Sir Degarré</hi>, <hi rend="italic">Lay le
+              Freine</hi>, <hi rend="italic">Beves of Hamtoun</hi>, and the ‘Auchinleck Bookshop.’”
+              <hi rend="italic">Notes and Queries</hi> 227 (Aug. 1982), 294–301. [Demonstrates the
+            interrelatedness of these Auchinleck romances. Draws parallels between the dragon fight
+            in <hi rend="italic">Degaré</hi> and that in <hi rend="italic">Bevis</hi>.]</bibl>
+          <bibl>Kane, George. <hi rend="italic">Middle English Literature: A Critical Study of the
+              Romances, the Religious Lyrics, Piers Plowman</hi>. London: Methuen, 1951. Pp. 10, 27,
+            46, 50–51, 58. [Situates <hi rend="italic">Bevis</hi> in the romance tradition.]</bibl>
+          <bibl>Kinghorn, A. M. <hi rend="italic">The Chorus of History: Literary-Historical
+              Relations in Renaissance Britain</hi>. New York: Barnes and Noble, Inc., 1971. Pp.
+            146–47. [Shows the popularity of <hi rend="italic">Bevis</hi> in MS and printed editions
+            in the fifteenth and sixteenth centuries.]</bibl>
+          <bibl>Loomis, Laura A. [Hibbard]. <hi rend="italic">Mediæval Romance in England</hi>.
+            London: Oxford University Press, 1924; rpt. New York: Burt Franklin, 1960. [A
+            comprehensive study of sources and analogues.]</bibl>
+          <bibl>Mehl, Dieter. <hi rend="italic">The Middle English Romances of the Thirteenth and
+              Fourteenth Centuries</hi>. London: Routledge and Kegan Paul, 1968. Pp. 211–21. [A good
+            treatment of the structure of <hi rend="italic">Bevis</hi>, despite a disconcerting and
+            misleading tendency to call the work a novel.]</bibl>
+          <bibl>Weiss, Judith. “The Major Interpolation in <hi rend="italic">Sir Beues of
+              Hamtoun</hi>.” <hi rend="italic">Medium Aevum</hi> 48 (1979), 71–76. [Changes made to
+            the Anglo-Norman <hi rend="italic">Boeve de Haumtone</hi> have the effect of “stamping
+            the ineradicable basic Englishness of its hero firmly on our minds at the close of the
+            romance” (p. 76).]</bibl>
+        </listBibl>
+        <p style="heading4">Select Bibliography for <hi rend="italic">Athelston</hi></p>
+        <p style="heading2">Manuscript</p>
+        <listBibl>
+          <bibl>Caius College Library, Cambridge MS 175. Fols. 120r–31r. [The MS also contains <hi
+              rend="italic">Richard Coeur de Lyon</hi>, <hi rend="italic">Sir Isumbras</hi>, the <hi
+              rend="italic">Life of St. Catherine</hi>, a short work entitled <hi rend="italic"
+              >Matutinas de cruce</hi>, <hi rend="italic">Beves of Hampton</hi>, and <hi
+              rend="italic">De Spiritu Gurydonis</hi>. <hi rend="italic">Athelston</hi> appears
+            before <hi rend="italic">Beves of Hampton</hi>.]</bibl>
+        </listBibl>
+        <p style="heading2">Editions</p>
+        <listBibl>
+          <bibl>French, Walter Hoyt, and Charles Brockway Hale, eds. <hi rend="italic">Middle
+              English Metrical Romances</hi>. New York: Prentice Hall, 1930. Pp. 179–205.</bibl>
+          <bibl>Hartshorne, C. H., ed. “King Athelstone.” In <hi rend="italic">Ancient Metrical
+              Tales</hi>. London: W. Pickering, 1829. Pp. 1–34.</bibl>
+          <bibl>Hervey, Lord Francis, ed. <hi rend="italic">Corolla Sancti Edmundi: The Garland of
+              Saint Edmund King and Martyr</hi>. New York: E. P. Dutton &amp; Co., 1907. Pp.
+            525–55.</bibl>
+          <bibl>Sands, Donald B., ed. <hi rend="italic">Middle English Verse Romances</hi>. New
+            York: Holt, Rinehart, and Winston, 1966. Pp. 130–53.</bibl>
+          <bibl>Trounce, A. McI., ed. <hi rend="italic">Athelston: A Middle English Romance</hi>.
+            EETS o.s. 224. London: Oxford University Press, 1951. [A critical edition, including
+            comprehensive notes and introductory materials.]</bibl>
+          <bibl>Wright, T., and J. O. Halliwell. <hi rend="italic">Reliquiae Antiquae</hi>. Vol. 2.
+            London: J. R. Smith, 1845. Pp. 85–103.</bibl>
+          <bibl>Zupitza, J. “Die Romanze von Athelston.” <hi rend="italic">Englische Studien</hi> 13
+            (1883), 331–414.</bibl>
+        </listBibl>
+        <p style="heading2">Translation</p>
+        <listBibl>
+          <bibl>Rickert, Edith. <hi rend="italic">Early English Romances in Verse</hi>. The New
+            Medieval Library. Vol. 8. New York: Cooper Square Publishers, 1966. Pp. 67–85.</bibl>
+        </listBibl>
+        <p style="heading2">Related Studies</p>
+        <listBibl>
+          <bibl>Bennett, J. A. W. “<hi rend="italic">Havelok</hi>; <hi rend="italic">Gamelyn</hi>;
+              <hi rend="italic">Athelston</hi>; <hi rend="italic">Sir Amadace</hi>; <hi
+              rend="italic">Libeaus Desconus</hi>.” In <hi rend="italic">Middle English
+              Literature</hi>. Ed. Douglas Gray. Oxford: Clarendon Press, 1986. Pp. 154–69.</bibl>
+          <bibl>Beug, Kurt. “Die Sage von König Athelstan.” <hi rend="italic">Archiv</hi> 148
+            (1925), 181–95. [Admits the relevance of the Queen Emma legend, but points to a
+            historical Wymound, who was found guilty of simony by a Westminster council in
+            1102.]</bibl>
+          <bibl>Dickerson, A. Inskip. “The Subplot of the Messenger in <hi rend="italic"
+              >Athelston</hi>.” <hi rend="italic">Papers on Language and Literature</hi> 12 (1976),
+            115–24. [An analysis of the importance of the messenger — intriguingly named Athelston —
+            who provides a kind of moral center to the work, since he stands in contrast to his
+            namesake Athelston the king, who is easily duped and not easily dissuaded from his
+            folly. As a middle-class character, the messenger thus provides the focus for a
+            middle-class audience critical of abuses of royal prerogatives and power.]</bibl>
+          <bibl>Gerould, Gordon Hall. “Social and Historical Reminiscences in the Middle English <hi
+              rend="italic">Athelston</hi>.” <hi rend="italic">Englische Studien</hi> 36 (1906),
+            193–208. [Argues that the historical reminiscence is to the famous dispute between Henry
+            II and Thomas Becket, which ended in Becket’s death and his subsequent beatification.
+            Becket’s cult was widespread by the fourteenth century.]</bibl>
+          <bibl>Hibbard, Laura A. [Loomis]. “<hi rend="italic">Athelston</hi>, A Westminster
+            Legend.” <hi rend="italic">PMLA</hi> 36 (1921), 223–44. [Argues that the source for the
+            romance is the legendary <hi rend="italic">Queen Emma and the Ploughshare</hi>, a story
+            disseminated by monastic writers.]</bibl>
+          <bibl>&amp;mdash;&amp;mdash;&amp;mdash;. <hi rend="italic">Mediæval Romance in
+              England</hi>. New York: Burt Franklin, 1960. Pp. 143–46. [Places <hi rend="italic"
+              >Athelston</hi> among “legendary English heroes,” arguing a strong connection between
+            the fictional hero and the historical Athelstan, King of England from 925–39, conqueror
+            at the Battle of Brunanburh, and the “storied king for whom Guy of Warwick fought with
+            the Danish giant Colbrand.”]</bibl>
+          <bibl>Kiernan, Kevin S. “<hi rend="italic">Athelston</hi> and the Rhyme of the English
+            Romances.” <hi rend="italic">Modern Language Quarterly</hi> 36 (1975), 338–53. [Focuses
+            on the artistry of the tail-rhyme stanza and argues that irregularities in the stanzaic
+            structure in <hi rend="italic">Athelston</hi> are purposeful, deliberate attempts to
+            marry form and content in the work. Concludes that the work is among the most closely
+            knit of Middle English romances.]</bibl>
+          <bibl>Mehl, Dieter. <hi rend="italic">The Middle English Romances of the Thirteenth and
+              Fourteenth Centuries</hi>. London: Routledge and Kegan Paul, 1968. Pp. 146–52. [Places
+              <hi rend="italic">Athelston</hi> within the category of “homiletic romances,” and in
+            an analysis which focuses on both the specific details of the romance and on short
+            comparisons with a great many other works in Middle English, concludes that it is “one
+            of the most impressive of the homiletic romances” (p. 152).]</bibl>
+          <bibl>Pearsall, Derek. “The Development of Middle English Romances.” <hi rend="italic"
+              >Medieval Studies</hi> 27 (1965), 91–116. [Discusses the “grammar” of romance: formal
+            and literary conventions, social contexts, popular, non-courtly perspectives, and newly
+            emergent bourgeois audience.]</bibl>
+          <bibl>Pigg, Daniel. “The Implications of Realist Poetics in the Middle English <hi
+              rend="italic">Athelston</hi>.” <hi rend="italic">English Language Notes</hi> 32
+            (1994), 1–8. [Considers the importance of realist — as opposed to nominalist — sign
+            theory in relation to feudal monarchy. The Earl of Dover’s false accusations threaten
+            both the realist understanding of sign and referent and the feudal institutions that
+            such a system of signs upholds.]</bibl>
+          <bibl>Rowe, Elizabeth Ashman. “The Female Body Politic and the Miscarriage of Justice in
+              <hi rend="italic">Athelston</hi>.” <hi rend="italic">Studies in the Age of
+              Chaucer</hi> 17 (1995), 79–98. [Argues that the poem attacks the tyranny of Richard
+            II, but not monarchy itself; the poem may thus date as late as 1399. Furthermore, <hi
+              rend="italic">Athelston</hi> uses a female/maternal metaphor for the body politic
+            itself, which becomes silenced within the romance.]</bibl>
+          <bibl>Schmidt, A. V. C., and Nicholas Jacobs. <hi rend="italic">Medieval English Romances,
+              Part One</hi>. New York: Holmes &amp; Meier, 1980. Pp. 123–50. [General study of
+            select romances.]</bibl>
+          <bibl>Taylor, George. “Notes on <hi rend="italic">Athelston</hi>.” <hi rend="italic">Leeds
+              SE</hi> 3 (1934), 24–25. [Challenges several emendations made by previous
+            editors.]</bibl>
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>

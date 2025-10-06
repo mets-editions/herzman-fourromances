@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Herzman-FourRomances-Export-14-Horn-Enotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Explanatory Notes to King Horn</title>
+        <author>Herzman, Ronald B.</author>
+        <author>Drake, Graham</author>
+        <author>Salisbury, Eve</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Amster, Mara I.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Church, Jennifer</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-09" to="2025-10">Audited documents prior to print/export</resp>
+          <resp from="2025-09" to="2025-09">Collected metadata</resp>
+          <resp from="2025-02" to="2025-04">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-10">Encoded TEI</resp>
+          <resp from="2025-08" to="2025-09">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-09">Entered corrections for digital edition</resp>
+          <resp from="2025-02" to="2025-09">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-10">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-12" to="2023-12">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Collated and entered corrections</resp>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Prepared edition for publication</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mara I. Amster</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Melissa Bernstein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jennifer Church</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Angela Gibson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ian Peddie</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ann Robinson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John William Sutton</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Dana M. Symons</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Herzman, Ronald B.</editor>
+            <editor>Drake, Graham</editor>
+            <editor>Salisbury, Eve</editor>
+            <title>Four Romances of England: King Horn, Havelok the Dane, Bevis of Hampton,
+              Athelston</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/herzman-fourromances/blob/main/herzman-fourromances-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1999</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Herzman-FourRomances-Export-14-Horn-Enotes"/>
+      <div type="text">
+        <note type="enote" n="1">1–2<space rend="indent1"/><p>A conventional exhortation with strong
+            connections to minstrelsy and oral traditions. Hall suggests that the poem “was
+            apparently sung, or chanted, or recited . . . such a performance might have masked
+            certain metrical irregularities that instantly become evident to a modern prosodist. .
+            .” (p. 33). Because nearly every line of the extant texts contains divergent readings,
+            Allen posits an “exclusive common ancestor” from which all three derive. This ancestor
+            was not the author’s version; it is just possible that it was not written down. She
+            offers three reasons for variation in the MS tradition: “1) a later redaction by the
+            author; 2) later additions by performers or unprofessional adaptors; and 3) scribal
+            corruption” (p. 33). William A. Quinn in <hi rend="italic">Jongleur: A </hi><hi
+              rend="italic">Modified Theory of Oral Improvisation and Its Effects on the </hi><hi
+              rend="italic">Performance and Transmission of Middle English Romances</hi>
+            (Washington: University Press of America, 1982) agrees that King Horn and Havelok were
+            both performed rather than read to an audience. As in all oral performances, variations
+            occur while the story is being told and metrical irregularities are not as discernible
+            to the ear when there are distractions for the eye.</p></note>
+        <note type="enote" n="2">5<space rend="indent1"/><p>Hall suggests that <hi rend="italic"
+              >biweste</hi> is a formality in romance discourse. Direction and precise location are
+            problematic in this poem; among the MSS variation on direction is evident. See notes for
+            lines 1145 and 1339.</p></note>
+        <note type="enote" n="3">10<space rend="indent1"/><p>The description of Horn as “fair” is
+            important. More frequently are found superlative descriptions of the romance heroine,
+            though the Horn poet connects Horn with his mother’s good looks (lines 7–8). Havelok,
+            too, is extraordinarily handsome.</p></note>
+        <note type="enote" n="4">14–16<space rend="indent1"/><p><hi rend="italic">He was bright so
+              the glas; / He was </hi><hi rend="italic">whit so the flur; / Rose red was his
+              colur</hi>. Heroes described this way include <hi rend="italic">Guy of Warwick</hi>
+            (line 132), <hi rend="italic">Bevis </hi><hi rend="italic">of Hampton</hi> (line 2675),
+            and <hi rend="italic">Ipomadon</hi> (line 5021). Hall points out several passages like
+            this used to praise the beauty of women, but has “not found anything quite like it used
+            for a hero of romance” (p. 93). See note to line 319.</p></note>
+        <note type="enote" n="5">27–28<space rend="indent1"/><p>Villains are often placed in
+            opposition to the “good guys” in medieval romance. Thus Athulf is named just before
+            Fikenhild whose name, deriving from OE <hi rend="italic">ficol</hi>, means
+            “deceitful.”</p></note>
+        <note type="enote" n="6">34<space rend="indent1"/><p><hi rend="italic">Rod on his
+              pleing</hi>. Hall notes that “to play almost regularly means to ride out by wood or
+            water” (p. 96). But it could also suggest specific leisure time activities of the
+            aristocracy such as hunting and hawking.</p></note>
+        <note type="enote" n="7">41<space rend="indent1"/><p>Fifteen is a favorite number for
+            romance writers and probably has numerological significance, i.e., the combination of
+            seven (the number of completion) and eight (a number of new beginning). It could also be
+            a division between stages of life as seems to be suggested by line 18 announcing Horn’s
+            age.</p></note>
+        <note type="enote" n="8">42<space rend="indent1"/><p><hi rend="italic">Sarazins</hi>. This
+            is a contested term that could apply to many groups of non-Christian invaders. See Diane
+            Speed, “The Saracens of <hi rend="italic">King Horn</hi>,” <hi rend="italic"
+              >Speculum</hi> 65 (1990), 564–95.</p></note>
+        <note type="enote" n="9">48<space rend="indent1"/><p><hi rend="italic">Crist</hi>. The first
+            mention of the deity, unusual since more often Middle English romances begin with an
+            invocation or prayer. According to Allen in “Some Textual Cruces in <hi rend="italic"
+              >King Horn</hi>,” <hi rend="italic">Medium Aevum</hi> 53 (1984), 73–77, there are
+            “twenty-seven instances where God or Christ is mentioned in one or more of the three
+            manuscripts and in only five of them is there consensus of agreement in all three” (p.
+            73).</p></note>
+        <note type="enote" n="10">51<space rend="indent1"/><p><hi rend="italic">The king alighte of
+              his </hi><hi rend="italic">stede</hi>. The king’s dismounting is curious here.
+            Considering the threat he has just heard, remaining on horseback in a state of combat
+            readiness might be a prudent idea. In later romances hand-to-hand combat takes place
+            only after an opponent is knocked off his horse. Hall thinks this episode harkens back
+            to a pre-Conquest English custom.</p></note>
+        <note type="enote" n="11">68<space rend="indent1"/><p><hi rend="italic">The fremde ne the
+              sibbe</hi>. This is a conventional phrase meaning “no manner of men.”</p></note>
+        <note type="enote" n="12">77–78<space rend="indent1"/><p>Godhild’s retreat under <hi
+              rend="italic">a roche of stone</hi> may be to a subterranean chamber or cave. Her
+            desire to separate herself from the world is an act reminiscent of the desert saints but
+            also could be an act of self defense. Godhild is an uncommon name in England and is
+            probably derived from the German <hi rend="italic">Gundihildis</hi>.</p></note>
+        <note type="enote" n="13">105<space rend="indent1"/><p>That Horn is not slain is quite
+            extraordinary given his princely position and the possibility that revenge might occur.
+            The Greeks did not hesitate to kill Hector’s son during the Trojan War just for this
+            reason.</p></note>
+        <note type="enote" n="14">115<space rend="indent1"/><p>The <hi rend="italic">children</hi>
+            (i.e., young knights or squires) are Horn and his companions. At this point, Horn is
+            still considered a “child,” not only because of his tender age, but because of his
+            impending social, political, and military obligations. For this reason, Lee C. Ramsey,
+            in <hi rend="italic">Chivalric Romance: Popular </hi><hi rend="italic">Literature in
+              Medieval England</hi>, classifies <hi rend="italic">King Horn</hi> as a “child exile”
+            narrative, a story about “growing up in a personal, military, social, and political
+            sense” (p. 26). In line 1529 Athulf is called “child” not in the sense of immaturity,
+            but rather as an indication of his chivalry.</p></note>
+        <note type="enote" n="15">121<space rend="indent1"/><p><hi rend="italic">The se bigan to
+              </hi><hi rend="italic">flowe</hi>. “The sea reached high tide”; or “The sea began to
+            rise, or surge.” See <hi rend="italic">MED</hi>
+            <hi rend="italic">flouen</hi> v. 4a.</p></note>
+        <note type="enote" n="16">117–30<space rend="indent1"/><p>The boat has been set adrift and
+            becomes subject to the will of God. Tradition held that those exposed in such a manner,
+            just as those subjected to trials by ordeal, would die if guilty of some crime or sin.
+            It could also be construed as a test of faith. Other romance figures were tested in the
+            same ways, most notably Emaré or Custance as she is known in Chaucer’s The Man of Law’s
+            Tale and Crystabelle with her son Eglamour in the romance bearing his name. Saints were
+            also tested in this way.</p></note>
+        <note type="enote" n="17">142<space rend="indent1"/><p><hi rend="italic">Suddene</hi> is a
+            locale contested among scholars. It could be the Isle of Man, between Ireland and
+            Britain, Sussex, Cornwall, South Devon, Roxburgh, and/or the land of Suðdene as in <hi
+              rend="italic">Beowulf</hi>.</p></note>
+        <note type="enote" n="18">210<space rend="indent1"/><p><hi rend="italic">Well bruc thu thin
+              evening</hi>. The sense is “bear your name well.” As Hall notes, “let your fame be
+            spread wide as is the sound of a horn” (p. 107). Sands notes the puns on the name
+            “Horn,” the instrument called a “horn” which resounds literally, just as fame does
+            metaphorically, “Bi dales and bi dune” (p. 22).</p></note>
+        <note type="enote" n="19">224<space rend="indent1"/><p><hi rend="italic">fundling</hi>. C:
+              <hi rend="italic">fundyng</hi>. Horn and his companions are treated as orphans rather
+            than enemies, a sign of their lack of martial prowess and the accoutrements of
+            knighthood. Abandonment and orphanage were serious matters in the Middle Ages. See John
+            Boswell, <hi rend="italic">The Kindness of Strangers: The Abandonment of Children
+              </hi><hi rend="italic">in Western Europe from Late Antiquity to the Renaissance</hi>
+            (New York: Vintage Books, 1988).</p></note>
+        <note type="enote" n="20">237–38<space rend="indent1"/><p><hi rend="italic">Bivore me to
+              kerve, / And </hi><hi rend="italic">of the cupe serve</hi>. Serving at table was
+            customary practice for young boys at court. It taught both courtesy and
+          discipline.</p></note>
+        <note type="enote" n="21">258–61<space rend="indent1"/><p>Rymenhild’s speechlessness is a
+            symptom of love sickness. Her tongue is “broken,” as Sappho might say.</p></note>
+        <note type="enote" n="22">288<space rend="indent1"/><p>Athulf is Horn’s sworn brother. The
+            relationship is like that among the four men in <hi rend="italic">Athelston</hi> and
+            between Amis and Amiloun. In modern terms a sworn brother is synonymous with a “blood
+            brother,” though there is usually no exchange of bodily fluid.</p></note>
+        <note type="enote" n="23">300<space rend="indent1"/><p><hi rend="italic">wexe wild</hi>.
+            McKnight and Hall note the popularity of this expression. Here it is symptomatic of love
+            sickness and its accompanying loss of reason and self-control. Swooning could also be a
+            symptom of the condition.</p></note>
+        <note type="enote" n="24">303<space rend="indent1"/><p>F&amp;H note that often “beds were
+            the only furniture in most apartments, and hence served as chairs or benches.” A
+            maiden’s wooing of a man is less usual but may be found in <hi rend="italic">Amis and
+              Amiloun</hi>, <hi rend="italic">Bevis </hi><hi rend="italic">of Hampton</hi>, and <hi
+              rend="italic">Sir Eglamour</hi>.</p></note>
+        <note type="enote" n="25">319<space rend="indent1"/><p><hi rend="italic">Fairer bi one
+              ribbe</hi>. Having one more rib in the same way that (according to the creation story
+            in Genesis) woman has one more rib than man and is also the “fairer” sex. Susan
+            Dannebaum disagrees because “this interpretation has the disadvantage of paralleling
+            Horn’s physical excellence to that of women rather than to some masculine ideal” (p.
+            116). She sees instead a parallel between Adam and Christ, who were conventionally
+            thought by medieval commentators to have had perfect physical bodies. For example,
+            Nicholas Love’s <hi rend="italic">Mirrour of the Blessed Lyf of Jesu </hi><hi
+              rend="italic">Christ</hi> (a translation of St. Bonaventure’s <hi rend="italic"
+              >Meditationes Vitae Christi</hi>) sees both Adam and Christ as paragons of masculine
+            beauty. Dannenbaum believes a more typical (or at least male) medieval comparison would
+            link Havelok to these male figures, who symbolize old and new creation, rather than to
+            Eve, who symbolizes the fall of humanity. See also Liam Purdon, “<hi rend="italic">King
+              Horn</hi> and the Medieval Trope of Christ the Lover-Knight,” <hi rend="italic"
+              >Proceedings </hi><hi rend="italic">of the PMR Conference at Villanova</hi> 10 (1985),
+            137–47.</p></note>
+        <note type="enote" n="26">349<space rend="indent1"/><p><hi rend="italic">With him ye wolden
+              pleie</hi>. <hi rend="italic">Pleie</hi> has a range of meanings including those
+            implicating innocent games of “merriment” and “pleasure” as well as more serious games
+            of martial prowess and sexual intercourse. The context here seems to suggest a certain
+            degree of intense sexual interest, something akin to the pleasure of
+          foreplay.</p></note>
+        <note type="enote" n="27">386<space rend="indent1"/><p>Hall notes the paucity of description
+            for Rymenhild. Horn’s beauty does indeed seem of more interest. He, not she, illuminates
+            the bedchamber.</p></note>
+        <note type="enote" n="28">403<space rend="indent1"/><p><hi rend="italic">gan stonde</hi>.
+            “did stand.” <hi rend="italic">Gan</hi> is an auxiliary verb which simply intensifies
+            the main verb and is indicative of past tense and causative aspect. The H scribe
+            regularly substitutes <hi rend="italic">con</hi> for <hi rend="italic"
+          >gan</hi>.</p></note>
+        <note type="enote" n="29">405<space rend="indent1"/><p><hi rend="italic">Heo sette him on
+              pelle</hi>. According to the <hi rend="italic">MED</hi>, <hi rend="italic">pelle</hi>
+            has a range of meanings including “hide,” “skin,” “furred skin used as lining or trim on
+            a garment”; it could also refer to a cloak or mantle or a piece of parchment. F&amp;H
+            gloss the term “rich coverlet” (p. 37), with which Hall seems to agree when he calls it
+            the “rich cloth covering the bed” (p. 118). Hall bases his gloss on the use of the term
+            in the <hi rend="italic">King of Tars</hi>, “on bedde . . . that comelich was isprad
+            with palle” (lines 781–83).</p></note>
+        <note type="enote" n="30">423<space rend="indent1"/><p><hi rend="italic">Ich am icome of
+              thralle</hi>. Hall’s note illuminates Horn’s motive for describing himself as the son
+            of a thrall (peasant): “Horn’s statement is dictated by caution and the desire not to
+            compromise his master Athelbrus, who has told him to be careful and true to him” (p.
+            319).</p></note>
+        <note type="enote" n="31">427–28<space rend="indent1"/><p>The disparity in social status for
+            a marriage alliance such as this in actual life would be subject to disapprobation.
+            Being knighted raises Horn’s apparent social status, however, and renders his marriage
+            to a princess possible.</p></note>
+        <note type="enote" n="32">458<space rend="indent1"/><p><hi rend="italic">With loveliche
+              speche</hi>. Allen notes that this reading “does not make sense since Rymenhild is
+            begging Athelbrus (through Horn) to make a persuasive appeal to her father to knight her
+            lover.” Allen prefers <hi rend="italic">liþeliche</hi>, which she suggests adds the
+            appropriate touch of graciousness and humility. But Hall’s glossing of the term as
+            “loving and affectionate” makes sense too since Rymenhild’s appeal to her father is
+            predicated upon a close personal relation (father/daughter) just as much as it is based
+            upon the political relation of king and subject. As any daughter knows, a doting father
+            is easily persuaded with <hi rend="italic">loveliche speche</hi>.</p></note>
+        <note type="enote" n="33">504–05<space rend="indent1"/><p>A sword, spurs, and a horse are
+            essential items for a knight. Chivalry itself is derived etymologically from <hi
+              rend="italic">cheval</hi>, the French term for horse; a <hi rend="italic"
+              >chevalier</hi> is one who rides a horse, i.e., a knight. Also, the dubbing signals a
+            transformation in Horn’s martial capability because as a thrall he cannot bear arms.
+            Hall notes the oddity of the king’s putting the boots and spurs on Horn, a practice
+            usually enacted by knights rather than kings (p. 127).</p></note>
+        <note type="enote" n="34">512<space rend="indent1"/><p>The first request of a newly dubbed
+            knight is usually granted.</p></note>
+        <note type="enote" n="35">524<space rend="indent1"/><p>According to custom, any knight could
+            confer knighthood. Hall notes that “the knighting of Horn’s comrades at the same time as
+            himself is in accord with actual custom: the number of persons advanced with the
+            distinguished personage varies with his rank” (p. 127).</p></note>
+        <note type="enote" n="36">548–58<space rend="indent1"/><p>A central requirement of chivalry
+            is for a knight to prove himself worthy of his designated lady’s love.</p></note>
+        <note type="enote" n="37">567<space rend="indent1"/><p>Medieval romance is filled with
+            magical rings. One of the most memorable is found in Chrétien de Troyes’ <hi
+              rend="italic">Yvain</hi>. Given to the hero by a woman named Lunette, the ring confers
+            invisibility to its wearer, though its true power is to help a knight conquer his fear.
+            Rings could also function as signs of recognition between lovers, as in <hi
+              rend="italic">Erle of Tolous</hi>, <hi rend="italic">Sir Eglamour</hi>, <hi
+              rend="italic">Ipomadon</hi>, and <hi rend="italic">Floris and
+          Blanchefleur</hi>.</p></note>
+        <note type="enote" n="38">568<space rend="indent1"/><p>Dubbing as ornamentation is unique
+            here. In addition to signifying a ritual conferring knighthood, “dubbing” could also
+            mean “attire,” or “adornment,” or “finery” according to the <hi rend="italic"
+            >MED</hi>.</p></note>
+        <note type="enote" n="39">595<space rend="indent1"/><p>The arming of horses seems to have
+            developed in the late twelfth century. The first mention of it in literature is in
+            Wace’s <hi rend="italic">Roman de Rou</hi>. Hall dates the time when the usage became
+            common in England by comparing the Statute of Winchester (1285) with the Statute of 27
+            Edward I (1298): “The former does not make any mention of armor for the horse, the
+            latter makes it universally obligatory” (p. 132). This is Horn’s second steed; the first
+            is white. It is not unusual for literary knights to have three horses of different
+            colors, e.g., <hi rend="italic">Ipomadon</hi> and <hi rend="italic">Sir
+            Gowther</hi>.</p></note>
+        <note type="enote" n="40">602<space rend="indent1"/><p><hi rend="italic">hethene honde</hi>
+            is a frequently used expression of contempt. Saracens apply it to Christians just as
+            Christians apply it to Saracens and other enemies. See <hi rend="italic">Sowdone of
+              Babylone</hi> (line 956).</p></note>
+        <note type="enote" n="41">625<space rend="indent1"/><p>The carrying of an enemy’s
+            decapitated head on sword or spear point occurs not only in romance, but is a practice
+            that carried over into real life. During the Rising of 1381, for instance, rebels
+            paraded the heads of the Archbishop of Canterbury and several other government officials
+            through the streets of London before piking them on the city gates. One of their
+            leaders, Wat Tyler, suffered similar retaliatory treatment at the hands of the king’s
+            men.</p></note>
+        <note type="enote" n="42">650<space rend="indent1"/><p><hi rend="italic">The king him
+              rod</hi>. This is an example of a reflexive verb form (as if one were to say “the king
+            took himself out riding”).</p></note>
+        <note type="enote" n="43">652<space rend="indent1"/><p><hi rend="italic">moder child</hi>.
+            Hall suggests that this use of the phrase in the popular sense, i.e., as every man
+            alive, is comparatively rare in Middle English. Allen notes that <hi rend="italic"
+              >moder</hi> was probably added by the scribe of the lost ancestor she dubs the
+            “exclusive common.”</p></note>
+        <note type="enote" n="44">669<space rend="indent1"/><p><hi rend="italic">Seint Stevene</hi>.
+            This may refer to one of many saints by the name of Stephen, but a likely candidate
+            would be the deacon and protomartyr whose life first appears in Acts of the Apostles. He
+            was martyred by stoning.</p></note>
+        <note type="enote" n="45">689<space rend="indent1"/><p><hi rend="italic">Sture</hi>.
+            Probably the River Mersey, near modern Liverpool.</p></note>
+        <note type="enote" n="46">696<space rend="indent1"/><p>F&amp;H note this baring of the sword
+            as a “magical act” accompanying an oath. Hall sees the practice as more akin to realism:
+            “The practice was of the highest antiquity among all northern nations” (p.
+          137).</p></note>
+        <note type="enote" n="47">721<space rend="indent1"/><p>A <hi rend="italic">brunie</hi> was
+            an armored corselet secured to the body with laces.</p></note>
+        <note type="enote" n="48">726<space rend="indent1"/><p><hi rend="italic">wyve</hi>. “Wife”
+            should be read as “woman” here. At this point, Horn and Rymenhild are betrothed, but not
+            officially married.</p></note>
+        <note type="enote" n="49">736<space rend="indent1"/><p>Seven years is the regular
+            probationary period for a lover in ballad and romance. It is the measure of
+            apprenticeship. Rymenhild’s earlier premonition is fulfilled as will be her
+          dream.</p></note>
+        <note type="enote" n="50">744<space rend="indent1"/><p><hi rend="italic">feol to
+            grunde</hi>. The swoon is a trope of medieval romance, though Dante the Pilgrim does it
+            frequently in the <hi rend="italic">Commedia</hi>, a work not often considered part of
+            the romance tradition. As Allen notes, the episode here is not connected with
+            Rymenhild’s previous faint (p. 301).</p></note>
+        <note type="enote" n="51">799–804<space rend="indent1"/><p>Editors disagree about the
+            meaning of these lines. F&amp;H think that the glove exchange is a way for Horn and
+            Berild to pledge that they will not compete in love. Sands agrees with Hall when he
+            suggests the following reading, which seems to make sense here: “When you [Berild] go
+            a-wooing, entrust him [Horn] with your glove [i.e., as a symbol that he will not compete
+            with you]; [but if] you intend to marry, he’ll drive you away; because of Cutberd’s
+            handsomeness, assuredly you’ll never succeed [in love]” (p. 36).</p></note>
+        <note type="enote" n="52">805<space rend="indent1"/><p>Exactly the 25th of
+          December.</p></note>
+        <note type="enote" n="53">817–29<space rend="indent1"/><p>The contract made here Hall says
+            is “primitive” in character but seems to represent trial by combat, a practice in which
+            judgment is rendered by whoever wins the battle. Fighting a giant and defeating him is
+            the stuff of which legendary kings are made. (The battle of David and Goliath is one
+            outstanding Scriptural example.) There are many such contests in Arthurian romance,
+            including King Arthur’s confrontation with a giant at Mont St. Michel.</p></note>
+        <note type="enote" n="54">855<space rend="indent1"/><p><hi rend="italic">Right at prime
+              tide</hi>. In its original sense, this means something like “6 a.m.,” and is a term
+            borrowed from the monastic division of the day into seven prayer-periods (Lauds, Prime,
+            Terce, Sext, None, Vespers, Compline). This comes to mean simply “early in the morning”
+            in secular usage.</p></note>
+        <note type="enote" n="55">863<space rend="indent1"/><p><hi rend="italic">He yaf dentes
+              inoghe</hi>. “He gave enough blows,” a typical understatement in Old and Middle
+            English battle descriptions.</p></note>
+        <note type="enote" n="56">913<space rend="indent1"/><p>The wording of Horn’s reply is
+            confusing. He means something like the following: “Oh king, it would be wrong for me to
+            accept what you are offering — your daughter [in marriage].”</p></note>
+        <note type="enote" n="57">948<space rend="indent1"/><p><hi rend="italic">Knave</hi> is often
+            used less pejoratively in the Middle Ages, meaning “boy” or “servant” rather than in
+            more modern usage where it connotes “rascal,” “thief,” or worse.</p></note>
+        <note type="enote" n="58">959<space rend="indent1"/><p>F&amp;H identify Reynes as Furness,
+            Lancashire (northwestern England).</p></note>
+        <note type="enote" n="59">974<space rend="indent1"/><p>Sunday at six a.m. is probably a
+            significant time of arrival. It marks the sabbath [seventh] day in the Old Law and the
+            first day of creation in the New. The seven-year pattern is thus archetypal.</p></note>
+        <note type="enote" n="60">1036<space rend="indent1"/><p><hi rend="italic">Also he sprunge of
+              stone</hi>. Sands suggests that this refers to a non-Christian belief that the first
+            humans were fashioned out of stones, and this “stoniness” made them solitary (p. 42). In
+            his <hi rend="italic">Metamorphoses</hi>, the Roman poet Ovid depicts mythic creation as
+            Pyrrha and Deucalion, the only couple left on earth, sow stones from which a new
+            civilization arises. Hall’s note emphasizes a psychosocial dimension of the phrase
+            “which expresses the most complete isolation like that of one who, having come into the
+            world without human parents, is devoid of relations or ties of any sort” (p.
+          152).</p></note>
+        <note type="enote" n="61">1062<space rend="indent1"/><p>A beggar’s disguise is a favorite
+            trope of medieval romance writers. Hall compares this to an episode in the <hi
+              rend="italic">Gesta Herwardi</hi>, which tells how Hereward on behalf of a friend
+            rescues a Cornish princess. Also, there is a passage in Layamon’s <hi rend="italic"
+              >Brut</hi> (lines 30728–30827) which relates how Brian visited the court of Edwine.
+            The motif also recalls Odysseus’ entry into Ithaca in Homer’s <hi rend="italic"
+              >Odyssey</hi>.</p></note>
+        <note type="enote" n="62">1090<space rend="indent1"/><p><hi rend="italic">beggeres
+            rowe</hi>. A place where poor folk were relegated and made to wait for charitable
+            handouts. As a literary trope it appears in romances such as <hi rend="italic">Sir
+              Gowther</hi>.</p></note>
+        <note type="enote" n="63">1119<space rend="indent1"/><p>The use of an animal horn as a
+            drinking cup is ancient. Pliny, the Roman writer, describes them as vessels of the
+            “barbarians.” Other authoritative texts were more favorably disposed, equating specific
+            animal horns with humans of specific social ranks. The ancient Laws of Wales, for
+            instance, relegates the horn of a wild ox to a king, while those of lesser beasts were
+            appropriate for those of lower social status. The English drinking horn was much
+            admired. Decorated drinking horns were prized by kings. Ordericus Vitalis’ chronicle of
+            an Easter feast held by William the Conqueror describes the French nobility’s
+            appreciation for a beautifully decorated English drinking horn. Henry I and Edward I
+            were known to possess them. Hall finds it curious in light of these references that
+            drinking horns are not mentioned frequently in Middle English literature, though
+            Chaucer’s allusion in The Franklin’s Tale suggests its currency in the fourteenth
+            century:</p><quote><lg>
+              <l>Janus sit by the fyr, with double berd,</l>
+              <l>And drynketh of his bugle horn the wyn. (lines 1252–53)</l>
+            </lg></quote>
+        </note>
+        <note type="enote" n="64">1136–37<space rend="indent1"/><p>Resigned to what she perceives as
+            the beggar’s gluttony, Rymenhild offers him his original cup and the bowl she has just
+            filled as well.</p></note>
+        <note type="enote" n="65">1142<space rend="indent1"/><p>Given the frequency with which the
+            English decorated their drinking horns, the <hi rend="italic">cuppe white</hi> is
+            probably a horn mounted in silver. F&amp;H disagree on the meaning of the vessel,
+            however: “because drinking horns were made of horns of animals, they were white, while
+            bowls and other pottery were brown” (p. 58).</p></note>
+        <note type="enote" n="66">1128–42<space rend="indent1"/><p>F&amp;H note that a few beggars
+            were customarily admitted to wedding feasts and served wine by the bride. Ancient
+            Germanic custom, according to Hall, “required the lady or the daughter of the house to
+            bear the drinking horn or cup round to the guests assembled at the greater feasts” (p.
+            159). Such is Weoltheow’s duty in <hi rend="italic">Beowulf</hi>.</p></note>
+        <note type="enote" n="67">1144<space rend="indent1"/><p>Horn’s disguise is accompanied by
+            his telling of a parable in which he restates Rymenhild’s dream to her in an effort to
+            reveal his true identity. The pun on “horn” in line 1155 and the preceding lack of
+            protocol, i.e., his refusal to drink from anything other than the celebratory horn, is
+            designed to spark her memory. He, as a fisherman, has returned to check his net to see
+            whether she has remained true to him.</p></note>
+        <note type="enote" n="68">1162<space rend="indent1"/><p><hi rend="italic">Whi he bad to Horn
+              drinke</hi>. F&amp;H’s capitalization of Horn in this line indicates a reading that
+            explains why in disguise Horn commended Horn in line 1155. Such an expression of
+            celebration would be decidedly inappropriate at a wedding feast acknowledging another
+            man’s marriage.</p></note>
+        <note type="enote" n="69">1187<space rend="indent1"/><p>St. Giles (or Aegidius) was probably
+            abbot of a Benedictine monastery on the Rhone in Provence; he died in approximately 710.
+            He became very popular as the patron saint of the lame. There was an important shrine of
+            St. Giles at Nimes in southern France. The St. Giles Fair still exists at
+          Oxford.</p></note>
+        <note type="enote" n="70">1323<space rend="indent1"/><p><hi rend="italic">bi thine crois
+              lighte</hi>. This is “a phrase without parallel” according to Hall, though he points
+            to a similar phrase in <hi rend="italic">Havelok</hi>: <hi rend="italic">On his</hi><hi
+              rend="italic"> right shuldre swithe brith, / Brithter than gold ageyn the lith</hi>
+            (lines 2140–41).</p></note>
+        <note type="enote" n="71">1387<space rend="indent1"/><p><hi rend="italic">ut of stere</hi>.
+            C: <hi rend="italic">ut of stere</hi>. H: <hi rend="italic">out of hurne</hi>. L: <hi
+              rend="italic">out of scyp sterne</hi>. Allen: <hi rend="italic">out of herne</hi>.
+            F&amp;H gloss <hi rend="italic">stere</hi> simply as “boat” while Sands gives the
+            following reading: “They went over the stern [lit. ‘rudder’] away from Horn’s banner”
+            (p. 51). The other MS readings and Allen’s emendation illuminate the scene in greater
+            detail and suggest a third reading. Since ME <hi rend="italic">hirne</hi> means a
+            corner, nook, or hiding place, it seems reasonable that the Irishmen Horn has brought
+            with him have emerged from a specific place located at the stern of the boat.</p></note>
+        <note type="enote" n="72">1392<space rend="indent1"/><p>A touch of realism is operating in
+            this scene since after foreign invasions, the countryside is left desolate; the native
+            people are left to starve.</p></note>
+        <note type="enote" n="73">1475<space rend="indent1"/><p>Horn’s disguise as a minstrel is
+            effective. Like a beggar’s disguise it allows him anonymity and freedom of movement
+            through otherwise rigid social barriers.</p></note>
+        <note type="enote" n="74">1529<space rend="indent1"/><p><hi rend="italic">Ther he
+              dude</hi><hi rend="italic"> Athulf child</hi>. The designation given to Athulf does
+            not suggest immaturity. Rather, he is a knight, having grown into his personal,
+            military, social, and political identity.</p></note>
+      </div>
+    </body>
+  </text>
+</TEI>

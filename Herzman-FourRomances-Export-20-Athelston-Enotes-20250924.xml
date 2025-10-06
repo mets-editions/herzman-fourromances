@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Herzman-FourRomances-Export-20-Athelston-Enotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Explanatory Notes to Athelston</title>
+        <author>Herzman, Ronald B.</author>
+        <author>Drake, Graham</author>
+        <author>Salisbury, Eve</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Amster, Mara I.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Church, Jennifer</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-09" to="2025-10">Audited documents prior to print/export</resp>
+          <resp from="2025-09" to="2025-09">Collected metadata</resp>
+          <resp from="2025-02" to="2025-04">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-10">Encoded TEI</resp>
+          <resp from="2025-08" to="2025-09">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-09">Entered corrections for digital edition</resp>
+          <resp from="2025-02" to="2025-09">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-10">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-12" to="2023-12">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Collated and entered corrections</resp>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Prepared edition for publication</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mara I. Amster</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Melissa Bernstein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jennifer Church</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Angela Gibson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ian Peddie</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ann Robinson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John William Sutton</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Dana M. Symons</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Herzman, Ronald B.</editor>
+            <editor>Drake, Graham</editor>
+            <editor>Salisbury, Eve</editor>
+            <title>Four Romances of England: King Horn, Havelok the Dane, Bevis of Hampton,
+              Athelston</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/herzman-fourromances/blob/main/herzman-fourromances-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1999</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Herzman-FourRomances-Export-20-Athelston-Enotes"/>
+      <div type="text">
+        <note type="enote" n="1">1–6<space rend="indent1"/><p>The invocation is typical of
+            tail-rhyme romances. Tr notes the similarity in two ME Breton lays — <hi rend="italic"
+              >Sir Gowther</hi> and <hi rend="italic">Emaré</hi>. Chaucer’s The Tale of Sir Thopas
+            offers an amusing send up of exhortations to pay attention.</p></note>
+        <note type="enote" n="2">9<space rend="indent1"/><p><hi rend="italic">A man that ledes hym
+              therin</hi>. As Tr notes, <hi rend="italic">man</hi> is dative, <hi rend="italic"
+              >hym</hi> reflexive. Thus the invocation requests listeners to pay attention to the
+            consequences of disloyalty, a theme that is central to the poem.</p></note>
+        <note type="enote" n="3">10<space rend="indent1"/><p><hi rend="italic">weddyd
+            bretheryn</hi>. Sworn brotherhood or “blood” brotherhood, as it is sometimes called, is
+            an ancient custom, whereby men bound themselves with an oath to be faithful to each
+            other till death. Herodotus reports, for example, that the Scythians participated in a
+            ritual whereby they cut their fingers, let the blood run into a chalice, dipped the tips
+            of their swords in the blood, and drank it (see John Boswell, <hi rend="italic">Same Sex
+              Unions in Pre-</hi><hi rend="italic">Modern Europe</hi> [New York: Villard Books,
+            1994], p. 94). Tr notes that this bond among men was “superior to the marriage tie,”
+            evidence of which appears in lines 306–07 when the calumniated queen expresses the
+            disparity between these two oaths of loyalty, expecting that the bishop will honor the
+            king before he will honor her: <hi rend="italic">He wole doo more for </hi><hi
+              rend="italic">hym, I wene, / Thanne for me, though I be qwene</hi>.</p><p
+            style="enote-indent">John Boswell also notes the multiple meanings for the term: in
+            fact, the relationships called “blood brotherhood,” “sworn-brotherhood,” “spiritual
+            brotherhood” and so on, vary enormously from culture to culture (and sometimes within a
+            single society) in their mode of formation, in their social, legal, and religious
+            significance, and in their personal (e.g., affective) aspects” (p. 272). Sworn
+            brotherhood is also a central theme in <hi rend="italic">Amis and Amiloun</hi>, the
+            analogue Tr considers so closely related to <hi rend="italic">Athelston</hi>. Elizabeth
+            Ashman Rowe sees the phrase “sworn brother” as a cynical substitution for an
+            “opportunistic brotherhood” who “join in pursuit of political opportunity rather than
+            economic profit” (p. 81). Rowe compares this alliance to the false brotherhood of
+            Chaucer’s The Pardoner’s Tale.</p>
+        </note>
+        <note type="enote" n="4">11<space rend="indent1"/><p><hi rend="italic">That wolden yn
+              Yngelond go dwel</hi>. Z emends to <hi rend="italic">wilen yn Yngelond gon dwel</hi>.
+            Tr rejects Z’s emendation on the grounds that the “phrase ‘of dyvers cuntre’ [in line]
+            20 strengthens the idea of strangers from widely separated parts meeting and joining
+            themselves in brotherhood” (pp. 93–94). Because sworn-brotherhood is a central theme of
+            the poem, Tr’s return to the MS has been retained. George Taylor, “Notes on <hi
+              rend="italic">Athelston</hi>,” suggests that <hi rend="italic">wilen</hi> is preferred
+            in line 11, while <hi rend="italic">wolden</hi> is preferable for line 14: “to assume
+            that the messengers were foreigners, as does T[rounce] only leads to further
+            difficulties” (p. 20).</p></note>
+        <note type="enote" n="5">17<space rend="indent1"/><p>Wayside crosses were common in the
+            Middle Ages, though here there is undoubtedly added religious significance, since the
+            poem is preoccupied with ecclesiastical authority, <hi rend="italic">Goddys werk</hi>,
+            and the phenomenon of miracle.</p></note>
+        <note type="enote" n="6">21<space rend="indent1"/><p><hi rend="italic">In book iwreten we
+              fynde</hi>. A conventional phrase often repeated in the poem in variant forms, that is
+            a probable reason scholars still seek a lost source.</p></note>
+        <note type="enote" n="7">26<space rend="indent1"/><p><hi rend="italic">Athelston</hi>. The
+            name could allude to at least three historical persons: Athelstan I, an obscure king of
+            East Anglia and Kent in the ninth century, Athelstan II, the Danish prince Guthrum
+            conquered by King Alfred and renamed Athelstan at baptism, and Athelstan III, victor at
+            the Battle of Brunanburh in the year 937. (See Laura A. Hibbard, “<hi rend="italic"
+              >Athelston</hi>, A Westminster Legend,” <hi rend="italic">PMLA</hi> 36 [1921],
+            223–44.)</p></note>
+        <note type="enote" n="8">30<space rend="indent1"/><p><hi rend="italic">neyghyd hym
+            nere</hi>. The usual meaning of <hi rend="italic">neyghyd</hi>, “to approach,” makes
+            “sound sense” according to George Taylor: “Athelston, being the king’s cousin,
+            considered it advantageous to be about the Court, and his expectation was realized as we
+            see in the vv. following where he succeeds his cousin” (p. 20).</p></note>
+        <note type="enote" n="9">40<space rend="indent1"/><p><hi rend="italic">Eerl of Dovere</hi>.
+            Just as Egeland is given the castle at Stone, Wymound is given the castle at Dover, a
+            strategically important site.</p></note>
+        <note type="enote" n="10">43<space rend="indent1"/><p>Stone is on the road from London to
+            Canterbury. As F&amp;H point out, nearly all the place names mentioned in the poem are
+            on this road.</p></note>
+        <note type="enote" n="11">47<space rend="indent1"/><p><hi rend="italic">Edyff</hi>. The name
+            may suggest a tenth-century Anglo-Saxon saint whose veneration continued into the
+            fourteenth century. The name might also allude to Edward the Confessor’s
+          wife.</p></note>
+        <note type="enote" n="12">56<space rend="indent1"/><p><hi rend="italic">That noble </hi><hi
+              rend="italic">clerk, on book cowde rede</hi>. Literacy in late medieval England meant
+            those who could read Latin, i.e., members of the clergy.</p></note>
+        <note type="enote" n="13">67<space rend="indent1"/><p>Tr draws a parallel between the
+            precocious growth of the children in <hi rend="italic">Amis and Amiloun</hi> and that of
+            the children here, all of which seems to suggest nobility. The growth of the hero in <hi
+              rend="italic">Sir Gowther</hi> is also precocious, but is considered an effect of
+            demonic paternity.</p></note>
+        <note type="enote" n="14">77<space rend="indent1"/><p><hi rend="italic">to boure and to
+              halle</hi>. F&amp;H suggest that the meaning is “both to public and to private
+            counsel.” The bower was a relatively secluded area used for sleeping. For a more
+            complete explanation, see the explanatory note for <hi rend="italic">Havelok</hi>, line
+            239.</p></note>
+        <note type="enote" n="15">84<space rend="indent1"/><p><hi rend="italic">To don hem brenne
+              and sloo</hi>. Tr notes that this is a “conventional punishment, especially of women,
+            in the French <hi rend="italic">chansons de geste</hi>, and, since it differs from the
+            drawing and hanging with which offenders are later threatened, it may point to confusion
+            of an old tale with a newer one” (pp. 98–100).</p></note>
+        <note type="enote" n="16">97–98<space rend="indent1"/><p>F&amp;H’s comment that “the monks
+            of St. Augustine’s in Canterbury were reputed to be gay fellows and good singers” is
+            challenged by Tr who asserts that the merry monks are not engaged in frivolity, but
+            rather are experiencing the “pleasant effect of the chanting of the services”
+            (p. 182).</p></note>
+        <note type="enote" n="17">99<space rend="indent1"/><p><hi rend="italic">erly and late</hi>.
+            A tag meaning throughout the day or perhaps, like line 302, suggesting matins and
+            evensong.</p></note>
+        <note type="enote" n="18">101<space rend="indent1"/><p><hi rend="italic">on Goddys
+            werk</hi>. Tr notes the variation between this line and line 50, <hi rend="italic">of
+              Goddys werk</hi>. The terms are interchangeable, but <hi rend="italic">Goddys
+              werk</hi> may be a specific reference to the Benedictine Rule.</p></note>
+        <note type="enote" n="19">136<space rend="indent1"/><p><hi rend="italic">worl</hi>. Tr notes
+            the probable meaning (world) as correct. Z shows a parallel in <hi rend="italic"
+              >Layamon</hi> in line 23081.</p></note>
+        <note type="enote" n="20">145<space rend="indent1"/><p><hi rend="italic">So moot thou
+              the</hi>. This phrase, repeated regularly throughout the text, has something of the
+            force of the modern “So help me God.”</p></note>
+        <note type="enote" n="21">149–50<space rend="indent1"/><p>Tr determines these lines to
+            constitute “padding”; similar expressions may be found in the well-padded <hi
+              rend="italic">Bevis of Hampton</hi> and virtually all other English verse
+            romances.</p></note>
+        <note type="enote" n="22">154<space rend="indent1"/><p><hi rend="italic">Thanne the kyng his
+              hand up raughte</hi>. The raising of the hand, usually the right hand, indicates an
+            ancient ritual of oathtaking that originally involved placing the right hand on a sacred
+            object, sometimes a sword, while speaking the oath.</p></note>
+        <note type="enote" n="23">155<space rend="indent1"/><p>Several lines in the poem indict and,
+            according to Tr, vilify the “false man,” a “constant habit of medieval narrative,
+            including Chaucer” (p. 105).</p></note>
+        <note type="enote" n="24">166<space rend="indent1"/><p>Tr notes that despite the popularity
+            of poisoning in literature as well as in life, “it seems to have been less used in
+            England than elsewhere” (p. 105).</p></note>
+        <note type="enote" n="25">172–74<space rend="indent1"/><p>Tr attributes what seems to be
+            gratuitous punishment of wife and children to ordeal stories derived from German and
+            Scandinavian sources. Laura Hibbard Loomis, on the other hand, sees the <hi
+              rend="italic">Queen Emma </hi><hi rend="italic">and the Ploughshare</hi> story as
+            indigenous to England, which suggests that such cruelty is not always culturally
+            bound.</p></note>
+        <note type="enote" n="26">176<space rend="indent1"/><p>Wymound’s attitude, fostered by envy,
+            is typical of literary traitors. Tr notes that the name Wymound connotes “rascality.” He
+            points to the third executioner in a York Mystery play with the same name. Also, in a
+            poem in the <hi rend="italic">Reliquiae </hi><hi rend="italic">Antiquae</hi> the
+            “wimorant” is a pejorative term for the rascally rabbit. George Taylor sees connotations
+            in ME <hi rend="italic">wighel</hi>, “deceit,” <hi rend="italic">wicke</hi>, “wicked,”
+            and <hi rend="italic">wik-hals</hi> “rogue” (see “Notes on <hi rend="italic"
+              >Athelston</hi>,” p. 20).</p></note>
+        <note type="enote" n="27">184–85<space rend="indent1"/><p><hi rend="italic">I wene he bar
+              his owne name: / He </hi><hi rend="italic">was hoten Athelstane</hi>. The messenger is
+            also named Athelston. This practice of reduplicating names is evident in Celtic
+            tradition. Sa suggests that this is a possible indication of a lost source.</p></note>
+        <note type="enote" n="28">208–09<space rend="indent1"/><p><hi rend="italic">The kyng wole
+              for the cuntas sake . . . </hi><hi rend="italic">knyghtes make</hi>. The couplet is
+            repeated in lines 211–12, a linking strategy frequently found in tail-rhyme
+          romance.</p></note>
+        <note type="enote" n="29">238<space rend="indent1"/><p><hi rend="italic">Westemynstyr</hi>.
+            A feature of the poet’s attempt to adapt the narrative to an English environment, says
+            Tr, who assumes a French source.</p></note>
+        <note type="enote" n="30">256<space rend="indent1"/><p>According to Thomas Wright’s <hi
+              rend="italic">Domestic Manners</hi><hi rend="italic"> and Sentiments in England during
+              the Middle Ages</hi> (London: Chapman and Hall, 1862), cherries “appeared to have been
+            one of the most popular fruits in England during the Middle Ages” (p. 299). In romances
+            such as <hi rend="italic">Sir Cleges</hi>, the fruit is miraculous and instrumental in
+            restoring Cleges’ status in the world.</p></note>
+        <note type="enote" n="31">281<space rend="indent1"/><p><hi rend="italic">Abyyd</hi>. Z notes
+            that this early example of ME <hi rend="italic">abye</hi> “to pay for” leads to
+            confusion with <hi rend="italic">abyde</hi>, “to abide” (p. 22).</p></note>
+        <note type="enote" n="32">282–83<space rend="indent1"/><p>Many critics have commented on the
+            cruelty in this passage. Gordon Hall Gerould suggests that the behavior is Angevin in
+            nature; he looks for a source in Walter Map. Tr remarks at the commonplace of this sort
+            of treatment of women in the Middle Ages. As Elizabeth Ashman Rowe argues, “Despite its
+            appearance to modern eyes, Athelston’s kicking his wife would not have been a crime in
+            fourteenth-century England, and the resulting death of his child was not one for which
+            he would have been likely to have been convicted” (p. 87). See Select
+          Bibliography.</p></note>
+        <note type="enote" n="33">288–89<space rend="indent1"/><p><hi rend="italic">Soone withinne a
+              lytle spase / A knave</hi><hi rend="italic">-chyld iborn ther wase</hi>. The end rhyme
+            in this couplet is a favorite of East Midlands romance.</p></note>
+        <note type="enote" n="34">291<space rend="indent1"/><p><hi rend="italic">He was</hi><hi
+              rend="italic"> bothe whyt and red</hi>. A curious class distinction is made by F&amp;H
+            who suggest that white and red, conventional descriptions of flesh and blood, are
+            “colors of the aristocracy,” and therefore distinct from the <hi rend="italic">blac and
+              brown</hi> used in <hi rend="italic">Havelok</hi> (line 1009) to describe the lower
+            classes. Tr points out other uses of the latter term in his rejection of F&amp;H’s
+            determination.</p></note>
+        <note type="enote" n="35">294<space rend="indent1"/><p><hi rend="italic">baret</hi>. Tr
+            notes that this is a word found frequently in West Midlands poems. He offers no
+            explanation for its presence here, suggesting the difficulty of locating poems within
+            specific dialect areas.</p></note>
+        <note type="enote" n="36">296<space rend="indent1"/><p>The implication here is that he will
+            be paid back in the end.</p></note>
+        <note type="enote" n="37">309<space rend="indent1"/><p>The mention of <hi rend="italic"
+              >Spayne</hi> in this line has led to speculation among scholars concerning a
+            historical model for Edyff. Among those considered are Eleanor of Castile, wife of
+            Edward I, and Constance of Castile, second wife of John of Gaunt, despite the fact that
+            she was never a queen. Tr insists that this is evidence of a French original since in
+            the <hi rend="italic">chansons</hi> dealing with the “enfances of Charlemagne, his wife
+            whom he ill-treats and who needs a rescuer, is a Spanish princess” (p. 110).</p></note>
+        <note type="enote" n="38">312<space rend="indent1"/><p><hi rend="italic">besauntys</hi>. A
+            bezant (<hi rend="italic">byzantium nummus</hi>) was a gold coin of the Byzantine Empire
+            in widespread circulation in medieval Europe through the fifteenth century.</p></note>
+        <note type="enote" n="39">315<space rend="indent1"/><p><hi rend="italic">moregeve</hi>. A
+            gift given a bride by the groom on the morning after the wedding. It is not part of a
+            dowry, which would be provided by the bride’s family as a gift to her husband. Rather,
+            it is proferred directly to the bride by her husband.</p></note>
+        <note type="enote" n="40">324<space rend="indent1"/><p><hi rend="italic">fyve and twenti
+              thertoo</hi>. Tr conjectures that the five and twenty added to thirty miles announced
+            in line 321 equals the distance from Canterbury to London.</p></note>
+        <note type="enote" n="41">327–30<space rend="indent1"/><p>Around 6 a.m., or less exactly,
+            very early in the morning. For a more complete explanation, see the explanatory note for
+              <hi rend="italic">Horn</hi>, line 855. Tr makes a curious comment in response to the
+            messenger’s putting his personal needs before duty: “John Bull wants his dinner” (p.
+            110).</p></note>
+        <note type="enote" n="42">335<space rend="indent1"/><p><hi rend="italic"
+            >Charynge-cross</hi>. Charing Cross is an area between modern Whitehall and Trafalgar
+            Square now lending its name to a nearby London commuter train station. One of a series
+            of thirteen memorial crosses erected by command of Edward I along the funeral procession
+            route of his wife, Eleanor of Castile, in 1291. The route began and ended at Westminster
+            Abbey.</p></note>
+        <note type="enote" n="43">336<space rend="indent1"/><p><hi rend="italic">Flete-strete</hi>.
+            Named from the Fleet River, first recorded in 1280, it became a center of journalism in
+            the modern era until most British newspapers moved to outlying areas of
+          London.</p></note>
+        <note type="enote" n="44">340<space rend="indent1"/><p><hi rend="italic"
+              >Loundone-brygge</hi>. The original bridge was built in 994 A. D., but is now found in
+            Lake Havesu, Arizona. Tr notes that this is the bridge over which Wat Tyler and his
+            followers entered the city during the Rising of 1381. He dates the poem to about that
+            time, though according to A. V. C. Schmidt and Nicolas Jacobs, it could have been
+            written as late as 1399. Elizabeth Ashman Rowe concurs, suggesting that the poem points
+            to Richard II and his troubled reign.</p></note>
+        <note type="enote" n="45">341<space rend="indent1"/><p><hi rend="italic">los</hi>. Tr
+            rejects the F&amp;H gloss on <hi rend="italic">los</hi> as “praise” because it “gives no
+            sense; whereas ‘loss’ provides us with just such an expression as medieval popular poets
+            loved — the restatement of a fact in a negative form” (p. 111). But to our way of
+            thinking “praise,” “glory,” or “repute” makes much better sense than loss in that the
+            messenger loses — his time, his horse, and his effort — neither can he get any
+            recognition from the church or aristocracy for this hard work. His perpetual frustration
+            is a key part of the bourgeois humor of the poem.</p></note>
+        <note type="enote" n="46">342<space rend="indent1"/><p><hi rend="italic">Stone into
+              Steppyngebourne</hi>. Stone Castle was a resting place for the bishops of Rochester on
+            their journeys to and from London. <hi rend="italic">Steppyngebourne</hi> is probably
+            Sittingbourne.</p></note>
+        <note type="enote" n="47">346<space rend="indent1"/><p><hi rend="italic">Fro Osprynge to the
+              Blee</hi>. Ospringe is a resting place on the Canterbury pilgrim route. <hi
+              rend="italic">Blee</hi> refers to the ancient forest of Blean on the plain above
+            Canterbury.</p></note>
+        <note type="enote" n="48">349<space rend="indent1"/><p><hi rend="italic">bysschop ryke</hi>.
+            Z suggests that <hi rend="italic">ryke</hi> be understood as an adjective rather than as
+            a suffix for <hi rend="italic">bysschop</hi>.</p></note>
+        <note type="enote" n="49">364<space rend="indent1"/><p><hi rend="italic">have this and
+              reed</hi>. Recalls the famous <hi rend="italic">tolle lege</hi> passage in Book 8 of
+            Augustine’s <hi rend="italic">Confessions</hi> exhorting the Bishop of Hippo to take and
+            read a Scriptural passage that subsequently changes his life (8.12.29). The archbishop’s
+            tearful response here makes the allusion all the more probable.</p></note>
+        <note type="enote" n="50">369<space rend="indent1"/><p>For more on <hi rend="italic"
+              >palfray</hi>, see the explanatory note to <hi rend="italic">Havelok</hi>, line
+            2060.</p></note>
+        <note type="enote" n="51">391<space rend="indent1"/><p>A horse worth a hundred pounds would
+            be very valuable in the Middle Ages. Perhaps the messenger is given to
+          exaggeration.</p></note>
+        <note type="enote" n="52">394<space rend="indent1"/><p><hi rend="italic">Oure gostly fadyr
+              undyr God</hi>. Tr points out the similarity of this expression with what Becket says
+            in the <hi rend="italic">Early South-English Legendary</hi> (EETS o.s. 87 [London:
+            Trübner, 1887], p. 136): “Also dignete of the preost, herre than the kyngus is, and is
+            gostliche fader ich am.”</p></note>
+        <note type="enote" n="53">402–04<space rend="indent1"/><p><hi rend="italic">And thy warysoun
+              I schal thee geve</hi><hi rend="italic"> . . . hundryd yere</hi>. Tr would like to
+            omit <hi rend="italic">and</hi> to improve the meter and logic of the passage. We have
+            retained it because it is unlikely to have been an inadvertent insertion by a minstrel
+            or copyist as Tr contends. <hi rend="italic">Warysoun</hi> is an interesting term here.
+            The archbishop tantalizes the messenger with more than a simple reward or payment,
+            implying that he will be permitted to enjoy it even though he lives to a very old age.
+            Perhaps it is a pension of some sort that is implied, or an annuity, or a land holding
+            which would be in his name until death.</p></note>
+        <note type="enote" n="54">407<space rend="indent1"/><p><hi rend="italic">so lyght</hi>. The
+            phrase could signify the bright illumination of Westminster in the morning
+          sun.</p></note>
+        <note type="enote" n="55">412<space rend="indent1"/><p><hi rend="italic">kyrke</hi>.
+            Probably the chapel within Westminster Abbey.</p></note>
+        <note type="enote" n="56">424<space rend="indent1"/><p><hi rend="italic">presoun free</hi>.
+            Tr disagrees with F&amp;H who suggests that this term means “on parole.” Instead, Tr
+            believes that it means “strong prison,” which would make it more consistent with the
+            following line and an earlier reference to fettering.</p></note>
+        <note type="enote" n="57">437<space rend="indent1"/><p><hi rend="italic">He swoor</hi><hi
+              rend="italic"> be God levande</hi>. There is a disagreement over who is swearing by
+            God. While Z says that <hi rend="italic">he</hi> refers to the king, Tr prefers to
+            assign the gesture to the archbishop, which is more in keeping with the office and the
+            urgency of the matter. S agrees with Tr.</p></note>
+        <note type="enote" n="58">456<space rend="indent1"/><p>Edith Rickert refers to <hi
+              rend="italic">Kyng Alisaunder</hi> (line 1750) — <hi rend="italic">He
+              laughwith</hi><hi rend="italic"> and swerith by the sonne</hi> — as evidence of
+            pre-Christian influence on oath taking.</p></note>
+        <note type="enote" n="59">459–60<space rend="indent1"/><p>See note for line 470.</p></note>
+        <note type="enote" n="60">465<space rend="indent1"/><p>Tr makes a lengthy comparison between
+            Alryke and Bishop William Bateman who was a champion of the church and an opponent of
+            the king’s power.</p></note>
+        <note type="enote" n="61">469–70<space rend="indent1"/><p>The cross, staff, miter, and ring
+            are symbols of the archbishop’s office. The king is implying that since he gave these
+            symbols to the archbishop, he also has the right to take them away. The struggle over
+            the right to invest a bishop with the symbols of his office in the Middle Ages was
+            called the Investiture Controversy — an extremely important power struggle between
+            ecclesiastical and secular authority.</p></note>
+        <note type="enote" n="62">472<space rend="indent1"/><p>The archbishop is talking here about
+            the formal process of Interdiction, in which the sacraments of the church were forbidden
+            to those under its ban. The medieval church used the Interdict as a weapon in its
+            struggles with secular authority, sometimes applying it to whole countries.</p></note>
+        <note type="enote" n="63">480<space rend="indent1"/><p>Heretics were denied burial in
+            consecrated ground, as were criminals and prostitutes.</p></note>
+        <note type="enote" n="64">483–94<space rend="indent1"/><p>Tr notes an unusual repetition of
+            the same rhymes in this stanza.</p></note>
+        <note type="enote" n="65">516–17<space rend="indent1"/><p><hi rend="italic">But yiff he
+              graunte me that knyght, / His wyff</hi><hi rend="italic"> and chyldryn fayr and
+              bryght</hi>. These lines repeat in lines 537–38. Such repetition is not uncommon in ME
+            romance. See, for example, <hi rend="italic">Emaré</hi>, line 45.</p></note>
+        <note type="enote" n="66">546<space rend="indent1"/><p><hi rend="italic">Brokene-cros</hi>.
+            The history of this important landmark has been a source for determining the poem’s
+            date. The landmark acquired its name in 1379 and was removed in 1390. Despite this fact
+            Schmidt and Jacobs contend that the poem could have been written “during or after the
+            deposition crisis of 1399 and still have referred to a famous landmark removed a mere
+            ten years or so previously” (<hi rend="italic">Medieval English Romances</hi>, p. 194).
+            Elizabeth Ashman Rowe notes that “neither Trounce nor Schmidt and Jacobs read Taylor’s
+            ‘Notes on <hi rend="italic">Athelston</hi>,’ which revives Z’s identification of the
+            cross with the Chester Cross. Not only was the Chester Cross located in the correct
+            place (it was in the Strand, which lies between Fleet Street and Westminster) but it
+            also marked the bounds of Westminster and the liberty belonging to the house of
+            Lancaster, making it a suitable place for the Archbishop of Canterbury to wait for the
+            king” (p. 95). Rowe also notes that nothing known about Chester Cross contributes to the
+            dating of the poem.</p></note>
+        <note type="enote" n="67">571<space rend="indent1"/><p>The ordeal by ploughshare leads Laura
+            A. Hibbard [Loomis] to conclude that the source for the poem resides in a Westminster
+            legend of Queen Emma, mother of Edward the Confessor. The story is told in the <hi
+              rend="italic">Annales of</hi><hi rend="italic"> Wintonia</hi> as follows:</p><quote>In
+            1042 Emma, once known as the Flower of Normandy and the widow successively of the
+            English king, Athelred the Redeless (978–1016), and of the Danish conqueror, Canute, was
+            living at Winchester. She was possessed of great treasures many of which she gave to the
+            great church of Saint Swithin whose bishop Alwyn was her most familiar friend. To her
+            English sons, Athelred, Alfred and Edward, later known as the Confessor, she had given
+            little or nothing, all her favor having been lavished on Harthacnut, her son by Canute.
+            When, therefore, Edward came to the throne in 1042, he showed her no honour. Instead he
+            surrounded himself with those Norman friends who had aided him in his long exile, and
+            among them he especially honoured Robert of Jumieges whom he made Bishop of London and
+            afterwards Archbishop of Canterbury. The king was a man of wonderful simplicity and at
+            last he would believe Robert even if the latter told him a black crow was white. In time
+            Robert poisoned Edward’s mind against the good bishop Alwyn and Queen Emma.</quote>
+          <quote><space rend="indent1"/>The queen, who was imprisoned at Wherwell, promptly wrote a
+            letter to those bishops whom she could trust and begged them to persuade the king that
+            she might clear herself by an ordeal to take place at Saint Swithin’s. In a long speech
+            which uninvited he made to the bishops, Robert accused the queen not only of evil
+            conduct with Alwyn but of having consented to the murder of Alfred, the king’s brother,
+            and of having planned to poison the king himself.</quote>
+          <quote><space rend="indent1"/>On the day of the trial a great concourse of people gathered
+            in Saint Swithin’s church where in a row were placed nine red hot plough-shares. The
+            queen, who had passed the previous night in prayer before the shrine of Saint Swithin
+            and had been comforted by beholding the saint in a dream, walked forth bravely. Having
+            cast off her mantle she closed her eyes and was led by two bishops across the burning
+            metal while the people cried aloud: “Swithune, Sancte Swithune, tu illam adjuva!”
+            Unconscious that she had passed the ordeal the queen opened her eyes and beheld the
+            miracle. She prayed to be taken to the king who, overwhelmed with holy penitence, lay
+            prostrate on the floor. Willingly he confessed his fault, willingly he restored Bishop
+            Alwyn to highest favor. Joyous was the tumult of the people.</quote>
+          <quote><space rend="indent1"/>From Dover, where he had waited to hear the result of the
+            ordeal, Robert fled to Jumieges where presently he died. In Winchester king and queen
+            and bishop vied with each other in giving treasure and manors to the church of the holy
+            saint who had saved them all. (As quoted in Laura A. Hibbard, “Athelston, A Westminster
+            Legend,” pp. 227–28)</quote>
+        </note>
+        <note type="enote" n="68">575<space rend="indent1"/><p>The <hi rend="italic">doom</hi>, or
+            ordeal, was a method of testing guilt or innocence by means of direct physical trial.
+            The accused was “subject to some physical test, such as the plunging of a hand into
+            boiling water” (<hi rend="italic">OED</hi>). The result was thought to represent the
+            immediate judgment of God. Trial by ordeal was no longer used by the time <hi
+              rend="italic">Athelston</hi> was written, but it continued to be an important literary
+            convention. One thinks of a work such as Gottfried von Strassburg’s <hi rend="italic"
+              >Tristan</hi>, where Isolde’s ordeal is one of the central episodes in the
+            narrative.</p></note>
+        <note type="enote" n="69">582–83<space rend="indent1"/><p>It was customary to remove the
+            clothes of ordeal victims, though here the queen retains her garments.</p></note>
+        <note type="enote" n="70">592<space rend="indent1"/><p>The high altar of St. Paul’s was
+            famous for its elaborate adornment. Sa suggests that the offering may be part of the
+            ordeal ceremony.</p></note>
+        <note type="enote" n="71">617<space rend="indent1"/><p><hi rend="italic">schewyd</hi>. Often
+            used in relation to miracles, it indicates the suspension of natural phenomena by God,
+            here to demonstrate innocence. Divine intervention is usually initiated by prayer in
+            medieval romance.</p></note>
+        <note type="enote" n="72">625<space rend="indent1"/><p><hi rend="italic">To Jesu Cryst he
+              prayde a bone</hi>. On general grounds this should be a prayer uttered by the queen.
+            Tr argues that he refers to the archbishop.</p></note>
+        <note type="enote" n="73">638<space rend="indent1"/><p><hi rend="italic">And sithen it fell
+              at syght</hi>. Tr notes that he can make nothing of this line. Sa also finds the line
+            a mystery. Z, on the other hand, translates “It came to pass that she sighed.” Taylor
+            suggests that the scribe may have mistook “sighed” for “sight” (p. 25). But it may mean
+            that the baby has dropped into the birthing position.</p></note>
+        <note type="enote" n="74">646<space rend="indent1"/><p><hi rend="italic">As it was the
+              landys lawe</hi>. This may refer to the custom whereby women had exclusive rights to
+            witness and participate in the birthing process. Only under extraordinary circumstances
+            would a man be allowed to intervene. A similar expression for privacy in birth is spoken
+            by Josian in <hi rend="italic">Bevis of Hampton</hi> (lines 3627–31).</p></note>
+        <note type="enote" n="75">649<space rend="indent1"/><p>The St. Edmund mentioned here is St.
+            Edmund of East Anglia. Born of Saxons, raised a Christian, he became king of the East
+            Angles in the ninth century. During a Viking raid he was killed either by scourging or
+            shot with arrows as tradition relates, or by being offered to the gods in accord with
+            Viking ritual practices. His body, later found to be incorrupt, was transferred to
+            Bedricsworth (Bury St. Edmunds). In 925 King Athelstan founded a community of priests
+            and deacons to take care of the shrine. One of the most famous representations of Edmund
+            is in the Wilton Diptypch where he and Edward the Confessor are depicted as two royal
+            patrons of England. Together they present King Richard II to the Virgin and Child. His
+            traditional emblem is the arrow, the instrument of his passion, but he is occasionally
+            depicted with a wolf, believed to have guarded his head after death. See the <hi
+              rend="italic">Oxford Dictionary of Saints</hi>, pp. 120–21; also see Lord Francis
+            Hervey, <hi rend="italic">Corolla Sancti Eadmundi: The </hi><hi rend="italic">Garland of
+              Saint Edmund King and Martyr</hi> (New York: E. P. Dutton &amp; Co., 1907).</p></note>
+        <note type="enote" n="76">652<space rend="indent1"/><p><hi rend="italic">into the plas</hi>.
+            Edith Rickert and F&amp;H take this to mean “open square.” Tr thinks it means simply
+            “thither,” just as <hi rend="italic">in that plas</hi> is used for “there.”</p></note>
+        <note type="enote" n="77">669<space rend="indent1"/><p><hi rend="italic">Seynt Anne</hi>.
+            The traditional name of the mother of the Virgin Mary; St. Anne does not appear in the
+            Gospels, but her cult is popular in late medieval England. She is also the patron saint
+            of childbirth. (See Kathleen Ashley and Pamela Sheingorn, eds. <hi rend="italic"
+              >Interpreting </hi><hi rend="italic">Cultural Symbols: Saint Anne in Late Medieval
+              Society</hi> [Athens: University of Georgia Press, 1990.])</p></note>
+        <note type="enote" n="78">676–78<space rend="indent1"/><p>From what has the king to be
+            absolved? Z suggests that the king’s sin is breaking his oath to his sworn brother. The
+            rhetorical question posed by Tr is thus answered since he agrees with Z. But perhaps the
+            absolution is necessary to eradicate his participation in the death of his unborn son.
+            Though the act would not be considered criminal, it could be construed as
+          immoral.</p></note>
+        <note type="enote" n="79">697–98<space rend="indent1"/><p><hi rend="italic">trees three . .
+              . hors fyve</hi>. F&amp;H suggest that “trees three” refers to the two uprights and
+            crossbar of the gallows. <hi rend="italic">Fyve</hi>, Tr remarks, is nothing more than a
+            “popular number [used] as a rhyme word” (p. 130). Legal dragging usually required only
+            one horse. Taylor suggests a relation to an incident involving Thomas Becket as
+            described in L. F. Salzman’s <hi rend="italic">English Trade in the Middle </hi><hi
+              rend="italic">Ages</hi> (Oxford: Clarendon Press, 1931):</p><quote>When Thomas Becket
+            went to Paris in 1158, as Chancellor and Ambassador of Henry II, it is true that twelve
+            well-appointed pack-horses formed part of his imposing Cavalcade, but there were also
+            eight splendid chariots each drawn by five horses no less strong and shapely than
+            war-horses. (p. 204)</quote>
+        </note>
+        <note type="enote" n="80">733<space rend="indent1"/><p><hi rend="italic">youre arende</hi>.
+            The messenger’s journey to Canterbury and back is his “business” in a double sense
+            according to Tr, concerning both Egeland’s imprisonment and Wymound’s trial by
+            ordeal.</p></note>
+        <note type="enote" n="81">751<space rend="indent1"/><p><hi rend="italic">Gravysende</hi>.
+            The town of Gravesend on the road from London to Dover.</p></note>
+        <note type="enote" n="82">760<space rend="indent1"/><p><hi rend="italic">nought yit!
+              lete!</hi> Sa remarks on the king’s imperious retort. “[E]ssentially it says something
+            like ‘Do not indeed allow,’ to which we might add ‘yourself familiarities with me’” (p.
+            152).</p></note>
+        <note type="enote" n="83">803<space rend="indent1"/><p><hi rend="italic">Alle men</hi>.
+            I.e., the citizens of London.</p></note>
+        <note type="enote" n="84">805<space rend="indent1"/><p><hi rend="italic">the Elmes</hi>.
+            Thought to be west of Smithfield, a place where many elm trees grew. It was also a place
+            of execution; such luminaries as William Wallace and Roger Mortimer met their fate
+            there. Tr argues that Tyburn is a more likely site and the reference to the Elmes is
+            based upon an OF phrase — <hi rend="italic">juges de dessous l’orme</hi> (judges without
+            tribunal) — as well as the frequent use of elm trees for hanging.</p></note>
+      </div>
+    </body>
+  </text>
+</TEI>

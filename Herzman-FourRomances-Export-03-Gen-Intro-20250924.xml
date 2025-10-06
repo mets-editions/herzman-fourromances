@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Herzman-FourRomances-Export-03-Gen-Intro-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>General Introduction</title>
+        <author>Herzman, Ronald B.</author>
+        <author>Drake, Graham</author>
+        <author>Salisbury, Eve</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Amster, Mara I.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Church, Jennifer</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-09" to="2025-10">Audited documents prior to print/export</resp>
+          <resp from="2025-09" to="2025-09">Collected metadata</resp>
+          <resp from="2025-02" to="2025-04">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-10">Encoded TEI</resp>
+          <resp from="2025-08" to="2025-09">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-09">Entered corrections for digital edition</resp>
+          <resp from="2025-02" to="2025-09">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-10">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-12" to="2023-12">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Collated and entered corrections</resp>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Prepared edition for publication</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mara I. Amster</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Melissa Bernstein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jennifer Church</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Angela Gibson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ian Peddie</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ann Robinson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John William Sutton</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Dana M. Symons</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Herzman, Ronald B.</editor>
+            <editor>Drake, Graham</editor>
+            <editor>Salisbury, Eve</editor>
+            <title>Four Romances of England: King Horn, Havelok the Dane, Bevis of Hampton,
+              Athelston</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/herzman-fourromances/blob/main/herzman-fourromances-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1999</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Herzman-FourRomances-Export-03-Gen-Intro"/>
+      <div type="text">
+        <p style="bodyfirst" n="1">The English word “romance” has accrued multiple meanings over the
+          centuries: the joys of private love, heroic adventure on land and sea, the choice of the
+          risky and exotic over the mundane. Romance is also a generic term that has been applied to
+          such disparate works as ancient Hellenistic and Latin narratives, twentieth-century novels
+          by authors such as Barbara Cartland, and even the mass-produced fantasies of Harlequin.
+            <hi rend="italic">Roman</hi>, from which the word “romance” derives, is still the word
+          used for “novel” in several modern European languages. The poems in this volume are also
+          known as romances, a particular type of vernacular narrative which saw popularity in late
+          medieval western Europe.</p>
+        <p style="body" n="1">Of the four romances of England presented here, <hi rend="italic">King
+            Horn</hi> (c. 1225) is probably the earliest (other than, arguably, Layamon’s <hi
+            rend="italic">Brut</hi>, itself a translation of Wace’s twelfth-century Anglo-Norman
+          poem on Arthurian themes).<note target="#1" type="footnotelink">1</note>
+          <hi rend="italic">Havelok the Dane</hi> is dated at approximately 1290, with <hi
+            rend="italic">Bevis of Hampton</hi> following shortly thereafter (about ten years before
+          Dante began to write his <hi rend="italic">Divine Comedy</hi>). <hi rend="italic"
+            >Athelston</hi>, the latest of the four, was probably composed between 1355 and 1399;
+          thus it was completed shortly after Boccaccio’s <hi rend="italic">Decameron</hi> (1349–51)
+          and around the time Chaucer was becoming the “father” of English poetry.</p>
+        <p style="body" n="2">These were not the only English romances, of course. Romance was an
+          extremely popular genre in medieval England; from the thirteenth through the fifteenth
+          centuries dozens of English romances were produced, including, for example, <hi
+            rend="italic">Guy of Warwick</hi>, <hi rend="italic">Sir Perceval of Galles</hi>, <hi
+            rend="italic">Sir</hi><hi rend="italic"> Isumbras</hi>, <hi rend="italic">Octavian</hi>,
+            <hi rend="italic">Sir Eglamour of Artois</hi>, <hi rend="italic">Sir Tryamour</hi>, and
+            <hi rend="italic">Ywain</hi><hi rend="italic"> and Gawain</hi>; numerous retellings of
+          Trojan and Theban history, the deeds of Alexander the Great and Richard the Lionhearted as
+          well as the exploits of Charlemagne and his followers exist in Middle English versions;
+          the legends of King Arthur and his knights, originally in Latin, French, and Welsh
+          narratives, experienced a flowering in England in such classics as the <hi rend="italic"
+            >Alliterative</hi><hi rend="italic"> Morte Arthure</hi> (c. 1350–1400) and <hi
+            rend="italic">Sir Gawain and the Green</hi><hi rend="italic"> Knight</hi>. But the
+          romances in this volume bring together some of the finest imaginative work in what became
+          known as the Matter of England, the non-Arthurian romances dealing largely with English
+          subjects and locales. They stand out as well by their reduced interest in the nuances of
+          courtly behavior so characteristic of French romance, as they pay more attention to the
+          socio-political issues contained within folktale motifs. Manuscript evidence suggests that
+          romance reading in England was hardly confined to the nobility but became part of the
+          increasingly prosperous and literate middle classes’ attempts to style themselves after
+          the upper classes.<note target="#2" type="footnotelink">2</note></p>
+        <p style="heading" n="1">Romance and the Epic</p>
+        <p style="bodyfirst" n="2">It was in the Middle Ages that the word “romanz” was first used
+          to describe vernacular narratives as opposed to Latin poetry. But the meaning of the word
+          narrowed to tales of knightly adventure and love together, linking the masculine,
+          battlefield world of the <hi rend="italic">chanson de geste</hi> with the increasing
+          upper-class interest in what we would now call “romantic love.” The idea of a personal
+          love-interest between a man and woman, devoid of dynastic or financial concerns, had
+          already taken root in the oral poetry of Provençal <hi rend="italic">trouvères</hi> and
+          the court of Marie, Countess of Champagne, which produced courtly love debates and nuanced
+          descriptions of love-relationships set down by her chaplain, Andreas, in his <hi
+            rend="italic">De Amore</hi>. This combination of battlefield and boudoir, so to speak,
+          is perhaps the chief way that romance diverges from epic. In the epic genre, an individual
+          character of extraordinary strength demonstrates his martial skills and wisdom as he leads
+          a nation or a group of comrades in great crisis — Odysseus in the <hi rend="italic"
+            >Odyssey</hi>, Aeneas in the <hi rend="italic">Aeneid</hi>, Beowulf in his eponymous
+          epic. While love interests are of some concern to the protagonist, they are incidental to
+          larger dynastic and foundational concerns. For example, Odysseus’ return to Penelope is
+          subordinated to his re-establishing the hereditary monarchy on Ithaca. Aeneas’ dalliance
+          with Dido delays him from his ultimate goal: to win Italy for the Trojans and to found a
+          line through marriage with King Latinus’ daughter, Lavinia. Indeed, Beowulf seems to have
+          little intimacy beyond his band of warriors. Dynasty and glory are the point; love is
+          not.</p>
+        <p style="body" n="3">Romance itself can be distinguished in a number of other ways from
+          epic. In the first place, it invests more heavily than epic in the personal story of the
+          main character, in his response to challenges which test his strength, courage, and
+          knightly courtesy. One can even argue that this happens in Arthurian legend, in which the
+          dominance of the Round Table is eclipsed by the lonely quests for the Holy Grail or by the
+          torn loyalties and madness of Lancelot or Tristan. At times, one may see, with Gabriel
+          Josopovici, that fairy tale and romance “function in a timeless present in which the hero
+          is the centre of the universe,” a paradigm in which the nation takes second place.<note
+            target="#3" type="footnotelink">3</note> Another equally important component of the
+          hero’s development is the challenge of love, making women major players in the action,
+          whereas in epic women more usually lure the hero with dilatory lusts, commune weirdly with
+          dead spirits, or stay at home and weave. And this greater centrality of women reminds us
+          of the social and political functions of romance, which to many critics display a class
+          consciousness and a certain anxiety over the instability of feudal relationships.</p>
+        <p style="body" n="4">Romances, especially in England, nevertheless combine social realism
+          with superhuman or supernatural events. This lends a “mixed” quality to romance, the
+          combination of the real and the ideal. As W. R. J. Barron argues, romance is less a genre
+          than a mode of writing:</p>
+        <quote>The expressive conventions of the literary form reflect in their antithetical nature
+          — adventure and instruction, fantasy and idealism, symbolism and realism — the mixed
+          nature of the romantic mode, poised between the mythic and the mimetic. The tension
+          between the various expressive means reflects the paradox within the mixed mode, which in
+          turn reflects the dual nature of man as sensualist and idealist, escapist and moralist. .
+          . . Throughout the Middle Ages [this mode] was all-pervasive, showing itself not only in
+          almost every literary genre, including the professedly mimetic categories of chronicle,
+          history, and biography, but in the other arts and even the forms and ceremonies of courtly
+            life.<note target="#4" type="footnotelink">4</note></quote>
+        <p style="bodyfirst" n="3">The protean nature of romance, poised as it is between binary
+          oppositions, or existing within a “mixed mode,” as Barron describes, renders a
+          potentiality for expression and possibility for transformation that few other “modes of
+          writing” can claim.<note target="#5" type="footnotelink">5</note> Thus what appears in the
+          beginning to offer dim prospects for the future for a disenfranchised hero may be
+          transformed into success by the end. Perhaps this marks yet another distinction between
+          epic and romance. While epics often conclude in tragedy — the deaths of Hector, Beowulf,
+          and Arthur in the <hi rend="italic">Alliterative Morte Arthure</hi>, even the “unfinished”
+          twelfth book of the <hi rend="italic">Aeneid</hi> which describes the death of Turnus but
+          no actual wedding between Aeneas and Lavinia — romances are basically comic in structure.
+          Life may be hard for Horn, Bevis, Havelok, or Athelston in the beginning, but by the end
+          they receive rewards for their perseverance and valor: honor and glory for themselves,
+          wedded bliss, and a restored kingdom to rule.</p>
+        <p style="heading" n="2">The Character of the Romance Hero</p>
+        <p style="bodyfirst" n="4">While romances have a similar paradigm of exile and return, the
+          development of the hero’s virtue through danger and hardship, there is no such singular
+          scheme of romance composition. Sometimes, as in <hi rend="italic">King Horn</hi> or <hi
+            rend="italic">Athelston</hi>, the structure is carefully symmetrical, while at other
+          times it is more asymmetrical and episodic. The plot of <hi rend="italic">Bevis</hi>, for
+          instance, is far more complicated, switching from one location to another or adding new
+          adventures that do not seem to build on earlier adventures as keenly as in these shorter,
+          relatively simpler romances. Often, the plot of a romance moves from a position of high
+          privilege to a loss of that privilege followed by subsequent recovery. Horn, for instance,
+          becomes a child exile, serves two different foreign kings to prove himself, and eventually
+          wins back his rightful kingdom from Saracen invaders. Bevis’ mother sells him off to
+          Armenian merchants; he later returns to oppose his stepfather and reclaim his
+          patrimony.</p>
+        <p style="body" n="5">This U-shaped motif (called the “monomyth” by such modern
+          mythographers as Joseph Campbell)<note target="#6" type="footnotelink">6</note> is common
+          to most epic and romance, and especially in romance it helps focus attention on the
+          development of the central hero. Romance follows a pattern of separation and reunion or,
+          as Northrop Frye views it, a journey of descent followed by ascent and a corresponding
+          resolution of the hero’s purpose and place in the world.<note target="#7"
+            type="footnotelink">7</note> Because the very structure of such romances is the
+          development of the hero towards maturity, achievement, and resumption of his rightful
+          title, they often focus on questions of identity — as initial concealment followed by
+          gradual revelation. Havelok conceals his identity as a fisherman; Bevis becomes, at
+          various points in the narrative, a shepherd, messenger, and pilgrim; Athelston begins as a
+          lowly messenger but gradually grows into his identity as king.</p>
+        <p style="body" n="6">Inevitably, the hero will have to prove himself through his valor by
+          some test, usually in warfare. Romance tends to zero in on individual combat more than the
+          expansive and highly exaggerated battle scenes of epic. The chivalric code, not always
+          explicitly spelled out in romance, is nevertheless implied in the bravery, justice, and
+          glory of knightly combat — as, for instance, in the single combat between Yvor and Bevis
+          on an island, and the bravery and triumph that the hero asserts throughout his life.</p>
+        <p style="heading" n="3">The Politics of Love and Class</p>
+        <p style="bodyfirst" n="5">A significant love-relationship, usually ending in marriage, is
+          not only integral to romance as a genre but also to the hero’s development. Typically, the
+          hero will fall in love with a high-born woman, whom he marries only after significant
+          obstacles impeding their union have been overcome. Both Horn and Bevis nearly lose their
+          loved ones in marriage to an evil or unwanted man; a neat variation on the idea occurs in
+            <hi rend="italic">Havelok</hi>, as Goldeboru is forced to marry against her will a man
+          she thinks is a vulgar peasant, only to discover by a sign from heaven that the peasant is
+          Havelok, of royal lineage equal to her own. In <hi rend="italic">Bevis</hi> Josian endures
+          two forced marriages to unsavory men until she is finally wedded to her beloved. For Dame
+          Edyff and Athelston’s queen it is not marital union that is impeded, but reunion and
+          reconciliation of family members brought about through their personal sufferings.</p>
+        <p style="body" n="7">The reason these women figure so prominently, in fact, has mostly to
+          do with heterosexual love and courtship. Yet the hero is not always the active pursuer and
+          agent, nor is his female counterpart always the hapless damsel in distress. As if
+          demonstrating the inherent power of transformation, gender roles can surprisingly reverse
+          themselves in romance. Goldeboru, for example, often acts as an equal partner and
+          companion to Havelok. Rymenhild — dismissed by some readers as a cardboard character known
+          mostly for her overwhelming passions — takes the lead in wooing the gallant young Horn.
+          Dame Edyff and Athelston’s queen demonstrate an integrity and fortitude that set an
+          example for the men around them, while Josian, one of the most active and well-developed
+          of all medieval heroines, shows remarkable strength through a series of amazingly adverse
+          situations. Medieval romance heroines, just as women in the real medieval world, are
+          prohibited from participating in military combat, but they take an active role in personal
+          relationships in these narratives. This may be in part because the relatively new concept
+          of romantic love in companionate marriage was making its way into popular culture.
+          Marriage was slowly moving away from being mostly an exchange of property (the woman and
+          her dowry being the items of exchange) and towards a loving if not always socially equal
+            partnership.<note target="#8" type="footnotelink">8</note></p>
+        <p style="body" n="8">The importance of women to romance reminds us that issues of gender in
+          these tales are intertwined with matters of class and the vicissitudes of political power
+          in medieval England. Some political issues had already become ancient history: the attacks
+          by the Saracens in <hi rend="italic">Horn</hi> are probably memories of the Viking
+          invasions that had plagued England in the ninth to eleventh centuries. A world that joined
+          a son of Southampton with the daughter of the King of Armenia in <hi rend="italic">Bevis
+            of Hampton</hi> may have had its historical roots in England’s active role in the
+          Crusades of the eleventh and twelfth centuries. In <hi rend="italic">Athelston</hi>, trial
+          by ordeal recalls an already discarded practice. Yet the power struggle between the king
+          and clergy in this romance was a continual reality in England. From the Crusades to the
+          Barons’ Revolts and the civil uprisings of 1381 to armed conflict with France in the
+          Hundred Years’ War, the unglamorous realities of war were well known to the English.</p>
+        <p style="body" n="9">Besides conflict between royalty and clergy, English romance reveals
+          the changing status of the nobility. Throughout the later Middle Ages, the nobility faced
+          innovative legal arrangements and centralized royal power on the one hand and the growing
+          power of the mercantile classes on the other. The increasing practice of primogeniture
+          created an uneasy position for the younger sons of noble families with no inheritance and
+          little else to do except take holy orders or fight. Stephen Knight argues that the figure
+          of the solitary knight, who must prove himself in arms by winning back his patrimony,
+          reflects this uneasy position in contemporary English life.<note target="#9"
+            type="footnotelink">9</note> In such “family romances” as <hi rend="italic">Amis</hi><hi
+            rend="italic"> and Amiloun</hi>, <hi rend="italic">The Avowing of Arthur</hi>, <hi
+            rend="italic">King Horn</hi>, and <hi rend="italic">Athelston</hi>, Knight sees that
+          “competitive assertiveness is the inner strain upon the fraternal bond [between
+            knights].”<note target="#10" type="footnotelink">10</note> But even in the imaginative
+          world of romance, the solitary chivalric hero is sometimes overpowered by a dialectic of
+          multiple interests — as Knight observes, <hi rend="italic">Havelok</hi> “shows
+          ‘lower-class’ features in its village games and physical work, royal myth in its hero and
+          his revelation, urban connections in its links to an origin legend for Grimsby. This text
+          is much broader than the specifically knightly and feudal world, being both older than and
+          marginal to the main romance pattern.”<note target="#11" type="footnotelink">11</note></p>
+        <p style="body" n="10">A threat from below was imposing even more reality on English romance
+          in the changing value of peasant labor in the fourteenth century and in an independent
+          merchant class that would eventually replace feudal society with a dependence on money,
+          capital, deeded property, and litigation. Indeed, congruent with a genre aware of the
+          vicissitudes of contemporary daily life, there is an engaging realism in these romances.
+            <hi rend="italic">Havelok</hi> features lists of particular fish on sale in Lincoln, and
+          the hero engages in peasant wrestling contests. Horn is a convincing sooty beggar when he
+          decides to approach Rymenhild in disguise. <hi rend="italic">Athelston</hi>’s four main
+          characters are initially messengers before they acquire higher social status. Bevis plays
+          various roles from the lower classes before regaining his patrimony. Furthermore, local
+          colors in the form of place names and graphic descriptions of a variety of battles and
+          methods of execution point to the realities of social and political discontent emanating
+          from the lower classes. Even so, Barron’s reading of the Matter of England romances
+          suggests a caveat against universalizing class analysis. In comparison to the models of
+          French Romance, “The struggles in which [English romance heroes] are caught up spring not
+          from the internal contradictions of courtly codes but the oppressive forces of a wicked
+            world.”<note target="#12" type="footnotelink">12</note></p>
+        <p style="body" n="11">Everyday life in this wicked world nonetheless comes with eerie
+          surprises. In the simple home of the fisherman Grim, Havelok is identified as a special
+          figure by a mysterious light and a cross-shaped birthmark. Much of the plot of <hi
+            rend="italic">Athelston</hi> hangs on a miraculous outcome of a trial by ordeal; Bevis
+          is often saved <hi rend="italic">deus-ex-machina</hi> style from certain death. Such
+          intrusions of the supernatural mark the romance hero’s life as rather extraordinary. The
+          very real and immediate body of the hero becomes the slate upon which the truth of God’s
+          will is indelibly and infallibly written. It is this combination of supernaturalism and a
+          kind of homey realism that gives the Middle English romances in this volume the
+          distinctive “mixed” quality so often seen as definitive of the notion of romance.</p>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="1"><space rend="indent1"/>See Introduction to <hi rend="italic"
+            >King Horn</hi> in this volume for an alternative dating of <hi rend="italic">King
+            Horn</hi> in the middle of the thirteenth century.</note>
+        <note type="footnote" n="2"><space rend="indent1"/>W. R. J. Barron, <hi rend="italic"
+            >English Medieval Romance</hi> (London: Longman, 1987), p. 54. See also Derek Pearsall,
+          “The Development of Middle English Romance,” <hi rend="italic">Mediaeval Studies</hi> 27
+          (1965), 91–116; Susan Crane, <hi rend="italic">Insular</hi><hi rend="italic"> Romance:
+            Politics, Faith, and Culture in Anglo-Norman and Middle</hi><hi rend="italic"> English
+            Literature</hi> (Berkeley: University of California Press, 1986); Harriet Hudson,
+          “Middle English Popular Romances: The Manuscript Evidence,” <hi rend="italic"
+            >Manuscripta</hi> 28 (1984), 67–78.</note>
+        <note type="footnote" n="3"><space rend="indent1"/>Gabriel Josopovici, <hi rend="italic">The
+            Book of God: A </hi><hi rend="italic">Response to the Bible</hi> (New Haven: Yale
+          University Press, 1988), p. 199.</note>
+        <note type="footnote" n="4"><space rend="indent1"/>Barron, pp. 5–6.</note>
+        <note type="footnote" n="5"><space rend="indent1"/>For a comprehensive discussion of the
+          hybrid nature and transformative potential of romance see Kevin and Marina Scordilis
+          Brownlee, <hi rend="italic">Romance: Generic Transformation from</hi><hi rend="italic">
+            Chrétien de Troyes to Cervantes</hi> (Hanover: University Press of New England,
+          1985).</note>
+        <note type="footnote" n="6"><space rend="indent1"/>See Joseph Campbell, <hi rend="italic"
+            >The Hero with a</hi><hi rend="italic"> Thousand Faces</hi> (New York: Pantheon,
+          1949).</note>
+        <note type="footnote" n="7"><space rend="indent1"/>Northrop Frye, <hi rend="italic"
+            >The</hi><hi rend="italic"> Secular Scripture: A Study of the Structure of Romance</hi>
+          (Cambridge: Harvard University Press, 1976).</note>
+        <note type="footnote" n="8"><space rend="indent1"/>For general discussions of medieval
+          marriage, see Georges Duby, <hi rend="italic">Medieval Marriage: Two Models from
+            Twelfth</hi><hi rend="italic">-Century France</hi>, trans. Elborg Forster (Baltimore:
+          The Johns Hopkins University Press, 1978), and Frances and Joseph Gies, <hi rend="italic"
+            >Marriage and the</hi><hi rend="italic"> Family in the Middle Ages</hi> (New York:
+          Harper and Row, 1987), especially pp. 141 ff. See also Christopher Brooke, <hi
+            rend="italic">The</hi><hi rend="italic"> Medieval Idea of Marriage</hi> (Oxford: Oxford
+          University Press, 1989).</note>
+        <note type="footnote" n="9"><space rend="indent1"/>Stephen Knight, “The Social Function of
+          the Middle English Romance.” In <hi rend="italic">Medieval Literature: Criticism,
+            Ideology, &amp; History</hi>, ed. David Aers (New York: St. Martin’s Press, Inc., 1986),
+          p. 107.</note>
+        <note type="footnote" n="10"><space rend="indent1"/>Knight, p. 113.</note>
+        <note type="footnote" n="11"><space rend="indent1"/>Knight, pp. 109–10.</note>
+        <note type="footnote" n="12"><space rend="indent1"/>Barron, p. 85.</note>
+
+
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Herzman-FourRomances-Export-18-Bevis-Enotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Explanatory Notes to Bevis of Hampton</title>
+        <author>Herzman, Ronald B.</author>
+        <author>Drake, Graham</author>
+        <author>Salisbury, Eve</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Amster, Mara I.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Church, Jennifer</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-09" to="2025-10">Audited documents prior to print/export</resp>
+          <resp from="2025-09" to="2025-09">Collected metadata</resp>
+          <resp from="2025-02" to="2025-04">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-10">Encoded TEI</resp>
+          <resp from="2025-08" to="2025-09">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-09">Entered corrections for digital edition</resp>
+          <resp from="2025-02" to="2025-09">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-10">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-12" to="2023-12">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Collated and entered corrections</resp>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Prepared edition for publication</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mara I. Amster</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Melissa Bernstein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jennifer Church</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Angela Gibson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ian Peddie</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ann Robinson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John William Sutton</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Dana M. Symons</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Herzman, Ronald B.</editor>
+            <editor>Drake, Graham</editor>
+            <editor>Salisbury, Eve</editor>
+            <title>Four Romances of England: King Horn, Havelok the Dane, Bevis of Hampton,
+              Athelston</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/herzman-fourromances/blob/main/herzman-fourromances-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1999</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Herzman-FourRomances-Export-18-Bevis-Enotes"/>
+      <div type="text">
+        <note type="enote" n="1">11<space rend="indent1"/><p><hi rend="italic">schire</hi>. In the
+            Middle Ages a shire was a province or subdivision of a county. Many cities in England
+            retain suffixes that indicate a seat of government. A modern analogue for shire would be
+            county.</p></note>
+        <note type="enote" n="2">15<space rend="indent1"/><p>As the notes to the other romances have
+            reminded us, in Middle English, double and even triple negatives add emphasis. Unlike in
+            modern English a double negative does not constitute an affirmative.</p></note>
+        <note type="enote" n="3">34–42<space rend="indent1"/><p>That the emperor of Germany is a
+            former lover as indicated here sets up the unhappy marital relation. The bride, who is
+            never identified except as Bevis’ mother, is dissatisfied because her choice of husband
+            has been thwarted by her father’s unilateral decision.</p></note>
+        <note type="enote" n="4">190<space rend="indent1"/><p><hi rend="italic">tresoun mest</hi>.
+            Treason in the Middle Ages connotes treachery or betrayal of someone to whom one owes
+            loyalty. Treason is thus not only a personal transgression, but a political
+            transgression as well.</p></note>
+        <note type="enote" n="5">202<space rend="indent1"/><p>The earl wears less armor than he
+            would if he knew he were facing a combat situation.</p></note>
+        <note type="enote" n="6">245<space rend="indent1"/><p>The exaggerated number of knights is a
+            convention of medieval romance. Often the hero performs superhuman deeds in battle
+            killing hundreds and thousands of opponents single-handedly. See line 4532 for the
+            extreme instance.</p></note>
+        <note type="enote" n="7">292<space rend="indent1"/><p>The messenger speaks the words he is
+            told to speak, conveying the message verbatim. Messengers play an important role in
+            medieval romance; they not only convey dialogue, but act as narrative links. Oftentimes
+            the messenger takes the brunt of the recipient’s anger. Bevis himself will play the role
+            of messenger later in the poem.</p></note>
+        <note type="enote" n="8">302<space rend="indent1"/><p><hi rend="italic">Vile houre</hi>.
+            Bevis calls his mother a “vile whore” and wishes her to be drawn to death. Drawing or
+            dragging, usually accompanied by quartering, entailed tying each limb to a separate rope
+            then pulling the body in opposing directions by four horses, literally tearing the
+            victim’s body into four pieces. The punishment was usually reserved for felons of the
+            worst sort.</p></note>
+        <note type="enote" n="9">310<space rend="indent1"/><p><hi rend="italic">alle wif</hi>. Bevis
+            imagines his mother a madame in a brothel.</p></note>
+        <note type="enote" n="10">320<space rend="indent1"/><p><hi rend="italic">That child she smot
+              with hire honde</hi>. One of many scenes of domestic violence. Not recognized by
+            medieval law, violence among family members was considered a private matter with parents
+            having customary rights to corporal punishment of their children.</p></note>
+        <note type="enote" n="11">323<space rend="indent1"/><p><hi rend="italic">meister</hi>.
+            Although Saber is Bevis’ uncle he is also his guardian, mentor, or, perhaps, teacher,
+            which is a common gloss on ME <hi rend="italic">maister</hi>. See also lines 487 ff.
+            where Bevis comes to his “teacher’s” defense. Saber’s name may have significance (from
+            OE <hi rend="italic">sigebush</hi>, meaning “victory fortress”); Saber is the faithful
+            keeper of the estate and the faith, throughout Bevis’ prolonged absence, and ultimately
+            becomes earl of Hampshire. He is not to be confused with the bishop of Cologne, Saber
+            Florentine, who appears in lines 2926 ff.</p></note>
+        <note type="enote" n="12">347<space rend="indent1"/><p>Like the huntsman in Snow White and
+            various other folk narratives, Saber circumvents the commands of a wicked mother by
+            slaying an animal.</p></note>
+        <note type="enote" n="13">398<space rend="indent1"/><p><hi rend="italic">Scherewe</hi>. From
+            this term derives “shrew.” In the Middle Ages the term connoted “rascal,” “rogue,”
+            “wicked person,” “evil-doer,” and “unruly or ill-disciplined child.” It could also refer
+            to an overbearing woman.</p></note>
+        <note type="enote" n="14">395–99<space rend="indent1"/><p>The role of the porter is often
+            stressful in medieval literature since it is he who decides who is worthy of entrance
+            into the city or castle.</p></note>
+        <note type="enote" n="15">415–20<space rend="indent1"/><p>Bevis’ novel means of entry defies
+            protocol.</p></note>
+        <note type="enote" n="16">454<space rend="indent1"/><p><hi rend="italic">Wo hem was for the
+              </hi><hi rend="italic">childes sake</hi>. The knights sympathize with Bevis and let
+            him go. Perhaps, they are also afraid of him.</p></note>
+        <note type="enote" n="17">496<space rend="indent1"/><p><hi rend="italic">painim </hi><hi
+              rend="italic">londe</hi>. The term could mean anyplace outside of Christian Europe.
+              <hi rend="italic">Painim</hi> could refer to any group of people not practicing
+            Christianity.</p></note>
+        <note type="enote" n="18">497<space rend="indent1"/><p>Bevis’ mother is participating in an
+            activity that goes well beyond fostering and is reminiscent of the actions of Joseph’s
+            brothers when they sell him into slavery in Genesis. Or perhaps Orestes, when
+            Clytemnestra puts him away. Like Orestes, Bevis will return seeking vengeance for the
+            murder of his father. Fortunately for him the mother dies on her own so that he is not
+            compelled to exact justice for her treason. But he does take care of her lover, his
+            stepfather.</p></note>
+        <note type="enote" n="19">515<space rend="indent1"/><p>The trip is given short shrift. In
+            the course of two lines, they have sailed out of England and arrived in the Middle East.
+            The land, as indicated in other MSS, is called Ermony, which usually refers to
+            Armenia.</p></note>
+        <note type="enote" n="20">520–22<space rend="indent1"/><p>The contrast between snow and
+            blood as well as the attention to the shoes on Josian’s feet recall fairy tale motifs
+            such as those of Cinderella, Snow White, and Rose Red. The allusion would not be
+            farfetched since fairy tales and folk tales, then as now, were present in virtually
+            every culture in the world. Both genres are integrally related to medieval
+          romance.</p></note>
+        <note type="enote" n="21">531<space rend="indent1"/><p><hi rend="italic">Mahoun</hi> was a
+            common name for Mohammed in Middle English. In the standard Middle English treatment of
+            the Islamic people (most often called Saracens in Middle English), he is treated as one
+            of many “pagan” gods, rather than as the historical prophet of the one God, whose Arabic
+            name is Allah.</p></note>
+        <note type="enote" n="22">548<space rend="indent1"/><p><hi rend="italic">Wikked beth fele
+              wimmen to fonde</hi>. Proverbial, though not cited in Whiting or Tilley. The sense is
+            “Many women prove to be wicked.”</p></note>
+        <note type="enote" n="23">558<space rend="indent1"/><p><hi rend="italic">Apolyn</hi> is
+            another of the “pagan” gods of the Saracens according to medieval understanding. This
+            treatment of Islam is commonplace in English romances, especially the English
+            Charlemagne romances. See Alan Lupack, ed., <hi rend="italic">Three Middle </hi><hi
+              rend="italic">English Charlemagne Romances</hi> (Kalamazoo: Medieval Institute
+            Publications, 1990).</p></note>
+        <note type="enote" n="24">599<space rend="indent1"/><p>The Saracen finds Bevis’ ignorance
+            laughable because even he knows the significance of the day.</p></note>
+        <note type="enote" n="25">690<space rend="indent1"/><p><hi rend="italic">losengers</hi>.
+            According to the <hi rend="italic">MED</hi> this term has a range of meaning including:
+            “one who curries favor,” “a flatterer,” “liar,” “backbiter,” “calumniator,” “hypocrite,”
+            “traitorous counselor,” “rascal,” “coward.”</p></note>
+        <note type="enote" n="26">707<space rend="indent1"/><p><hi rend="italic">Lemman</hi>. A term
+            of endearment usually reserved for one’s beloved. Bevis’ response to Josian’s
+            declaration suggests an epiphany born of love.</p></note>
+        <note type="enote" n="27">844<space rend="indent1"/><p><hi rend="italic">seith the bok</hi>.
+            The poet uses a convention of medieval romance to lend authority to his narrative. Often
+            the “book” is French. Here it may be more than convention since this poem has a French
+            source.</p></note>
+        <note type="enote" n="28">860<space rend="indent1"/><p><hi rend="italic">maught</hi>. Though
+            the usual sense is “might” or “strength,” when used to describe a weapon the sense may
+            be “power,” “craftsmanship,” or “virtue.”</p></note>
+        <note type="enote" n="29">861<space rend="indent1"/><p>The naming of a sword is commonplace
+            in medieval romance and epic: Arthur’s Excalibur, Gawain’s Galantyne, Beowulf’s
+            Hrunting, Roland’s Durandal, Oliver’s Glorious, and Siegfried’s Griel are a
+          few.</p></note>
+        <note type="enote" n="30">897<space rend="indent1"/><p>Josian’s equation of love-longing as
+            captivation is a feature of medieval ideas of courtly love. Love captures its victim
+            with a hook or arrow and causes pain and suffering. As Andreas Capellanus explains in
+            the <hi rend="italic">Art of Courtly Love</hi>: “love is like an inborn
+          suffering.”</p></note>
+        <note type="enote" n="31">904<space rend="indent1"/><p>Bevis’ decision to take the
+            decapitated head of the boar to the king rather than to Josian (see line 832) is no
+            doubt related to the attack of the envious steward. He needs to prove his deed, i.e.,
+            the slaying of the beast. The steward’s plan to steal the boar’s head away from Bevis in
+            order to claim his own prowess is thwarted when Bevis, in the process of defending
+            himself, kills the steward and his accomplices. He then has an opportunity to bring the
+            head of the steward to the king but decides against it. He has already been charged with
+            treason once. Should the king misconstrue Bevis’ story, he could face another charge of
+            treason. Josian, who witnesses the whole scene, discloses Bevis’ act later as an
+            endorsement of his candidacy for knighthood.</p></note>
+        <note type="enote" n="32">924<space rend="indent1"/><p>Brademond threatens to deflower
+            Josian and pass her on to a member of the lower classes, a serious threat indeed, given
+            the value placed upon female virginity and social ranking in the Middle Ages.</p></note>
+        <note type="enote" n="33">993<space rend="indent1"/><p><hi rend="italic">ferste scheld
+              trome. trome</hi> (from OE <hi rend="italic">truma</hi>) is a rank of warriors, a body
+            of armed men; the <hi rend="italic">ferste scheld</hi> is the vanguard, the first ward.
+            Bevis leads his choice retainers into battle, a gesture to which the enemy instantly
+            responds. In E the equivalent gesture is contained in the line <hi rend="italic">Beues
+              gan than his </hi><hi rend="italic">horne blowe</hi>, to which the enemy
+          responds.</p></note>
+        <note type="enote" n="34">1010<space rend="indent1"/><p><hi rend="italic">wod</hi>. We have
+            borrowed the anachronistic gloss “berserk” from Scott’s nineteenth-century usage (<hi
+              rend="italic">OED</hi>) to describe the “wodness” of medieval battle frenzy. Scott’s
+            neologism provides a useful modern term for which there is no better
+          equivalent.</p></note>
+        <note type="enote" n="35">1049<space rend="indent1"/><p>St. Martin, probably of Tours
+            (316–97), was a soldier who later became a monk and bishop in Gaul. While Martin was
+            still a soldier, he came upon a naked beggar near Amiens in Northern France and cut his
+            cloak in half to give the poor man something to wear. Later Martin dreamed that Christ
+            himself was the beggar. Martin’s life and frequent miracles were popular legend in the
+            Middle Ages. His feast day, 8 November, became known in England as Martinmas. See David
+            Hugh Farmer, <hi rend="italic">Oxford Dictionary of Saints</hi> (Oxford: Oxford
+            University Press, 1982), pp. 265–66.</p></note>
+        <note type="enote" n="36">1132<space rend="indent1"/><p><hi rend="italic">daunger</hi>. This
+            term is often related to the practices of courtly love, wherein a would-be lover could
+            act in an aloof and distant manner. According to the <hi rend="italic">MED</hi> it could
+            also mean “domination, power, control, or possession” and “threaten to cause difficulty
+            or damage” as Josian seems to here, at least in Bevis’ perception of her declamation of
+            love.</p></note>
+        <note type="enote" n="37">1192<space rend="indent1"/><p><hi rend="italic">wimmannes bolt is
+              </hi><hi rend="italic">sone schote</hi>. Proverbial; not in Tilley or Whiting. The
+            proverb implies lack of discretion, <hi rend="italic">sone</hi> suggesting “haste” or
+            “carelessness.” Compare Malory’s <hi rend="italic">The Great Tournament</hi>, where the
+            huntress shoots <hi rend="italic">anone</hi> and misses the hind but hits Lancelot’s
+            buttocks.</p></note>
+        <note type="enote" n="38">1289<space rend="indent1"/><p>St. Julian is the patron saint of
+            hospitality.</p></note>
+        <note type="enote" n="39">1344<space rend="indent1"/><p><hi rend="italic">A </hi><hi
+              rend="italic">cleimede his eritage</hi>. To claim a heritage is to assert a legal
+            right to something, to demand title to something.</p></note>
+        <note type="enote" n="40">1380<space rend="indent1"/><p><hi rend="italic">Tervagaunt</hi>
+            (usually Termagant) is another member of the Saracen pantheon.</p></note>
+        <note type="enote" n="41">1398<space rend="indent1"/><p><hi rend="italic">kende</hi>. We
+            have glossed the term as “gentle,” which seems to be closest to the primary sense of the
+            term in this unctuous usage; “noble,” “lordly,” “spirited,” “courageous,” “brave,”
+            “dutiful,” or “loyal” might do as well. See <hi rend="italic">MED</hi>
+            <hi rend="italic">kinde</hi> (adj.) 4 and 5.</p></note>
+        <note type="enote" n="42">1412–18<space rend="indent1"/><p>Though a scoundrel, Brademond has
+            some sense of honor; since Bevis once defeated him but did not kill him, Brademond will
+            imprison Bevis rather than execute him. Had Bevis not previously shown his prowess,
+            Brademond says that he would have executed him before sundown.</p></note>
+        <note type="enote" n="43">1422<space rend="indent1"/><p><hi rend="italic">under the
+            fet</hi>. The point is that Bevis will no longer eat from a table. His prison is a pit
+            twenty fathoms deep. Food and drink are dropped to him. That the stench would be
+            suffocating is no harder to imagine than it would be to endure. Entrance and egress is
+            by rope, which later proves to be his salvation. See lines 1537 ff.</p></note>
+        <note type="enote" n="44">1424<space rend="indent1"/><p>A quarter was an actual unit of
+            measurement for grain. According to the <hi rend="italic">OED</hi> it was equal to eight
+            bushels of wheat.</p></note>
+        <note type="enote" n="45">1468<space rend="indent1"/><p><hi rend="italic">That </hi><hi
+              rend="italic">I lovede ase min hertte blode</hi>. Josian’s expression of love is
+            intensified by the anatomical reference.</p></note>
+        <note type="enote" n="46">1469–72<space rend="indent1"/><p>Magic rings are commonplace in
+            romance traditions. Lunette gives one to Yvain in Chrétien de Troyes’ <hi rend="italic"
+              >Yvain: The Knight with the Lion</hi> to protect him from harm. Rings are also used as
+            means of identification or for signifying a courtly relation. Lapidary was a subject of
+            great interest in the Middle Ages and gemstones often had symbolic meaning as proof of
+            their power.</p></note>
+        <note type="enote" n="47">1571<space rend="indent1"/><p><hi rend="italic">His browe
+              stank</hi>. Apparently the wound on his forehead putrefies before forming the
+            scar.</p></note>
+        <note type="enote" n="48">1584<space rend="indent1"/><p>The suffering servant motif seems to
+            be operating here. Exegetical tradition holds Christ to be the prototype. Bevis’ descent
+            and eventual ascent may mark him as a Christ figure or at the very least a mythic hero
+            in Northrop Frye’s sense of the term. See <hi rend="italic">The Secular
+            Scripture</hi>.</p></note>
+        <note type="enote" n="49">1733<space rend="indent1"/><p><hi rend="italic">fox welp</hi>. An
+            insult equivalent to <hi rend="italic">heathen hound</hi>.</p></note>
+        <note type="enote" n="50">1756<space rend="indent1"/><p><hi rend="italic">undertide</hi>. A:
+              <hi rend="italic">undetide</hi>. Kö’s emendation. The time designated by this term is
+            noon, thought to be a particularly significant moment during the day, i.e., the time at
+            which demons could tempt vulnerable humans. See John Block Friedman, “Eurydice,
+            Heurodis, and the Noon-day Demon,” <hi rend="italic">Speculum</hi> 41 (1996),
+          22–29.</p></note>
+        <note type="enote" n="51">1800<space rend="indent1"/><p>In this somewhat convoluted
+            comparison, a contrast is made between the innocence of fish, who as creatures lacking
+            reason are not able to sin, and the perfidy of Saracens, who are thought by implication
+            to be guilty of the death of Christ.</p></note>
+        <note type="enote" n="52">1872<space rend="indent1"/><p>Bevis is making a grim and ironic
+            joke about the tonsure, the “close shave” that identified medieval clerics.</p></note>
+        <note type="enote" n="53">1951–53<space rend="indent1"/><p>The sense is “if King Brademond
+            and all his offspring were right there.”</p></note>
+        <note type="enote" n="54">2058–66<space rend="indent1"/><p>The beggar’s or pilgrim’s
+            disguise is a popular practice in medieval romance as well as epic poems such as Homer’s
+              <hi rend="italic">Odyssey</hi>. An effective strategy for entering a hostile city, it
+            suggests the “invisibility” of those members of society at the bottom of the social
+            ladder.</p></note>
+        <note type="enote" n="55">2164–66<space rend="indent1"/><p>Perhaps the sense is that “it is
+            many a man’s bane to be laughed at today before the steed is caught,” that is, many will
+            try and fail (before Bevis comes along).</p></note>
+        <note type="enote" n="56">2203–06<space rend="indent1"/><p>The sense here is that if in
+            England anyone can testify that Josian is married, she will return to her homeland with
+            nothing but the smock on her back. She is suggesting that the marriage is unconsummated,
+            which would render the relation invalid.</p></note>
+        <note type="enote" n="57">2217<space rend="indent1"/><p><hi rend="italic">chevalrie</hi>.
+            The term might be glossed as “chivalry,” but in the sense of “horsemanship” rather than
+            “courtesy,” which subsequently displaces the earlier meaning.</p></note>
+        <note type="enote" n="58">2352<space rend="indent1"/><p><hi rend="italic">Ascopart</hi>.
+            Giants enjoy a long and varied history in Scripture and medieval romance. They are
+            depicted usually as villains, apostates, arrogant, threatening monsters, and descendants
+            of Cain (e.g., Nimrod, Goliath, Grendel, and the giants of Rabelais). There is at least
+            one exception to the negative portrayal of giants through the ages: St. Christopher, a
+            benevolent giant, is said to have carried the Christ child across a treacherous river.
+            In <hi rend="italic">Bevis</hi>, Ascopard is remarkable in that he falls in
+          between.</p></note>
+        <note type="enote" n="59">2379<space rend="indent1"/><p>The lions seem to be in a rampant
+            position similar to how they would appear in heraldry.</p></note>
+        <note type="enote" n="60">2390–94<space rend="indent1"/><p>A commonplace of medieval lore
+            was that virginity could confer invulnerability. Also, the taming of wild beasts occurs
+            through their recognition of the virgin queen. Only a female virgin could lure the wild
+            unicorn into her presence. In iconography the unicorn lies blissfully with its head in
+            the virgin’s lap.</p></note>
+        <note type="enote" n="61">2503<space rend="indent1"/><p><hi rend="italic">upon a mule</hi>.
+            Where this mule comes from is not explained. It simply appears when needed as the knight
+            and his lady set out. Given the recent fact of Josian’s conversion, the trope perhaps
+            suggests female virtue. Compare Gower’s Constance in <hi rend="italic">Confessio
+              Amantis</hi> as she rides out to meet her father “Upon a Mule whyt amblaunt” (II.1506)
+            and Una’s mount as she sets out with Redcrosse Knight in the <hi rend="italic">Faerie
+              Queene</hi>, I.i.29 Or it may simply be an appropriate mount for a royal woman as in
+              <hi rend="italic">King Alexander</hi>, where Cleopatra “rod on a mule white so milk”
+            (line 1031). Religious connotations are also possible as seen in Jesus’ entrance into
+            Jerusalem; riding on an ass rather than a warhorse denotes him as the Prince of Peace,
+            not a conquering military hero. The Virgin Mary is also depicted in iconography riding
+            an ass toward Jerusalem to give birth, then later during the flight into Egypt. The
+            “wild ass” was associated with Ishmael and became a symbol of conversion.</p></note>
+        <note type="enote" n="62">2585<space rend="indent1"/><p><hi rend="italic">Who </hi><hi
+              rend="italic">is this with the grete visage</hi>. The bishop is referring to
+            Ascopard.</p></note>
+        <note type="enote" n="63">2601<space rend="indent1"/><p><hi rend="italic">dragoun</hi>. The
+            dragon (“drake” or serpent) is one of the most vivid beasts created by the medieval
+            European imagination. As serpent it represents the archetype of temptation in the Garden
+            of Eden. In its more imaginative manifestations it becomes the beast of <hi
+              rend="italic">Revelation</hi>, a symbol of pure evil, who opposes the archangel
+            Michael and his angelic forces. Its presence in medieval romance usually points to the
+            hero’s extraordinary prowess.</p></note>
+        <note type="enote" n="64">2603–07<space rend="indent1"/><p>Wade, Lancelot, and Guy of
+            Warwick are great heroes in the romance tradition. By comparing Bevis’ exploits to
+            theirs, the author is authenticating Bevis’ credentials as a hero of the first rank, and
+            is also exemplifying the fact that the romance is a self-conscious genre, with
+            individual romances constantly referring to characters and incidents in other romances
+            and to their own sources. Notice, for example, the number of times in <hi rend="italic"
+              >Bevis</hi> that we are given lines such as “as the book saith,” or “as the French
+            book saith.” Such lines also remind us that medieval writers held written authority in
+            high esteem. A reference to an earlier book is not simply a footnote, but a validation
+            from an “auctor.” (This Latin word means both author and authority at the same
+            time.)</p></note>
+        <note type="enote" n="65">2611<space rend="indent1"/><p>Apulia is in Southern Italy, as is
+            Calabria. One of the distinguishing features of <hi rend="italic">Bevis</hi> is a kind
+            of geographical sweep. Italy here joins with Germany, the near east, and many parts of
+            England as part of that sweep.</p></note>
+        <note type="enote" n="66">2640<space rend="indent1"/><p>Tuscany is in north-central Italy.
+            It is the region of such cities as Florence, Siena, and Pisa.</p></note>
+        <note type="enote" n="67">2665<space rend="indent1"/><p>The <hi rend="italic">cholle</hi> is
+            that part of a dragon’s anatomy which extends from the chin to the throat and from ear
+            to ear.</p></note>
+        <note type="enote" n="68">2673<space rend="indent1"/><p><hi rend="italic">wintonne</hi>. A
+            wine tun is a wine barrel.</p></note>
+        <note type="enote" n="69">2693<space rend="indent1"/><p><hi rend="italic">Thanne </hi><hi
+              rend="italic">a herde</hi>. Bevis’ vision comes in two phases: first a vision of one
+            wounded by a mad king who is saved by a virgin; and second of one swollen with venom
+            from a dragon. Both visions pertain to his own precarious situation.</p></note>
+        <note type="enote" n="70">2747<space rend="indent1"/><p>There are many saints named John.
+            Perhaps the invocation is to John of Patmos, who, in the Middle Ages, is often credited
+            with the writing of the <hi rend="italic">Book of Revelation</hi>. The apocalyptic,
+            cosmic battle depicted there features a fierce, seven-headed dragon.</p></note>
+        <note type="enote" n="71">2802<space rend="indent1"/><p>Bevis’ taking of refuge in the
+            healing well as he fights the dragon is echoed in Redcrosse Knight’s retreat to the well
+            of virginal virtue after the first and second days of fighting in Spenser’s <hi
+              rend="italic">Faerie Queene</hi>. Note Bevis’ second venture in the well in lines 2850
+            ff. It is not mere coincidence that in line 2817 Bevis calls upon St. George for
+            strength. See note to line 2817.</p></note>
+        <note type="enote" n="72">2815<space rend="indent1"/><p><hi rend="italic">of is </hi><hi
+              rend="italic">helm a drank thore</hi>. The line is perhaps echoed in Chaucer’s Tale of
+            Sir Thopas (<hi rend="italic">CT</hi> VII.15), though there the parallel is attributed
+            to “sire Percyvell.”</p></note>
+        <note type="enote" n="73">2817<space rend="indent1"/><p>St. George is the martyr and patron
+            of England. The story of George and the dragon was immensely popular, disseminated
+            through the twelfth-century <hi rend="italic">Golden Legend</hi> of Jacobus de Voragine
+            which was then translated by William Caxton in the fifteenth century. But, according to
+            the <hi rend="italic">Oxford Dictionary of Saints</hi>, the story was known in England
+            as early as the seventh century. Edmund Spenser’s portrayal of Redcrosse Knight in the
+              <hi rend="italic">Fairie </hi><hi rend="italic">Queene</hi> reiterates St. George’s
+            status as patron saint of England.</p></note>
+        <note type="enote" n="74">2838–39<space rend="indent1"/><p>The story of Jesus’ raising of
+            Lazarus from the dead is told in the Gospel according to John, ch. 11. Because it was
+            considered one of Jesus’ definitive miracles, it is often used when asking God’s help in
+            extremely precarious, not to say seemingly hopeless, situations.</p></note>
+        <note type="enote" n="75">2848<space rend="indent1"/><p><hi rend="italic">bacinet</hi>. A
+            basinet is a supplementary cap worn under the helmet.</p></note>
+        <note type="enote" n="76">2879<space rend="indent1"/><p>The <hi rend="italic">cholle</hi> is
+            that part of a dragon’s anatomy which extends from the chin to the throat and from ear
+            to ear.</p></note>
+        <note type="enote" n="77">2882<space rend="indent1"/><p><hi rend="italic">yenede swithe
+              </hi><hi rend="italic">wide</hi>. Because of its armor plate the only way that Bevis
+            can get to the dragon’s heart is through its throat; thus the dragon’s wide-mouthed gasp
+            proves fatal to the beast.</p></note>
+        <note type="enote" n="78">2967<space rend="indent1"/><p><hi rend="italic">Ac ever, an
+              erneste and </hi><hi rend="italic">a rage</hi>. Perhaps this suggests that he was not
+            only serious, but angry as well.</p></note>
+        <note type="enote" n="79">2985–3006<space rend="indent1"/><p>Note the irony of giving Bevis
+            a version of his own history.</p></note>
+        <note type="enote" n="80">3105–08<space rend="indent1"/><p>The sense of this passage seems
+            to be that because the emperor has sex with his wife too frequently, his aim has been
+            affected. Distorted vision, thought to be an effect of sexual excess, is also used as a
+            metaphor by some medieval writers.</p></note>
+        <note type="enote" n="81">3187 ff.<space rend="indent1"/><p>It was not unusual for witnesses
+            to observe a newly married couple in bed in order to validate the marriage. The issue of
+            whether consent or sexual intercourse were necessary for a valid marriage was vexed in
+            the Middle Ages. David Herlihy writes: “The most common opinion was that consent alone
+            was sufficient, but some experts continued to affirm that physical union perfected the
+            marriage and rendered it binding” (<hi rend="italic">Medieval Households</hi>
+            [Cambridge: Harvard University Press, 1985], p. 80).</p></note>
+        <note type="enote" n="82">3217<space rend="indent1"/><p>Kö provides the following
+            explanation of “rail-tree”: “On bed curtains, see <hi rend="italic">Our English
+              Home</hi>, p. 101: ‘Bed-curtains hung upon rails of ‘tre’ or metal were in use [at
+            this time] . . .” (p. 323).</p></note>
+        <note type="enote" n="83">3248<space rend="indent1"/><p>A caudle is a drink, often taken for
+            medicinal purposes, consisting of thin gruel, wine, and spices.</p></note>
+        <note type="enote" n="84">3352<space rend="indent1"/><p><hi rend="italic">Mani hondes maketh
+              </hi><hi rend="italic">light werk</hi>. Whiting cites <hi rend="italic">Bevis</hi> (c.
+            1300) as the earliest recorded instance of this proverb.</p></note>
+        <note type="enote" n="85">3356<space rend="indent1"/><p>A pitched battle is a particular
+            strategy in medieval warfare.</p></note>
+        <note type="enote" n="86">3392<space rend="indent1"/><p>As Kö notes, the King of Scotland
+            dies later at the hands of Ascopard. According to the French text, Saber murders the
+            Scottish king.</p></note>
+        <note type="enote" n="87">3511<space rend="indent1"/><p>Whitsunday is the English name for
+            Pentecost, the Christian feast, coming fifty days after Easter, which celebrates the
+            descent of the Holy Spirit to the Apostles and is considered the “birthday” of the
+            Christian church. It is described in Acts of the Apostles, ch. 2.</p></note>
+        <note type="enote" n="88">3513–42<space rend="indent1"/><p>Horse races for the accumulation
+            of wealth are not often found in medieval romance. But they were common in practice.
+            See, for example, <hi rend="italic">The Voyage of Ohtere</hi>, where the one with the
+            swiftest horse gets the most. Here the race functions as a demonstration of Arondel’s
+            “horsepower.”</p></note>
+        <note type="enote" n="89">3590<space rend="indent1"/><p>Ascopard’s betrayal is ostensibly
+            caused by Bevis’ fall into poverty, but is just as likely a jealous response. The
+            proclivities of fairweather friends appear in other Middle English romances. See, for
+            instance, <hi rend="italic">Sir Cleges</hi> in <hi rend="italic">Middle English Breton
+              Lays</hi>, ed. Anne Laskaya and Eve Salisbury (Kalamazoo: Medieval Institute
+            Publications, 1995). Nonetheless, Ascopard does have trouble maintaining credibility,
+            despite his good deeds.</p></note>
+        <note type="enote" n="90">3630–31<space rend="indent1"/><p>Childbirth was strictly the
+            provenance of women in the Middle Ages. Josian’s rejection of male interference reflects
+            that custom. Also, the birth of twins is notable since medieval folklore sometimes held
+            that multiple births were the consequence of many fathers rather than one. Often,
+            because of the social stigma the birth of twins accrued, one twin could be subject to
+            death or exile. See <hi rend="italic">Lay le Freine</hi>, for instance.</p></note>
+        <note type="enote" n="91">3634<space rend="indent1"/><p>Josian is invoking the Virgin’s help
+            in childbirth.</p></note>
+        <note type="enote" n="92">3640–50<space rend="indent1"/><p>The abduction of the heroine is
+            particularly violent. Other abductions such as that of Guenevere have not been depicted
+            as brutally as this scene. Adding to the brutality is the fact of Josian’s recent
+            parturition and the abandonment of her twins.</p></note>
+        <note type="enote" n="93">3714<space rend="indent1"/><p>“Heathen” seems to be a curious way
+            to describe the children. As we find out a few lines later (line 3734), however, it
+            refers to the fact that they have not yet been baptized, a condition that is swiftly
+            remedied.</p></note>
+        <note type="enote" n="94">3749<space rend="indent1"/><p>A mark was an accounting measure
+            (not an actual coin) used in medieval England, equal to thirteen shillings
+            fourpence.</p></note>
+        <note type="enote" n="95">3772<space rend="indent1"/><p>Though it is not clear whether <hi
+              rend="italic">Aumbeforce</hi> is a real or an imagined place from the text, A. C.
+            Baugh points out that in the Anglo-Norman original Aumberforce is the city of Seville
+            (p. 21).</p></note>
+        <note type="enote" n="96">3775<space rend="indent1"/><p>St. Thomas of India is actually one
+            of the twelve original apostles, most famous as “doubting Thomas,” because of the story
+            in John’s Gospel (ch. 20) in which he refuses to believe the resurrection of Christ
+            until he can put his fingers in Christ’s wounds. According to ancient tradition he
+            brought the gospel to India, where he was martyred.</p></note>
+        <note type="enote" n="97">3776<space rend="indent1"/><p>Terri’s answer to Bevis is a way of
+            saying that they have never been cowards, that is, they have never been afraid to fight
+            face to face.</p></note>
+        <note type="enote" n="98">3785<space rend="indent1"/><p>The Spanish city of Toledo was
+            famous for the manufacture of steel and weapons. The form of the word is French,
+            indicating the influence of the Anglo-Norman version of <hi rend="italic"
+            >Bevis</hi>.</p></note>
+        <note type="enote" n="99">3844<space rend="indent1"/><p>St. James and St. Giles are both
+            important pilgrimage saints. James, one of the twelve original apostles, was thought to
+            have preached in Spain. Santiago de Compostela, in northwestern Spain, where his body
+            was thought to be found, was one of the most important pilgrimage centers of the Middle
+            Ages, the most important in western Europe. Giles, a hermit from either the sixth or
+            eighth century, is the patron saint of cripples and beggars. His shrine — Saint-Gilles,
+            in Provence — was also an important pilgrimage center in the Middle Ages.</p></note>
+        <note type="enote" n="100">3859<space rend="indent1"/><p>This probably refers to the entire
+            eastern Mediterranean, rather than to anything more specific.</p></note>
+        <note type="enote" n="101">3910<space rend="indent1"/><p>Josian’s entrepreneurial activity,
+            i.e., “as a minstrel,” recalls an episode in the romance of <hi rend="italic">Apollonius
+              of Tyre</hi> in which Apollonius’ abducted daughter escapes service in a foreign
+            brothel by thwarting the desire of those seeking her services by her rhetoric. Once out,
+            she takes up harp playing and pedagogy to support herself.</p></note>
+        <note type="enote" n="102">3960<space rend="indent1"/><p><hi rend="italic">pleide at the
+              talvas</hi>. A <hi rend="italic">talevas</hi> is a round shield, or buckler. To play
+            at the talevas is an idiom for fencing. See <hi rend="italic">MED</hi>
+            <hi rend="italic">talevard</hi>.</p></note>
+        <note type="enote" n="103">3990<space rend="indent1"/><p>This refers to a king’s ransom. By
+            comparison Chaucer was ransomed for £16 when he was captured by the French during the
+            Hundred Years War. This was considered a significant amount of money in the fourteenth
+            century.</p></note>
+        <note type="enote" n="104">4040<space rend="indent1"/><p><hi rend="italic">tan</hi>. A
+            northern form of <hi rend="italic">taken</hi>, the sense being to “turn attention to”
+              (<hi rend="italic">MED</hi>
+            <hi rend="italic">taken</hi> 23a); “to embrace,” “consider,” “pick up,” “proceed,”
+            “perceive a course,” “assent,” “apply ourselves,” or “follow counsel,” “take up the
+            thread,” or “deliberate.”</p></note>
+        <note type="enote" n="105">4054<space rend="indent1"/><p>The purse and staff here signify
+            that Saber is going in the guise of a pilgrim.</p></note>
+        <note type="enote" n="106">4168<space rend="indent1"/><p>As the notes to the earlier
+            romances indicate, time was usually measured according to the monastic offices or prayer
+            services. Prime is the first of the monastic offices, which takes place at 6 a.m. Prime
+            can thus refer specifically to 6 a.m. or to the time between 6 and 9 a.m. Undern refers
+            to the time between 9 a.m. and 1 p.m., or sometimes noon to 3 p.m.</p></note>
+        <note type="enote" n="107">4185<space rend="indent1"/><p>The sense of this is that Bevis’
+            prayers have tamed the valor of Yvor.</p></note>
+        <note type="enote" n="108">4272<space rend="indent1"/><p><hi rend="italic">is owene sone
+              Terry</hi>. That is to say, we are back talking about Saber’s own son, not Bevis’
+            sons, who are mentioned in the previous verse.</p></note>
+        <note type="enote" n="109">4437<space rend="indent1"/><p>As the notes to the earlier
+            romances indicate, time was usually measured according to the monastic offices or prayer
+            services. Undern refers to the time between 9 a.m. and 1 p.m., or sometimes noon to 3
+            p.m.</p></note>
+        <note type="enote" n="110">4469<space rend="indent1"/><p>The Harrowing of Hell is the
+            medieval English term for Christ’s descent into hell after His death to defeat the
+            powers of evil. This is also one of the most widely depicted scenes in medieval
+            literature, art, and drama, often vividly presenting Christ opening the jaws of
+            hell-mouth and leading the Old Testament patriarchs and prophets to salvation. See, for
+            example, William Langland’s <hi rend="italic">Piers Plowman</hi> B.XVIII.270 ff. (Skeat
+            1.538–40) for a powerful Middle English version of this event.</p></note>
+        <note type="enote" n="111">4490<space rend="indent1"/><p>This seems to be an especially
+            roundabout way of saying that they killed them.</p></note>
+        <note type="enote" n="112">4522 ff.<space rend="indent1"/><p><hi rend="italic">That he ne
+              lai ded upon the grounde. / And whan </hi><hi rend="italic">Beves segh that sighte, /
+              In hertte he was glad and </hi><hi rend="italic">lighte</hi>. The order here is
+            difficult and convoluted. Perhaps it goes something like this: “So that he might get
+            there [without delay], he did not dare ask for a doctor to heal his wound so that he
+            should not lie dead on the ground.” The final line here starts to move off on a
+            tangent.</p></note>
+        <note type="enote" n="113">4534<space rend="indent1"/><p><hi rend="italic">ledene
+            halle</hi>. Kö capitalizes <hi rend="italic">Ledene</hi>. <hi rend="italic">MED</hi>
+            does cite <hi rend="italic">Ledynhall</hi> as a specific place name, noting that the
+            place was also called Laurence Hall.</p></note>
+        <note type="enote" n="114">4608<space rend="indent1"/><p><hi rend="italic">Sein
+              Lauarauns</hi>. Saint Lawrence died as a deacon and martyr in Rome in 258 A.D. He is
+            usually depicted with a gridiron, on which he was reputed to have been executed by
+            roasting. Relics of St. Lawrence were sent from Rome to King Oswin of Northumbria in the
+            seventh century.</p></note>
+      </div>
+    </body>
+  </text>
+</TEI>

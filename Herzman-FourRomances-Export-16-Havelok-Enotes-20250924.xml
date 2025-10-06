@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Herzman-FourRomances-Export-16-Havelok-Enotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Explanatory Notes to Havelok the Dane</title>
+        <author>Herzman, Ronald B.</author>
+        <author>Drake, Graham</author>
+        <author>Salisbury, Eve</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Amster, Mara I.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Church, Jennifer</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-09" to="2025-10">Audited documents prior to print/export</resp>
+          <resp from="2025-09" to="2025-09">Collected metadata</resp>
+          <resp from="2025-02" to="2025-04">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-10">Encoded TEI</resp>
+          <resp from="2025-08" to="2025-09">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-09">Entered corrections for digital edition</resp>
+          <resp from="2025-02" to="2025-09">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-10">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-12" to="2023-12">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Collated and entered corrections</resp>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Prepared edition for publication</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mara I. Amster</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Melissa Bernstein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jennifer Church</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Angela Gibson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ian Peddie</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ann Robinson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John William Sutton</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Dana M. Symons</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Herzman, Ronald B.</editor>
+            <editor>Drake, Graham</editor>
+            <editor>Salisbury, Eve</editor>
+            <title>Four Romances of England: King Horn, Havelok the Dane, Bevis of Hampton,
+              Athelston</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/herzman-fourromances/blob/main/herzman-fourromances-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1999</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Herzman-FourRomances-Export-16-Havelok-Enotes"/>
+      <div type="text">
+        <note type="enote" n="1">20<space rend="indent1"/><p><hi rend="italic">Benedicamus
+              Domino</hi>. “Let us bless the Lord.” This is a verse in the Mass not often used in
+            literature. The only other literary example known to Sm occurs in Philippe de Thaün’s
+              <hi rend="italic">Bestaire</hi>, in which a pearl is a symbol of Christ.</p></note>
+        <note type="enote" n="2">1–26<space rend="indent1"/><p>As in the other Middle English
+            romances in this volume, <hi rend="italic">Havelok</hi> begins with a formal exhortation
+            to its audience. The convention, according to Sm derives from Old French epics and
+            romances and consists of four parts: an exhortation to listen, a statement of subject,
+            praise of the hero, and a prayer. Sa, on the other hand, links the poem to its cultural
+            milieu: “Its Latin subtitle <hi rend="italic">Incipit vita Hauelok quondam</hi><hi
+              rend="italic"> rex anglie et denemarchie</hi> must have matched some sort of popular
+            realization that Englishmen of the North were in blood half-Scandinavian and that they
+            just before the Conquest had actually been part of a dual kingdom of England and
+            Denmark” (p. 55).</p></note>
+        <note type="enote" n="3">28<space rend="indent1"/><p><hi rend="italic">That</hi> refers to
+            the king; thus, construe lines 27–30 as “It was a king in former days who in his time
+            made good laws and upheld them; young people loved him, old people loved him.” Note the
+            inverted sentence structure that emphasizes the object “him” twice by giving it
+            syntactical priority.</p></note>
+        <note type="enote" n="4">31<space rend="indent1"/><p><hi rend="italic">Dreng</hi> and <hi
+              rend="italic">thayn</hi> are synonyms for a king’s vassals, though connotations may be
+            distinct in other contexts, as Sa suggests when he defines a <hi rend="italic"
+              >dreng</hi> in Northumbria at this time as “a tenant with military obligations” (p.
+            59).</p></note>
+        <note type="enote" n="5">66<space rend="indent1"/><p><hi rend="italic">Hunger</hi><hi
+              rend="italic"> ne here</hi>. As noted by Sm, <hi rend="italic">hunger ne here</hi> is
+            an Old English alliterative phrase used three times by Wulfstan, an Old English writer
+            of homilies.</p></note>
+        <note type="enote" n="6">69<space rend="indent1"/><p><hi rend="italic">The</hi>. L: <hi
+              rend="italic">Þe</hi>. F&amp;H: <hi rend="italic">Þei</hi>. “They hid themselves and
+            kept themselves still.”</p></note>
+        <note type="enote" n="7">74<space rend="indent1"/><p><hi rend="italic">his soule hold</hi>.
+            Sm notes this as an unusual expression which occurs in <hi rend="italic">Ywain and
+              Gawain</hi> (line 887) where it refers to the widow’s concern for the soul of her dead
+            husband: <hi rend="italic">Upon his sawl was sho </hi><hi rend="italic">ful helde</hi>.
+            Athelwold’s loyalty to his own soul is not narcissistic, but virtuous.</p></note>
+        <note type="enote" n="8">79<space rend="indent1"/><p>The source for the passage is Psalm
+            146:9: “The Lord preserveth the stranger; he relieveth the fatherless and widow, but the
+            way of the wicked he turneth upside down.”</p></note>
+        <note type="enote" n="9">85<space rend="indent1"/><p><hi rend="italic">Bute it were bi hire
+              </hi><hi rend="italic">wille</hi>. This distinguishes rape, which is punishable by
+            medieval English law, from consensual sexual relations, though the issue is complicated
+            in jurisprudence. The most complete articulation of rape laws is found in the Statutes
+            of Westminster in the thirteenth century. Over time secular legislation conflated rape
+            with abduction, shifting it from a crime done to a woman’s body to a crime done against
+            the peace of the king.</p></note>
+        <note type="enote" n="10">86<space rend="indent1"/><p>As F&amp;H note “even up to the time
+            of the Commonwealth, mutilation was a legal punishment; it was occasionally forbidden,
+            but continued to be practiced” (p. 77). Public punishment such as flogging, drawing and
+            quartering, and various forms of mutilation often depicted graphically by romancers were
+            thought to be a deterrent to crime in real life.</p></note>
+        <note type="enote" n="11">27–86<space rend="indent1"/><p>Sm notes these lines as an
+            extensive example of a traditional eulogy of kings such as William the Conqueror and
+            Henry I found in the <hi rend="italic">Anglo-Saxon Chronicle</hi>.</p></note>
+        <note type="enote" n="12">89<space rend="indent1"/><p><hi rend="italic">folc ut lede</hi>.
+            The sense of folc is “army.”</p></note>
+        <note type="enote" n="13">87–90<space rend="indent1"/><p>Sm notes the recurrence of these
+            four lines in the account of King Arthur in the <hi rend="italic">Anonymous Short
+              English Metrical Chronicle of </hi><hi rend="italic">England</hi>. He surmises that
+              <hi rend="italic">Havelok</hi> was the source for the chronicle repetition and not
+            vice versa.</p></note>
+        <note type="enote" n="14">94<space rend="indent1"/><p>To the victor belong the spoils. The
+            victorious army carried off plunder, particularly valuable horses and armor. As F&amp;H
+            note, “the practice was deplored by moralists as unchristian, but is a matter of course
+            in the romances” (p. 78).</p></note>
+        <note type="enote" n="15">137<space rend="indent1"/><p>On the dying of a king F&amp;H write:
+            “When a king was dying, the great nobles hastened to the capital, either out of sympathy
+            or a wish to maintain order and look after their interests in arranging for a successor.
+            The romancers made a conventional scene of this” (p. 79). It is important to note that
+            King Athelwold has no male heir to maintain the peace he has established.</p></note>
+        <note type="enote" n="16">139<space rend="indent1"/><p>Roxburgh, a fort on the Scottish
+            border, was often contested by opposing armies and changed hands frequently. Dover, on
+            the southeast coast of England, is famous for its “white cliffs.” Traveling from
+            Roxburgh to Dover would mean traversing the whole length of England. See also line
+            265.</p></note>
+        <note type="enote" n="17">158<space rend="indent1"/><p>Winchester was the Anglo-Saxon
+            capital of England before the center of government was relocated in London. Important
+            legislation in the poem, however, is enacted in Lincoln, the probable home of the
+            poet.</p></note>
+        <note type="enote" n="18">188<space rend="indent1"/><p>F&amp;H gloss <hi rend="italic"
+              >corporaus</hi> as fine linen cloth. We have placed emphasis on its purpose rather
+            than its fabric by glossing the term as <hi rend="italic">communion
+          cloth</hi>.</p></note>
+        <note type="enote" n="19">187–88<space rend="indent1"/><p>The missal contains the order of
+            service used in the mass, the principal Christian liturgical rite; the chalice contains
+            the wine used in communion; and the paten holds the bread wafer, called the “Host” (from
+            Latin <hi rend="italic">hostia</hi>, “victim”). After the bread and wine are
+            consecrated, they are placed on a white linen cloth, the “corporal.” All of this
+            “messe-gere” is holy by virtue of its use in the sacred re-enactment of Christ’s death
+            that is the Eucharist. Hence, swearing an oath by these instruments is a serious
+            matter.</p></note>
+        <note type="enote" n="20">213–17<space rend="indent1"/><p>Self-flagellation was thought to
+            be an appropriate penance in general, though there is some dispute about whether it was
+            more often a feature of dramatic representation than a realistic feature of life.
+            Frederick Paxon, who charts the development of bedside rites for the dying in <hi
+              rend="italic">Christianizing Death: The Creation </hi><hi rend="italic">of a Ritual in
+              Process in Early Medieval Europe</hi> (Ithaca: Cornell University Press, 1990),
+            concludes that the earlier focus on the fate of the dying person’s soul was replaced
+            with a Germanic/Celtic concern with the needs of the dying person. However, according to
+            the medieval chronicler William of Malmesbury, Henry I confessed, beat his breast, was
+            absolved three times, and received unction before he died.</p></note>
+        <note type="enote" n="21">221–22<space rend="indent1"/><p><hi rend="italic">So mikel</hi><hi
+              rend="italic"> men micte him in winde, / Of his in arke ne</hi><hi rend="italic"> in
+              chiste</hi>. “So much [as a shroud] to wind him in among his possessions, neither in
+            trunk nor chest,” since he had already given away so much in his will.</p></note>
+        <note type="enote" n="22">228<space rend="indent1"/><p><hi rend="italic">Louerde</hi>. L:
+              <hi rend="italic">Loude</hi>. Preceded by <hi rend="italic">in manus tuas</hi>, this
+            is a partial quotation of Jesus at the point of death (Luke 23:46): “Into thy hands [I
+            commend my spirit].”</p></note>
+        <note type="enote" n="23">239<space rend="indent1"/><p>The “bower” and “hall” were two
+            fundamental units of a castle or noble dwelling that persisted in some form throughout
+            the Middle Ages. The hall was an open, public space used for dining, entertaining, or
+            convening of nobles; the bower was a relatively more secluded area used for sleeping.
+            The bower, it should be noted, was not necessarily a more private place. Yet the
+            association of bower with ladies and hall with knights is appropriate; while one could
+            find either sex in either place, the bower is associated more with the more intimate
+            love of women, the hall with the masculine world of celebrating achievements and
+            swearing loyalties to comrades. Compare with <hi rend="italic">Beowulf</hi>, where the
+            king and queen retire to the burgh while Beowulf and the retainers sleep on and around
+            the same benches where they have feasted.</p></note>
+        <note type="enote" n="24">245<space rend="indent1"/><p>F&amp;H note the subject shift from
+            God to Athelwold’s soul in this line. The effect glorifies the king in that God himself
+            should lead his soul into heaven. The attention to the king’s soul in line 74 is
+            underscored here.</p></note>
+        <note type="enote" n="25">263<space rend="indent1"/><p>F&amp;H note the use of itinerant
+            justices in Saxon times: “They seem not to have held permanent commission, but to have
+            been appointed in emergencies. Their function was to mitigate the injustice of local
+            courts, which might be dominated by powerful nobles” (p. 84).</p></note>
+        <note type="enote" n="26">265<space rend="indent1"/><p>Sm comments on the significance of
+            the road from Dover to Roxburgh: “The mention of Dover and Roxburgh as marking the
+            extreme limits of England, as in [line] 139, is here in a context of peace-keeping and
+            the king’s peace. This is why the AN [Anglo-Norman] <hi rend="italic">Le</hi><hi
+              rend="italic"> Petit Bruit</hi> names a road from <hi rend="italic">en long de
+              Rokesburg</hi><hi rend="italic"> jekis a Dover</hi> as one of <hi rend="italic">les
+              quatre royales chemyn</hi><hi rend="italic"> parmy Engleterre</hi> — the four royal
+            roads were under the king’s peace. . .” (p. 99).</p></note>
+        <note type="enote" n="27">266<space rend="indent1"/><p><hi rend="italic">Schireves he sette,
+              bedels, and</hi><hi rend="italic"> greyves</hi> (Sheriffs, beadles, and reeves). The
+            sheriff, or “shire-reeve,” enforced law and order in the shire (county); the beadle was
+            a sort of church police officer; and the grave or “greyve,” according to the <hi
+              rend="italic">OED</hi>, was a steward placed in charge of property, a reeve. In
+            certain parts of Yorkshire and Lincolnshire, each of a number of administrative
+            officials formerly elected by the inhabitants of a township served this function for a
+            town.</p></note>
+        <note type="enote" n="28">269<space rend="indent1"/><p>Outside the walled cities, protection
+            was difficult and travel hazardous because of marauding thieves. Establishing peace in a
+            violent environment is thus an extra-ordinary achievement.</p></note>
+        <note type="enote" n="29">285<space rend="indent1"/><p>The sense here is prophetic, i.e.,
+            that many a tear would be wept for Goldeboru’s sake.</p></note>
+        <note type="enote" n="30">286<space rend="indent1"/><p><hi rend="italic">Quanne the Erl
+              Godrich him herde</hi> (When the Earl Godric heard). “Him” is a reflexive pronoun that
+            would normally be dropped in modern English.</p></note>
+        <note type="enote" n="31">292<space rend="indent1"/><p><hi rend="italic">Wether</hi>
+            (whether) functions as an interrogative particle, which signals that a question is
+            coming.</p></note>
+        <note type="enote" n="32">296<space rend="indent1"/><p><hi rend="italic">Datheit</hi>
+            (Curses) is said to be a contraction for <hi rend="italic">odium Dei
+          habit</hi>.</p></note>
+        <note type="enote" n="33">305<space rend="indent1"/><p>Note the recurrence of the verb <hi
+              rend="italic">yeme</hi> here. In lines 190 and 206, the dying Athelwold made Godrich
+            promise to “yeme” her “well”; by saying that he has “yemed” her “too softe,” Godrich
+            creates perhaps an unconscious double meaning. He is obviously saying (and in his state
+            of jealousy and malice he would naturally mean), “She has grown up to be too pampered,”
+            but of course he is to blame because it is he who has not followed the king’s dying wish
+            that he guard her “wel.”</p></note>
+        <note type="enote" n="34">311<space rend="indent1"/><p>This is perhaps another way of
+            saying, “As long as I have a head on my shoulders.” Note that “blake” here probably
+            means “white” (compare French <hi rend="italic">blanc</hi> or more likely OE <hi
+              rend="italic">blac</hi> meaning “pale”). See lines 48 and 2165 for a possibly similar
+            usage.</p></note>
+        <note type="enote" n="35">317<space rend="indent1"/><p>Contrast this sort of fasting with
+            King Arthur’s refusal to sit down and feast until he had seen some marvel in <hi
+              rend="italic">Sir Gawain and the Green Knight</hi>.</p></note>
+        <note type="enote" n="36">322<space rend="indent1"/><p>There may be a pun on <hi
+              rend="italic">fede</hi>, which as a noun can mean “hostility.” In its verbal form, to
+            “feed” or “keep,” it has a range of meanings both positive and negative. Godrich is
+            probably not interested in comforting or nurturing Goldeboru. Rather, he misconstrues
+            his duties to protect those who cannot protect themselves and holds her captive
+            instead.</p></note>
+        <note type="enote" n="37">352<space rend="indent1"/><p><hi rend="italic">He</hi> refers to
+              <hi rend="italic">deth</hi> in line 354.</p></note>
+        <note type="enote" n="38">353<space rend="indent1"/><p><hi rend="italic">kaysere</hi>. A
+            Germanic form of the Latin <hi rend="italic">caesar</hi>.</p></note>
+        <note type="enote" n="39">360<space rend="indent1"/><p><hi rend="italic">Chanounes gode and
+              monkes bothe</hi>. A canon might be a priest of a cathedral church or a member of a
+            particular religious community.</p></note>
+        <note type="enote" n="40">373<space rend="indent1"/><p><hi rend="italic">under mone</hi>. In
+            other words, “in the whole world.” Medieval writers often distinguished between events
+            below and above the moon, as everything beneath the moon’s sway was thought to be
+            subject to Fortune.</p></note>
+        <note type="enote" n="41">393<space rend="indent1"/><p><hi rend="italic">That hire kin be
+              ful wel queme</hi>. The reading here depends on whether the third word in the line
+            should read “kin” (“their relations will indeed be pleased”) or is actually a scribal
+            error for “kind” (“type,” “nature,” “rank”). Sa suggests “that it indeed quite befits
+            their rank” (p. 68).</p></note>
+        <note type="enote" n="42">425<space rend="indent1"/><p>For writers of the Middle Ages,
+            Judas, the arch traitor of Christ in the Gospels, was the archetype of treachery and
+            betrayal. Both Godard and Godrich are called by this arch traitor’s name, though Godard
+            is called Satan in line 2512. See line 319.</p></note>
+        <note type="enote" n="43">484<space rend="indent1"/><p>Note the pathetic and very ironic
+            scene here: the boy, to save his life, offers feudal homage (<hi rend="italic"
+              >manrede</hi>) to a lord whose last thought is to protect the child.</p></note>
+        <note type="enote" n="44">503<space rend="indent1"/><p><hi rend="italic">Avelok</hi>. This
+            is the French name to which Havelok is etymologically linked according to Sa. It equates
+            with OE <hi rend="italic">Anlaf</hi>, a Scandinavian form of Olaf. Sa suggests a
+            historical connection to Olaf Sictricson (p. 57).</p></note>
+        <note type="enote" n="45">564<space rend="indent1"/><p><hi rend="italic">Ynow</hi> means
+            literally “enough,” but this typical Middle English stock phrase often understates the
+            situation.</p></note>
+        <note type="enote" n="46">594–95<space rend="indent1"/><p><hi rend="italic">Al so lith was
+              it therinne / So </hi><hi rend="italic">ther brenden cerges inne</hi>. “It was as
+            light in there as if candles were burning there.” <hi rend="italic">Al so</hi> / <hi
+              rend="italic">so</hi> are correlatives that connect or compare two
+          statements.</p></note>
+        <note type="enote" n="47">601<space rend="indent1"/><p><hi rend="italic">For man </hi><hi
+              rend="italic">shal god wille have</hi>. F&amp;H suggest a meaning for this line:
+            “People are naturally kind” (p. 97).</p></note>
+        <note type="enote" n="48">605<space rend="indent1"/><p><hi rend="italic">kynmerk</hi>. A
+            king’s birthmark attests to royal birth. Sm notes only one other example of the word
+            (slightly modified) in the ME <hi rend="italic">Emaré</hi>, lines 503–04: “A fayr chyld
+            borne and a godele; / Hadde a dowbyll kyngus marke.”</p></note>
+        <note type="enote" n="49">611<space rend="indent1"/><p><hi rend="italic">Al Denemark
+              </hi><hi rend="italic">and Engeland</hi>. Grim’s prophesy is fulfilled by the poem’s
+            end not only by Havelok’s reappropriation of his homeland and his victory over Godrich
+            and marriage to Goldeboru, but also by the marriages of Grim’s daughters to Englishmen
+            of noble rank.</p></note>
+        <note type="enote" n="50">621<space rend="indent1"/><p><hi rend="italic">cherles</hi> often
+            means “villeins,” non-free peasants bound to work the land, donating a portion of their
+            produce and labor to the lord of the manor. Because the basic definition of “cherle” is
+            a person from the lowest orders of society, the word is often used as an insult (e.g.,
+            line 683), or here, as a label of self-abasement.</p></note>
+        <note type="enote" n="51">645–46<space rend="indent1"/><p><hi rend="italic">Pastees</hi>
+            (pasties) are meat pies; <hi rend="italic">flaunes</hi>, custard, or cheese pies. These
+            are dishes that were an integral part of a professional cook’s repertoire. Terence
+            Scully explains in <hi rend="italic">The Art of Cookery in </hi><hi rend="italic">the
+              Middle Ages</hi> (Woodbridge: Boydell Press, 1995): “What the professional cook dealt
+            with from day to day in the thirteen and fourteen hundreds were menus consisting of
+            well-rounded meals of soups, stews, pies, torts, flans, biscuits, roasts, sauces,
+            jellies and ‘desserts”’ (p. 3).</p></note>
+        <note type="enote" n="52">677<space rend="indent1"/><p>Villeins (peasants) could be released
+            by their lords and become equals of freeborn men in the eyes of the law.</p></note>
+        <note type="enote" n="53">709<space rend="indent1"/><p>Sa suggests the reading “‘So that it
+            [should] fear neither sound nor inlet;’ <hi rend="italic">sond</hi> can also be ‘sand’
+            with the extended meaning ‘shoal water;’ but ‘sound’ seems more appropriate and is quite
+            possible orthographically” (p. 76). F&amp;H translate <hi rend="italic">sond</hi> and
+              <hi rend="italic">krike</hi> as bodies of water. Since Grim has just finished placing
+            pitch in the seams of his boat, it is likely that this line refers to the craft’s water
+            worthiness. It is sound because it does not creak or leak, for that matter.</p></note>
+        <note type="enote" n="54">725<space rend="indent1"/><p>“Bise” appears in Old French works as
+            a common word for the North Wind (see, e.g., <hi rend="italic">Pelerinage </hi><hi
+              rend="italic">de Charlemagne</hi>, line 354). According to the <hi rend="italic"
+              >MED</hi>, <hi rend="italic">Havelok</hi> is the only Middle English romance in which
+            this term appears.</p></note>
+        <note type="enote" n="55">734–35<space rend="indent1"/><p>The Humber River, now the center
+            of the modern county of Humberside, divides what is considered northern England
+            (Yorkshire and northward to the Scottish border) from the English midlands (Lincolnshire
+            south to London). Lindsay is still a division of the county of Lincoln.</p></note>
+        <note type="enote" n="56">745<space rend="indent1"/><p>The place took its name from Grim
+            (i.e., the present port of Grimsby in Humberside). This line reflects a popular local
+            legend of a fisherman by the name of Grim who founded a town that bears his name.
+            Reputedly the legendary Grim, like the Grim of the poem, befriended an exiled prince.
+            Sm’s edition depicts a twelfth-century town seal with three names and figures inscribed
+            on it — Grym, Habloc, and Goldeboru. Robert Mannyng of Brunne tells of a stone that was
+            allegedly thrown by Havelok against his enemies and indicates the chapel where he and
+            Goldeboru were married (p. 78). For an interesting interpretation of Grim, see Maldwyn
+            Mills, “Havelok and the Brutal Fisherman.”</p></note>
+        <note type="enote" n="57">754–60<space rend="indent1"/><p>For an interesting interpretation
+            of the catalogue of fish see Roy Michael Liuzza, “Representation and Readership in the
+            ME <hi rend="italic">Havelok</hi>.” Liuzza sees the emphasis on fish as “part of a
+            system of exchange in which money rather than chivalric honor is the source of value”
+            (p. 510). Such exchange systems lend <hi rend="italic">Havelok</hi> a realism that few
+            romances of the time can claim.</p></note>
+        <note type="enote" n="58">772<space rend="indent1"/><p>A lamprey is an eel-like fish with a
+            mouth like a sucker, pouch-like gills, seven spiracles or apertures on each side of the
+            head, and a fistula or opening on the top of the head (<hi rend="italic">OED</hi>).
+            F&amp;H’s note on the lamprey is interesting in relation to this rather unappetizing
+            description: “A ‘great’ lamprey weighed as much as five pounds, and sold for three
+            shillings. . . . It was highly prized as a delicacy. Henry I is said to have brought on
+            a fatal illness by partaking too freely of lamprey” (p. 104). His cooks must have
+            prepared the lamprey properly, i.e., soaked it to its death in wine before cooking, then
+            serving it in a gelatinous galantine sauce.</p></note>
+        <note type="enote" n="59">791–811<space rend="indent1"/><p>Havelok’s insatiable appetite
+            reflects his regal deprivation. Only when he comes fully into his royal estate can his
+            nature be satisfied. His vast appetite becomes a comic send up on his political
+            displacement rather than a sign of gluttony or avarice. In his effort to win his own
+            bread he becomes a lord at all degrees. See also lines 828 ff.; 911–26; and, in the
+            conclusion, line 2986, where his having been fed is deemed a key component of his
+            biographical summary. See note to line 1726.</p></note>
+        <note type="enote" n="60">821<space rend="indent1"/><p><hi rend="italic">ferthinges
+            nok</hi>. A farthing from medieval to quite modern times was worth a quarter of a penny.
+            A “corner” of a farthing would be a very little bit; the idiom reflects the illegal
+            practice of clipping off bits of coins for the silver, which might, when collected, be
+            sold as bullion.</p></note>
+        <note type="enote" n="61">850<space rend="indent1"/><p><hi rend="italic">nouth </hi><hi
+              rend="italic">a slo</hi>. An expression referring to a sloeberry, a fruit of a
+            blackthorn tree used as a metaphor for “something of little value,” an “insignificant
+            amount,” or to mean “not at all,” to “care nothing for.”</p></note>
+        <note type="enote" n="62">897<space rend="indent1"/><p>Plaice is a type of European
+            flatfish, often preferred over other species such as salmon, mackerel, and turbot. It is
+            still quite a popular dish in the British Isles.</p></note>
+        <note type="enote" n="63">903<space rend="indent1"/><p>Presumably, Havelok was carrying the
+            load on his head.</p></note>
+        <note type="enote" n="64">908<space rend="indent1"/><p><hi rend="italic">Wel is set </hi><hi
+              rend="italic">the mete thu etes</hi>. Echoes the proverb in line 1693: <hi
+              rend="italic">wel is him that god man fedes</hi>. Here the earl’s cook sees an
+            opportunity he cannot refuse.</p></note>
+        <note type="enote" n="65">911<space rend="indent1"/><p>Havelok, as orphaned king’s son and
+            kitchen knave, has been referred to as a “male Cinderella.” He joins the ranks of a long
+            tradition of male Cinderellas and their stories including a number of Arthurian knights
+            and Horn. See Donald G. Hoffman, “Malory’s Cinderella Knights and the Notion of
+            Adventure,” <hi rend="italic">Philological Quarterly</hi> 67 (1988), 145–56. For gender
+            politics in these tales, see Eve Salisbury, “(Re)dressing Cinderella,” in <hi
+              rend="italic">Retelling </hi><hi rend="italic">Tales</hi>, ed. Alan Lupack and Thomas
+            G. Hahn (Rochester: D. S. Brewer, 1997), 275–92. Kitchen drudgery prepares the hero for
+            his future role as king. Analogous to Cinderella’s shoe, Havelok’s kynmark is a hidden
+            sign of nobility, both of character and of class.</p></note>
+        <note type="enote" n="66">940<space rend="indent1"/><p>The <hi rend="italic">turves</hi>
+            were pieces of turf or peat moss cut from the ground and stacked to dry, then used as
+            fuel. Star grass, a name given locally to various coarse seaside grasses and sedges,
+            according to the <hi rend="italic">OED</hi>, was used for kindling.</p></note>
+        <note type="enote" n="67">965<space rend="indent1"/><p><hi rend="italic">unride</hi>. See
+            Sk’s extended discussion of the term as indicative of a large, cumbersome or rough
+            garment; of the body, a deep, wide wound; of metal, something great; of politics,
+            something unwieldy; of sound, something loud or tremendous (p. 164).</p></note>
+        <note type="enote" n="68">971<space rend="indent1"/><p><hi rend="italic">dones</hi>. He
+            “dons” them, i.e., puts them on.</p></note>
+        <note type="enote" n="69">983<space rend="indent1"/><p>Havelok’s height recalls the biblical
+            King Saul, who was taller than the men around him and admired for his physical beauty.
+            Nobility was presumed to inhere in such men, though giants were often portrayed as
+            outlaws or Philistines (such as Goliath) in Scripture and medieval romance.</p></note>
+        <note type="enote" n="70">998<space rend="indent1"/><p><hi rend="italic">With hire ne wolde
+              he leyke</hi>. L: <hi rend="italic">Þit hire </hi><hi rend="italic">ne wold
+            leyke</hi>. Sm: <hi rend="italic">Wit hire</hi>. F&amp;H: <hi rend="italic">With
+              hore</hi>. <hi rend="italic">Hire</hi> could refer to a woman who prostitutes herself
+            for hire, or who is at least a woman of sexual experience. Given the economies of
+            exchange in the poem, sex is another mode of negotiation. The OE <hi rend="italic"
+              >hóre</hi> originally meant adultery, but gradually became more closely associated
+            with female sexuality, perhaps in part because <hi rend="italic">hire</hi> is a feminine
+            possessive pronoun. Sm rejects the emendation to <hi rend="italic">hore</hi> on grounds
+            that it is “paleologically very improbable” (p. 119).</p></note>
+        <note type="enote" n="71">1009<space rend="indent1"/><p><hi rend="italic">Mani </hi><hi
+              rend="italic">with ladde, blac and brown</hi>. Black could refer to peasants; brown,
+            as F&amp;H suggest (p. 112), can mean “persons of all ranks” or “peasants,” since
+            peasant complexions are often described as black or brown, noble faces as red or white.
+            Thus, this phrase may mean “people of every rank” or “the lower classes.” See also line
+            2847, where the metaphor is clearly political, as people of all ranks swear <hi
+              rend="italic">manrede</hi> to Goldeboru. But see also the note to line 1909, where the
+            idiom “broune or blake” may refer to “dark or fair” complexion, with <hi rend="italic"
+              >broune</hi> meaning dark and <hi rend="italic">blake</hi> meaning pale or
+          fair.</p></note>
+        <note type="enote" n="72">1024<space rend="indent1"/><p><hi rend="italic">And pulten with a
+              mikel</hi><hi rend="italic"> ston</hi>. The sport, analogous to shotput, was popular
+            among Germanic peoples, though it is also found in the legends of other cultures. Robert
+            Mannyng of Brunne in Lincolnshire claimed that the stone Havelok throws was preserved in
+            a Lincoln castle in his day (c. 1338). Such chronicle accounts encourage historical
+            identification. (See also lines 1032–37).</p></note>
+        <note type="enote" n="73">1037–39<space rend="indent1"/><p>F&amp;H make a distinction
+            between <hi rend="italic">chaumpioun</hi> and <hi rend="italic">kempe</hi>. While the
+            former means “competent athlete, man of valor,” the latter means “outstanding performer
+            among many good ones” (p. 113).</p></note>
+        <note type="enote" n="74">1095<space rend="indent1"/><p><hi rend="italic">Onlepi foru</hi>.
+            The aristocratic Godrich imagines Havelok incapable of ever becoming landed by any
+            means.</p></note>
+        <note type="enote" n="75">1120<space rend="indent1"/><p><hi rend="italic">Whether</hi>
+            simply introduces a question here. See note to line 292.</p></note>
+        <note type="enote" n="76">1173<space rend="indent1"/><p><hi rend="italic">Ther weren penies
+              thicke tolde</hi>. “There were pennies thickly counted,” i.e., a lot of them. Mass
+            pennies were given as an offering for the nuptial ceremony.</p></note>
+        <note type="enote" n="77">1175<space rend="indent1"/><p><hi rend="italic">He ys hire yaf and
+              she is tok</hi>. L: <hi rend="italic">she as tok</hi>. F&amp;H emend <hi rend="italic"
+              >as</hi> to <hi rend="italic">is</hi>, and gloss <hi rend="italic">ys</hi> as <hi
+              rend="italic">them</hi>. Their note is helpful here: “Part of the money was the
+            clerk’s fee, part was a symbol that the wife was endowed with the husband’s worldly
+            goods . . . and part might be payment for the wife’s virginity” (p. 118). According to
+            Christopher Brooke in <hi rend="italic">The Medieval Idea of Marriage</hi> (Oxford:
+            Oxford University Press, 1989): “Each partner is to rehearse his and her consent; the
+            woman’s dower is to be confirmed, and some pennies set aside to be distributed among the
+            poor. . . . Marriage from the twelfth to the sixteenth centuries and beyond was a public
+            event, rather than private or clandestine, accompanied by the publication of banns and
+            witnessed by parish or community members” (p. 249). The money is taken by the bride as
+            part of her dowry.</p></note>
+        <note type="enote" n="78">1204<space rend="indent1"/><p><hi rend="italic">Thanne he komen
+              there</hi><hi rend="italic"> thanne was Grim ded</hi>. “Thanne. . . thanne” is a
+            correlative construction linking the clauses: “When they arrived there, [then] Grim was
+            dead.” The second “thanne” is best left untranslated in modern English.</p></note>
+        <note type="enote" n="79">1247<space rend="indent1"/><p><hi rend="italic">Wesseyl ledden he
+              fele sithe</hi>. “They drank healths (toasted) many times.” “Wessail” derives from OE
+              <hi rend="italic">wes hael</hi> — “be healthy; to your health.”</p></note>
+        <note type="enote" n="80">1306<space rend="indent1"/><p><hi rend="italic">That ich fley over
+              the</hi><hi rend="italic"> salte se</hi>. This line could mean: “That I fled over the
+            salty sea” or “That I flew over the salty sea.” Given the context, it is a little more
+            likely that “fley” means “fled.”</p></note>
+        <note type="enote" n="81">1399<space rend="indent1"/><p><hi rend="italic">and Huwe
+              Raven</hi>. L: <hi rend="italic">h</hi><hi rend="italic"> aven</hi>. In the <hi
+              rend="italic">Dictionary of British Surnames</hi>, Percy H. Reaney lists <hi
+              rend="italic">Raven</hi> as having derived from ON <hi rend="italic">Hrafn</hi> or OE
+              <hi rend="italic">Hraefn</hi> or as a nickname from the bird. The surname may also
+            indicate a link to Norse mythology. The trickster god Odin kept two ravens — Huginn and
+            Manimen — to act as advisors and messengers. <hi rend="italic">Rede</hi>, also Read,
+            Reade, Reed, Red, Redd or Reid, he conjectures, indicates OE <hi rend="italic">redd</hi>
+            “red” of complexion or hair (p. 292). The closest Reaney comes to <hi rend="italic"
+              >Willam Wenduth</hi> is William Wende, a thirteenth-century listing, derived from OE
+              <hi rend="italic">wende</hi> meaning “dweller by the bend” (p. 375).</p></note>
+        <note type="enote" n="82">1632–34<space rend="indent1"/><p>The jewel in the ring was worth a
+            hundred pounds, an enormous amount of money in the Middle Ages.</p></note>
+        <note type="enote" n="83">1635<space rend="indent1"/><p><hi rend="italic">He was ful wis
+              that first yaf mede</hi>. Proverbial. See Bartlett Jere Whiting, <hi rend="italic"
+              >Proverbs, Sentences, and Proverbial Phrases from</hi><hi rend="italic"> English
+              Writings Mainly before 1500</hi> (Cambridge, MA: Harvard University Press, 1968), p.
+            226; entry G78: “He was full wise that first gave gift.” Whiting cites similar passages
+            in <hi rend="italic">Tristrem</hi> 19.626–27, Gower’s <hi rend="italic">Confessio
+              Amantis</hi> V.4720 and V.4798; and Wyntoun VI. 199,6450.</p></note>
+        <note type="enote" n="84">1686<space rend="indent1"/><p><hi rend="italic">red</hi>. Sense
+            uncertain. Perhaps <hi rend="italic">red</hi> means “of ruddy complexion” or “sanguine
+            of disposition”; but more likely the sense is “wise,” or “well-advised,” or
+            “well-counselled.”</p></note>
+        <note type="enote" n="85">1726<space rend="indent1"/><p>The types of fowl on the menu —
+            cranes and swans — were more common for a medieval feast than they might be now. Cranes,
+            as many other wild fowl, were roasted over an open flame often with a special basting
+            sauce to keep them moist. Presentation was just as important as the dish itself. Swans,
+            peacocks, and other birds of extraordinary plumage underwent an elaborate skinning
+            procedure so that they could be served inside their own skin replete with feathers. The
+            idea was to present the dish as if it were still alive. Food often took on symbolic
+            significance in the Middle Ages. See Robert W. Hanning. For the appetites of medieval
+            romance heroes see Susan E. Farrier, “Hungry Heroes in Medieval Literature,” in <hi
+              rend="italic">Food in the Middle Ages: A</hi><hi rend="italic"> Book of Essays</hi>,
+            ed. Melitta Weiss Adamson (New York: Garland, 1995), 145–59.</p></note>
+        <note type="enote" n="86">1728<space rend="indent1"/><p><hi rend="italic">Pyment</hi>.
+            Meaning spiced wine, <hi rend="italic">pyment</hi> differs from <hi rend="italic"
+              >claré</hi>, which is spiced wine mixed with honey, not to be confused with the modern
+            claret, a fine red wine.</p></note>
+        <note type="enote" n="87">1731<space rend="indent1"/><p>Ale is considered a lowly drink,
+            unfit for even a page at such a feast, at least in this poem. In general, however, beer
+            and ale were served and consumed as regular table beverages, preferable even to water.
+            Andrewe Boorde, writing in the mid-fifteenth century, says: “Ale for an Englysshe man is
+            a naturall drynke” (as quoted in Terence Scully, <hi rend="italic">The Art of Cookery in
+              the Middle Ages</hi> [Woodbridge: Boydell Press, 1995], p. 153.)</p></note>
+        <note type="enote" n="88">1749<space rend="indent1"/><p><hi rend="italic">greyves</hi>. Not
+            to be confused with shin armor, this term refers to the house of the grave, i.e., the
+            night watchman’s place of residence. (See note to line 266.)</p></note>
+        <note type="enote" n="89">1773<space rend="indent1"/><p><hi rend="italic">bi Seint
+              Austin</hi>. This could refer to either Augustine, Bishop of Hippo and author of a
+            number of widely read works in the Middle Ages including <hi rend="italic"
+              >Confessions</hi>, or Augustine of Canterbury, the first Archbishop of
+          Canterbury.</p></note>
+        <note type="enote" n="90">1785<space rend="indent1"/><p><hi rend="italic">In feteres and
+              </hi><hi rend="italic">ful faste festen</hi>. Notice how the alliteration in this line
+            underscores Bernard’s oath.</p></note>
+        <note type="enote" n="91">1794<space rend="indent1"/><p><hi rend="italic">barre</hi>. The
+            sliding beam that secures the door.</p></note>
+        <note type="enote" n="92">1798<space rend="indent1"/><p><hi rend="italic">Comes swithe unto
+              me</hi>. Armed with his cross beam, Havelok’s command strangely echoes Christ’s “come
+            unto me.” Here the true lord calls with a grim irony; his cross piece will be their
+            death. It is noteworthy that Havelok’s “kynmerk” (birthmark) on his shoulder is a cross.
+            See note to lines 2037–45, where his wounds make him more kin of Christ than kin of
+            Cain.</p></note>
+        <note type="enote" n="93">1829<space rend="indent1"/><p><hi rend="italic">That havede he
+              nevere schrifte of prest</hi>. In other words, he was killed so fast that he did not
+            have time to give his confession to a priest or receive the last rites (quite an
+            understatement).</p></note>
+        <note type="enote" n="94">1840<space rend="indent1"/><p><hi rend="italic">bere </hi><hi
+              rend="italic">beyte</hi>. Bear baiting was a cruel sport enjoyed by lovers of violence
+            in England until it was officially banned in 1835. The bear was lugged (chained by his
+            neck or hind leg to a log or something more secure), and dogs were turned loose on the
+            creature. The dogs were often killed or mauled and the bear seriously torn. Detailed
+            accounts may be found in Joseph Strutt, <hi rend="italic">The Sports and </hi><hi
+              rend="italic">Pastimes of the People of England, from the Earliest Period . . .
+              </hi><hi rend="italic">Illustrated by Reproductions from Ancient Paintings</hi>, 1801;
+            rpt. London: Thomas Tegg, 1834, rev. in a new edition, much enlarged and corrected by J.
+            Charles Cox (London: Methuen &amp; Co., 1903). See especially pp. 204–08 in Cox’s
+            revised edition. Though officially banned in 1835 the sport continued illegally for a
+            couple more decades, the last recorded entertainment being in West Derby in 1853.
+            Sometimes the bear was blinded and whipped to add to the sport.</p></note>
+        <note type="enote" n="95">1890<space rend="indent1"/><p>Romance heroes occasionally use
+            clubs as weapons, though not always with comic effect as in this scene, but rather as a
+            serious demonstration of knightly potential (e.g., Sir Degaré, Sir Perceval).</p></note>
+        <note type="enote" n="96">1909<space rend="indent1"/><p><hi rend="italic">of the </hi><hi
+              rend="italic">broune and of the blake</hi>. Sa glosses as “Of the brown and of the
+            fair.” <hi rend="italic">Blake</hi> comes from OE <hi rend="italic">blāc</hi>, meaning
+            white. See also lines 1008, 2181, and 2249.</p></note>
+        <note type="enote" n="97">2029<space rend="indent1"/><p><hi rend="italic">Griffin
+            Galle</hi>. L: <hi rend="italic">Giffin Galle</hi>. Griffin, a name probably of Breton
+            origin, was used as a nickname for the Middle Welsh <hi rend="italic">Gruffydd</hi>.
+            Galle was a well-known surname in Lincolnshire in the twelfth and thirteenth centuries.
+            Sm notes that there are other examples combined with “Christian names such as Walter or
+            Arnald. . . . But in <hi rend="italic">Havelok</hi>, the combination of this surname of
+            Celtic origin with the non-English Griffin is striking” (p. 136). In the <hi
+              rend="italic">Dictionary of British Surnames</hi>, second ed. (London: Routledge &amp;
+            Kegan, Paul, 1977), Percy H. Reaney comments: “The name in England is found in the
+            counties bordering Wales and also in Lincolnshire where it was of Breton origin. In
+            Brittany where the name was common, it was applied to immigrants from France” (p.
+            139).</p></note>
+        <note type="enote" n="98">2037–45<space rend="indent1"/><p>The beholding of the young lord’s
+            wounds is perhaps another allusion to the hero’s miraculously redemptive role as
+            opponent to “Kaym kin” (line 2045). See note to line 1798.</p></note>
+        <note type="enote" n="99">2060<space rend="indent1"/><p>A palfrey was a small saddle-horse
+            used for riding, usually for women or ecclesiastics, and never for war. It would be
+            humiliating for a knight to ride to combat or tournament or even to his execution on a
+            palfrey.</p></note>
+        <note type="enote" n="100">2072<space rend="indent1"/><p><hi rend="italic">I shal lene thee
+              a bowr</hi>. See note to line 239.</p></note>
+        <note type="enote" n="101">2143<space rend="indent1"/><p>Sa remarks that the line means:
+            “‘That it was a mark of kingship that they saw’; the word <hi rend="italic">kunrik</hi>
+            is probably an error for <hi rend="italic">kynemerk</hi> of line 604” (p. 108). Sm, on
+            the other hand, rejects Sk’s emendation on the grounds that <hi rend="italic"
+              >kunrik</hi> is not a noun, but an adjective meaning “of exalted birth” (p.
+          137).</p></note>
+        <note type="enote" n="102">2145<space rend="indent1"/><p>F&amp;H note the widespread belief
+            that precious stones gave off light at night. The fifteenth-century <hi rend="italic"
+              >Peterborough Lapidary</hi> entry for carbuncle is as follows:</p><quote>Carbuncculus
+            is a precios stone, &amp; he schineth as feyre whose chynyngis not overcom by nyght. It
+            chineth in derk places, &amp; it semeth as it were a feyr; &amp; ther bene xii kyndes
+            ther-of, &amp; worthyest ben tho that schynen &amp; send owte leemes as feyre, as Ised.
+            Also it is seyd that the carbunocyl is cleped so in grek, &amp; it is gendryd in libia
+            amonge the tregodites. Of this carnuncul ther is xii maneris of kendes of carbuncles.
+            But thoo ben best that han the coleour of fire &amp; tho ben closed in a wyght veyne.
+            The best carbucul hathe this propirtie: if it is throwene. In the feyre it is qwent as
+            it were amonges dede colis. (<hi rend="italic">English Mediaeval Lapidaries</hi>, ed.
+            Joan Evans and Mary Serjeantson, EETS o.s. 190 [London: Oxford University Press, 1933;
+            rpt. 1960], p. 82)</quote>
+        </note>
+        <note type="enote" n="103">2249<space rend="indent1"/><p><hi rend="italic">Bothe brune and
+              the blake</hi>. See note to line 1009.</p></note>
+        <note type="enote" n="104">2250<space rend="indent1"/><p><hi rend="italic">Gamen</hi> here
+            literally means “fun,” “sport,” but in a cheerful, jesting way means “ritual [of
+            homage].”</p></note>
+        <note type="enote" n="105">2274<space rend="indent1"/><p><hi rend="italic">He</hi> here
+            refers to Ubbe in the next line.</p></note>
+        <note type="enote" n="106">2287<space rend="indent1"/><p><hi rend="italic">That com of Adam
+              and of Eve</hi>. I.e., that was born of the human race started by Adam and Eve — in
+            other words, everyone.</p></note>
+        <note type="enote" n="107">2327<space rend="indent1"/><p>Note the reference to romance
+            reading in the context of leisure. Some medieval medical authorities considered reading
+            a good story for the sake of pleasure and the release of emotion and laughter a sound
+            measure for good health. See Glending Olson, <hi rend="italic">Literature as Recreation
+              in the Middle Ages</hi> (Ithaca: Cornell University Press, 1982).</p></note>
+        <note type="enote" n="108">2331<space rend="indent1"/><p>Bull and boar-baiting were common
+            medieval pastimes. A bull or boar was tied to a stake or set in a pit, and dogs were let
+            loose to annoy and irritate the larger animal. See note to line 1840.</p></note>
+        <note type="enote" n="109">2432<space rend="indent1"/><p><hi rend="italic">And everilk fot
+              of hem he slowe</hi>. <hi rend="italic">Fot</hi> here stands for person — thus, a
+            synecdoche, in which a part of something stands for a whole.</p></note>
+        <note type="enote" n="110">2450<space rend="indent1"/><p><hi rend="italic">Hise </hi><hi
+              rend="italic">nese went unto the crice</hi>. He is bound on his steed face down and
+            backwards, with his nose in the cleft between the horse’s buttocks.</p></note>
+        <note type="enote" n="111">2470<space rend="indent1"/><p>As F&amp;H explain (p. 158), the
+            wall would have been lined with benches.</p></note>
+        <note type="enote" n="112">2478<space rend="indent1"/><p><hi rend="italic">At this foule
+              mere tayl</hi>. Just as riding a palfrey would humiliate a knight, so too would riding
+            a mare. Even more humiliating would be being tied to its befouled tail. F&amp;H note:
+            “Criminals drawn to the gallows were placed on hurdles or a cowhide that they should not
+            be battered to death on the way. The ‘foule mere’ was an added humiliation, since a
+            knight was usually allowed to ride to his death on a charger. The traces of harness may
+            have been attached to the nail in line 2479. Chains were used to hang for a long time”
+            (p. 158).</p></note>
+        <note type="enote" n="113">2515<space rend="indent1"/><p>A traitor’s estates were
+            confiscated by the Crown.</p></note>
+        <note type="enote" n="114">2518<space rend="indent1"/><p><hi rend="italic">sayse</hi>. The
+            appropriate definition of the term here is: “To put in legal possession of.”</p></note>
+        <note type="enote" n="115">2521<space rend="indent1"/><p><hi rend="italic">monekes
+              blake</hi>. The poet may be referring to the Grimsby Abbey monks — Augustinians,
+            founded by Henry I, chartered by Henry II, given to Henry VII, and torn down for a
+            farmhouse. But “black monks” generally refers to Benedictines. Augustinian (Austin)
+            friars were a mendicant order that arrived in England in 1248. Ma’s early speculation
+            dated the founding of the house of Austin friars in 1293.</p></note>
+        <note type="enote" n="116">2556<space rend="indent1"/><p><hi rend="italic">That</hi> is
+            repeated here from line 2555 for intensifying purposes.</p></note>
+        <note type="enote" n="117">2615<space rend="indent1"/><p><hi rend="italic">Grethet als men
+              mithe telle a pund</hi>. “As men might count out a pound.” F&amp;H suggest counting
+            out a pound penny by penny (the only way to make change) would have taken quite a long
+            while. But this meaning, which they accept, does not seem to make sense here, except
+            vaguely as “matter-of-factly” (p. 163).</p></note>
+        <note type="enote" n="118">2867<space rend="indent1"/><p><hi rend="italic">bi </hi><hi
+              rend="italic">Seint Davy</hi>. St. David, the sixth-century patron saint of Wales
+            whose cult, most evident in the city of the same name, nonetheless spread to other
+            ecclesiastical centers (Sherborne, Glastonbury, and Salisbury). Sm finds it curious that
+            this particular saint should be invoked in this particular English poem and wonders how
+            the poet came to know St. David. The answer, he says, is “to be sought in certain Welsh
+            connections of the cathedral and the monastic community of Lincoln. The prominent Welsh
+            writer and churchman Giraldus Cambrensis, who wrote a <hi rend="italic">Vita</hi> of St.
+            David, had withdrawn from court life after 1194 to go and study at Lincoln under William
+            of Leicester (then Chancellor of Lincoln), and was there from at least 1196 to 1198. . .
+            . It does not necessarily follow that the author of <hi rend="italic">Havelok</hi> had
+            read Gerald’s <hi rend="italic">Vita</hi> (or any other). But it does seem likely that
+            he was in some fashion exposed to the ecclesiastical interest in St. David at Lincoln,
+            and therefore he may have lived in Lincoln (as is also suggested by the signs that he
+            knew the city at first hand)” (pp. 154–55).</p></note>
+        <note type="enote" n="119">2983<space rend="indent1"/><p><hi rend="italic">Him </hi><hi
+              rend="italic">stondes wel that god child strenes</hi>. Proverbial. See Whiting, <hi
+              rend="italic">Proverbs, </hi><hi rend="italic">Sentences, and Proverbial Phrases</hi>,
+            C224, p. 83.</p></note>
+        <note type="enote" n="120">2997<space rend="indent1"/><p>A <hi rend="italic">Pater
+              Noster</hi> (Our Father) is the Lord’s Prayer.</p></note>
+      </div>
+    </body>
+  </text>
+</TEI>

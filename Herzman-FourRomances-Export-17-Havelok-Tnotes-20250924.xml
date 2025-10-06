@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Herzman-FourRomances-Export-17-Havelok-Tnotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Textual Notes to Havelok the Dane</title>
+        <author>Herzman, Ronald B.</author>
+        <author>Drake, Graham</author>
+        <author>Salisbury, Eve</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Amster, Mara I.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Church, Jennifer</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-09" to="2025-10">Audited documents prior to print/export</resp>
+          <resp from="2025-09" to="2025-09">Collected metadata</resp>
+          <resp from="2025-02" to="2025-04">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-10">Encoded TEI</resp>
+          <resp from="2025-08" to="2025-09">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-09">Entered corrections for digital edition</resp>
+          <resp from="2025-02" to="2025-09">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-10">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-12" to="2023-12">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lee, Dong Choon</persName>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Entered corrections for print edition</resp>
+          <resp>Reviewed transcription of base manuscript or early print witness</resp>
+          <resp>Reviewed translations for accuracy</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Collated and entered corrections</resp>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Prepared edition for publication</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mara I. Amster</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Melissa Bernstein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jennifer Church</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Angela Gibson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ian Peddie</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ann Robinson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John William Sutton</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Dana M. Symons</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Herzman, Ronald B.</editor>
+            <editor>Drake, Graham</editor>
+            <editor>Salisbury, Eve</editor>
+            <title>Four Romances of England: King Horn, Havelok the Dane, Bevis of Hampton,
+              Athelston</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/herzman-fourromances/blob/main/herzman-fourromances-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1999</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Herzman-FourRomances-Export-17-Havelok-Tnotes"/>
+      <div type="text">
+        <note type="tnote" n="1">46<space rend="indent1"/><p><hi rend="italic">Wel fifty pund, I
+              wot, or more</hi>. This line is supplied by Ma and F&amp;H. It does not appear in Sm.
+            Ma conjectures this line and indicates that other such liberties have been taken in his
+            edition, many of which Sk follows.</p></note>
+        <note type="tnote" n="2">48<space rend="indent1"/><p><hi rend="italic">In a male with or
+              blac</hi>. F&amp;H read <hi rend="italic">with</hi> as <hi rend="italic">hwit</hi> and
+            translate the term as <hi rend="italic">white</hi>; the reversal of letters appears in
+            other words, but is not consistent throughout the MS. F&amp;H read the prolific <hi
+              rend="italic">h</hi>’s as “mannerisms in spelling,” but it is more likely that the <hi
+              rend="italic">h</hi>’s signify aspiration and point to pronunciation for this dialect.
+            F&amp;H reckon the dialect to be North Midlands with strong Norse influence. Referring
+            to the pouch as “with or black” could mean “white or off-white (pale),” which is a
+            common meaning in ME for “blāc.” See <hi rend="italic">MED</hi>
+            <hi rend="italic">blak</hi> n. 6. See also note to line 311.</p></note>
+        <note type="tnote" n="3">64<space rend="indent1"/><p><hi rend="italic">Was non so bold
+              louerd</hi><hi rend="italic"> to Rome</hi>. L: <hi rend="italic">non so bold lond to
+              rome</hi>. Sm emends <hi rend="italic">lond</hi> to <hi rend="italic">louerd</hi> for
+            the sake of sense. Sk emends to: <hi rend="italic">Was non so bold [þe] lond to
+              rome</hi>, which makes sense too.</p></note>
+        <note type="tnote" n="4">65<space rend="indent1"/><p><hi rend="italic">upon his
+            bringhe</hi>. L: <hi rend="italic">upon</hi><hi rend="italic"> his bringhe</hi>. Sm
+            emends to <hi rend="italic">upon his londe bringhe</hi> ostensibly to connect the king’s
+            political expertise more definitively to his realm as well as to regularize the meter.
+            Sk reads: <hi rend="italic">That durste upon his [menie] bringe</hi>.</p></note>
+        <note type="tnote" n="5">92<space rend="indent1"/><p><hi rend="italic">And lete</hi><hi
+              rend="italic"> him knawe of hise hand dede</hi>. L: <hi rend="italic">And lete
+              him</hi><hi rend="italic"> of hise hand dede</hi>. Sm notes that this is the “sole
+            example” of the use of <hi rend="italic">hand-dede</hi> in post-Conquest English. A
+            relatively ancient word, it implied “violence” and sometimes “criminal violence,” or
+            could mean “the actual perpetrator of a crime” and in Middle Dutch “one who perpetrates
+            a criminal or violent act.” In <hi rend="italic">Havelok</hi> the “imputation is of
+            violence” (p. 86). Both Sm and Sk add a verb to this line after <hi rend="italic"
+              >him</hi>, but disagree on what it should be. Sk, followed by F&amp;H and Sa, adds <hi
+              rend="italic">knawe</hi>, as do we; Sm adds <hi rend="italic">shewe</hi>.</p></note>
+        <note type="tnote" n="6">109<space rend="indent1"/><p><hi rend="italic">held</hi>. L: <hi
+              rend="italic">hel</hi>. The emendation is universal.</p></note>
+        <note type="tnote" n="7">115<space rend="indent1"/><p><hi rend="italic">wel wiste</hi>. L:
+              <hi rend="italic">we</hi><hi rend="italic"> wiste</hi>. The emendation maintains the
+            gravity of Athelwold’s perception. The ending consonant is frequently omitted for <hi
+              rend="italic">wel</hi> in the MS.</p></note>
+        <note type="tnote" n="8">120<space rend="indent1"/><p><hi rend="italic">Hw shal now my
+              douhter fare</hi>. L: <hi rend="italic">W</hi><hi rend="italic"> shal nou mi douhter
+              fare</hi>. F&amp;H add the consonant presumably to clarify the question.</p></note>
+        <note type="tnote" n="9">135<space rend="indent1"/><p><hi rend="italic">Therafter stronglike
+              quaked</hi>. F&amp;H note the frequency with which the poet or scribe omits pronouns.
+            They supply them in their edition as does Sk and Ho; Sm frequently does not. Sa
+            regularizes as much as possible.</p></note>
+        <note type="tnote" n="10">142<space rend="indent1"/><p><hi rend="italic">ther he lay</hi>.
+            L: <hi rend="italic">þe he</hi><hi rend="italic"> lay</hi>. Sm and F&amp;H supply the
+            missing consonant. The omission of consonants in various words is a frequent occurrence
+            throughout the MS and unrelated to the common practice of abbreviation.</p></note>
+        <note type="tnote" n="11">154<space rend="indent1"/><p><hi rend="italic">That He wolde
+              turnen him</hi>. L: <hi rend="italic">Þat he</hi><hi rend="italic"> turned him</hi>.
+            The subjunctive verb — <hi rend="italic">wolde</hi> — is supplied by all
+          editors.</p></note>
+        <note type="tnote" n="12">160<space rend="indent1"/><p><hi rend="italic">thank kan I
+              you</hi>. L: <hi rend="italic">þank kan you</hi>. This is an example of the omission
+            of pronouns by the poet and/or scribe.</p></note>
+        <note type="tnote" n="13">174<space rend="indent1"/><p><hi rend="italic">that she be
+              wman</hi><hi rend="italic"> of helde</hi>. L: <hi rend="italic">þat she wman of
+              helde</hi>.</p></note>
+        <note type="tnote" n="14">175<space rend="indent1"/><p><hi rend="italic">And</hi><hi
+              rend="italic"> that she mowe hir yemen</hi>. L: <hi rend="italic">And þa she
+              mowe</hi><hi rend="italic"> yemen</hi>. Sk’s emendation. F&amp;H emend to: <hi
+              rend="italic">And </hi><hi rend="italic">tha[t] she mowe [hit] yemen</hi>, followed by
+            Sa. Sm conjectures that the author wrote something like: <hi rend="italic">and þat she
+              </hi><hi rend="italic">mowe hir-selwe welde</hi>.</p></note>
+        <note type="tnote" n="15">177<space rend="indent1"/><p><hi rend="italic">Bi Crist and bi
+              Seint </hi><hi rend="italic">Jon</hi>. L: <hi rend="italic">Bi Crist and bi seint
+              Jon</hi>. Sm: <hi rend="italic">Bi</hi><hi rend="italic"> Jesu Crist and bi seint
+              Johan</hi>. We have followed F&amp;H here by returning to the MS reading.</p></note>
+        <note type="tnote" n="16">185<space rend="indent1"/><p><hi rend="italic">A</hi><hi
+              rend="italic"> wol fair cloth</hi>. L: <hi rend="italic">A wol fair cloþ</hi>.
+            F&amp;H: <hi rend="italic">A wel fair cloth</hi>. Sm: <hi rend="italic">A wol fair
+              cloth</hi>. Sa: <hi rend="italic">a well fair cloth</hi>; Sk: <hi rend="italic">a wel
+              fair cloth</hi>; Ho: <hi rend="italic">a wel fair cloth</hi>. Though a majority of
+            editors read the adjective to describe the beauty of the cloth, it could also modify
+            wool as the cloth’s base fabric. Also, there is a distinct rendering of <hi
+              rend="italic">th</hi> for the <hi rend="italic">þ</hi> in L.</p></note>
+        <note type="tnote" n="17">195<space rend="indent1"/><p><hi rend="italic">Gon and
+            speken</hi>. L: <hi rend="italic">Gon and</hi><hi rend="italic"> speken</hi>. F&amp;H:
+              <hi rend="italic">Don and speken</hi>. Ho: <hi rend="italic">Gon and speken</hi>; Sk:
+              <hi rend="italic">Don and speken</hi>; Sm and Ho agree with the MS reading as do
+            we.</p></note>
+        <note type="tnote" n="18">199<space rend="indent1"/><p><hi rend="italic">beste man</hi>. L:
+              <hi rend="italic">beste</hi><hi rend="italic"> man</hi>; Sk: <hi rend="italic">hexte
+              man</hi>; F&amp;H: <hi rend="italic">hexte</hi>; Sm: <hi rend="italic"
+          >heste</hi>.</p></note>
+        <note type="tnote" n="19">226<space rend="indent1"/><p><hi rend="italic">ofte swngen</hi>.
+            L: <hi rend="italic">ofte swngen</hi>. Ho: <hi rend="italic">ofte swngen</hi>; Sk: <hi
+              rend="italic">ofte</hi><hi rend="italic"> swungen</hi>; Sm: <hi rend="italic">ofte
+              swungen</hi>.</p></note>
+        <note type="tnote" n="20">256<space rend="indent1"/><p><hi rend="italic">that god
+              thoucte</hi>. L: <hi rend="italic">þat</hi><hi rend="italic"> god thoucte</hi>.
+            F&amp;H: <hi rend="italic">þat god him thoucte</hi>.</p></note>
+        <note type="tnote" n="21">282<space rend="indent1"/><p><hi rend="italic">Of</hi><hi
+              rend="italic"> alle thewes was she wis</hi>. L: <hi rend="italic">Of alle þewes
+              wshe</hi><hi rend="italic"> wis</hi>.</p></note>
+        <note type="tnote" n="22">287<space rend="indent1"/><p><hi rend="italic">hw wel she
+              ferde</hi>. L: <hi rend="italic">hw we she</hi><hi rend="italic">
+          ferde</hi>.</p></note>
+        <note type="tnote" n="23">288<space rend="indent1"/><p><hi rend="italic">hw chaste</hi>. L:
+              <hi rend="italic">w chaste</hi>.</p></note>
+        <note type="tnote" n="24">328<space rend="indent1"/><p><hi rend="italic">Of Goldeboru</hi>.
+            L: <hi rend="italic">Of Goldeb</hi>.</p></note>
+        <note type="tnote" n="25">334<space rend="indent1"/><p><hi rend="italic">sho mote</hi>. L:
+              <hi rend="italic">sho mo</hi>.</p></note>
+        <note type="tnote" n="26">354<space rend="indent1"/><p><hi rend="italic">Deth him tok than
+              he best wolde</hi>. L: <hi rend="italic">Deth him</hi><hi rend="italic"> tok than he
+              bes wolde</hi>.</p></note>
+        <note type="tnote" n="27">360–61<space rend="indent1"/><p>Sm prefers to maintain the end
+            rhyme in this couplet: <hi rend="italic">Chanounes gode and monkes</hi><hi rend="italic"
+              > baþe / Him for to wisse and to raþe</hi>. To do that he has emended <hi
+              rend="italic">boþe</hi> to <hi rend="italic">baþe</hi> and <hi rend="italic">rede</hi>
+            to <hi rend="italic">raþe</hi>. There are other such emendations. See lines 693–94 and
+            1680–81. Sk: <hi rend="italic">bethe</hi> / <hi rend="italic">rede</hi>; Ho: <hi
+              rend="italic">bothe</hi> / <hi rend="italic">rothe</hi>. We follow F&amp;H in
+            retaining the MS reading <hi rend="italic">bothe</hi> / <hi rend="italic"
+          >rede</hi>.</p></note>
+        <note type="tnote" n="28">392<space rend="indent1"/><p><hi rend="italic">shalt wel
+            yeme</hi>. L: <hi rend="italic">shalt we yeme</hi>.</p></note>
+        <note type="tnote" n="29">410<space rend="indent1"/><p><hi rend="italic">Havelok, that
+              </hi><hi rend="italic">was the eir</hi>. L: <hi rend="italic">Havelok that was the
+              eir</hi>. F&amp;H follow Ho’s emendation here: <hi rend="italic">Havelok, that was the
+              </hi><hi rend="italic">brother</hi>, presumably to preserve the end rhyme.</p></note>
+        <note type="tnote" n="30">436<space rend="indent1"/><p><hi rend="italic">made mone</hi>. L:
+              <hi rend="italic">maude mone</hi>; Sm: <hi rend="italic">maude mone</hi>; F&amp;H: <hi
+              rend="italic">made mone</hi>; Sk: <hi rend="italic">made mone</hi>; Ho: <hi
+              rend="italic">made mone</hi>.</p></note>
+        <note type="tnote" n="31">456<space rend="indent1"/><p><hi rend="italic">Seyden he, “we
+              </hi><hi rend="italic">wolden more</hi>. L: <hi rend="italic">Seyden he wolden
+              more</hi>. Sm: <hi rend="italic">Seyden he </hi><hi rend="italic">he wolden more</hi>.
+            F&amp;H: <hi rend="italic">Seyden hi, we wolden more</hi>; Ho: <hi rend="italic">Seyden
+              thei withuten more</hi>; Sk: <hi rend="italic">Seyden he wolden have</hi><hi
+              rend="italic"> more</hi>.</p></note>
+        <note type="tnote" n="32">476<space rend="indent1"/><p><hi rend="italic">Havelok it saw and
+              therbi stod</hi>. L: <hi rend="italic">Havelok</hi><hi rend="italic"> it saw and þe bi
+              stod</hi>.</p></note>
+        <note type="tnote" n="33">481<space rend="indent1"/><p><hi rend="italic">But the knave</hi>.
+            L: <hi rend="italic">But þe kave</hi>.</p></note>
+        <note type="tnote" n="34">489<space rend="indent1"/><p><hi rend="italic">Ayen thee, louerd,
+              sheld ne</hi><hi rend="italic"> spere</hi>. L: <hi rend="italic">Ayen þe, louerd, shel
+              ne spere</hi>.</p></note>
+        <note type="tnote" n="35">496<space rend="indent1"/><p><hi rend="italic">Hwan</hi><hi
+              rend="italic"> the devel herde that</hi>. L: <hi rend="italic">Hwan þe devel hede
+              þat</hi>.</p></note>
+        <note type="tnote" n="36">502<space rend="indent1"/><p><hi rend="italic">witdrow</hi>. L:
+              <hi rend="italic">þitdrow</hi>. F&amp;H: <hi rend="italic">witdrow</hi>. Sm: <hi
+              rend="italic">þit-drow</hi>. Ho: <hi rend="italic">þith-drow</hi>. Sk: <hi
+              rend="italic">wit-drow</hi>. Ma: <hi rend="italic">þit-drow</hi>.</p></note>
+        <note type="tnote" n="37">512<space rend="indent1"/><p><hi rend="italic">He may me
+              waiten</hi>. L: <hi rend="italic">He may waiten</hi>.</p></note>
+        <note type="tnote" n="38">520<space rend="indent1"/><p><hi rend="italic">drench</hi>. L: <hi
+              rend="italic">drench</hi>. Sm: <hi rend="italic">drenth</hi>. F&amp;H: <hi
+              rend="italic">drenched</hi>. Ho: <hi rend="italic">drenched</hi>. Sk: <hi
+              rend="italic">drenched</hi>. We have returned to the MS reading.</p></note>
+        <note type="tnote" n="39">534<space rend="indent1"/><p><hi rend="italic">thou</hi><hi
+              rend="italic"> sest</hi>. L: <hi rend="italic">þou se</hi>.</p></note>
+        <note type="tnote" n="40">536<space rend="indent1"/><p><hi rend="italic">Al wile I
+              taken</hi>. L: <hi rend="italic">Al wile taken</hi>.</p></note>
+        <note type="tnote" n="41">546<space rend="indent1"/><p>The line following this numbered line
+            — <hi rend="italic">He thriste in his muth wel faste</hi> — is supplied by C and not
+            counted in the line numbering. Sa, Sm, and F&amp;H add the line without counting it. Sk
+            and Ho omit the line altogether.</p></note>
+        <note type="tnote" n="42">552<space rend="indent1"/><p><hi rend="italic">he yede</hi>. Sm
+            emends to <hi rend="italic">heþede</hi>. “In the sentence as it stands, a past
+            participle is required; and the final <hi rend="italic">-e</hi> of <hi rend="italic"
+              >hethede</hi> (if this word is one) is presumably an error. But a rhyme on the
+            unstressed ending of the past participle would be unparalleled in <hi rend="italic"
+              >Hav</hi>” (p. 105).</p></note>
+        <note type="tnote" n="43">553<space rend="indent1"/><p><hi rend="italic">forth </hi><hi
+              rend="italic">lede</hi>. L: <hi rend="italic">forth</hi>. F&amp;H: <hi rend="italic"
+              >forth lede</hi>. Sk: <hi rend="italic">forth lede</hi>. Ho: <hi rend="italic">forth
+              lede</hi>. Sm: <hi rend="italic">forth lede</hi>.</p></note>
+        <note type="tnote" n="44">558<space rend="indent1"/><p><hi rend="italic">Ant bar him</hi>.
+            L: <hi rend="italic">Ant bar him</hi>. Sk: <hi rend="italic">And bar him</hi>. Ho: <hi
+              rend="italic">And </hi><hi rend="italic">bar him</hi>. F&amp;H: <hi rend="italic">Ant
+              bar him</hi>.</p></note>
+        <note type="tnote" n="45">561<space rend="indent1"/><p><hi rend="italic">Al so </hi><hi
+              rend="italic">thou wit mi lif save</hi>. L: <hi rend="italic">Also þou wit my </hi><hi
+              rend="italic">lif have</hi>. Sm: <hi rend="italic">Also þou wilt mi lif have
+            save</hi>. Ho: <hi rend="italic">Also þou wilth mi lif save</hi>.</p></note>
+        <note type="tnote" n="46">566<space rend="indent1"/><p><hi rend="italic">Hwan Dame Leve
+              herde that</hi>. L: <hi rend="italic">Hwan </hi><hi rend="italic">dame herde þat</hi>.
+            The inclusion of Grim’s wife’s name adds another foot to the meter and renders her
+            identity clear.</p></note>
+        <note type="tnote" n="47">583<space rend="indent1"/><p><hi rend="italic">wost that </hi><hi
+              rend="italic">hoves me</hi>. L: <hi rend="italic">wost þat hoves me</hi>. F&amp;H and
+            Sm: <hi rend="italic">wost þat bi hoves me</hi>. Ho: <hi rend="italic">wost that it
+              </hi><hi rend="italic">bi hoveth me</hi>. Sk: <hi rend="italic">wost that so bihoves
+              me</hi>.</p></note>
+        <note type="tnote" n="48">667<space rend="indent1"/><p><hi rend="italic">That was of
+              Denemark a stiward</hi>. L: <hi rend="italic">Þat was Denemk </hi><hi rend="italic">a
+              stiward</hi>. The preposition <hi rend="italic">in</hi> is inserted by F&amp;H. Sk,
+            Ho, and Sm prefer <hi rend="italic">of</hi>.</p></note>
+        <note type="tnote" n="49">675<space rend="indent1"/><p><hi rend="italic">Yif me gold
+              </hi><hi rend="italic">and other fe</hi>. L: <hi rend="italic">Yif me gold other
+              fe</hi>.</p></note>
+        <note type="tnote" n="50">686<space rend="indent1"/><p><hi rend="italic">Shaltu have non
+              other mede</hi>. L: <hi rend="italic">Shal have non other </hi><hi rend="italic"
+              >mede</hi>. F&amp;H: <hi rend="italic">Shaltu have</hi>. Sk: <hi rend="italic">Shaltu
+              have</hi>. Ho: <hi rend="italic">Shaltu </hi><hi rend="italic">have</hi>.</p></note>
+        <note type="tnote" n="51">691<space rend="indent1"/><p><hi rend="italic">hethen</hi>. L: <hi
+              rend="italic">ethen</hi>. F&amp;H’s emendation.</p></note>
+        <note type="tnote" n="52">693<space rend="indent1"/><p><hi rend="italic">that wicke
+            man</hi>. L: <hi rend="italic">þa wicke man</hi>. F&amp;H and Sm emend to provide
+            distinction for the demonstrative adjective.</p></note>
+        <note type="tnote" n="53">694–95<space rend="indent1"/><p><hi rend="italic">shal me to rede
+              . . . he wile bethe</hi>. The end rhyme in this couplet has been emended by Sm as
+            follows: <hi rend="italic">And þoucte, wat shal me to raþe / Wite him on </hi><hi
+              rend="italic">live he wile us baþe</hi>. F&amp;H follow L, supplying <hi rend="italic"
+              >[us]</hi> before <hi rend="italic">beþe</hi>. We have returned to the MS despite the
+            loss of rhyme.</p></note>
+        <note type="tnote" n="54">702<space rend="indent1"/><p><hi rend="italic">Hors and swin, geet
+              </hi><hi rend="italic">with berd</hi>. L: <hi rend="italic">Hors and swin with
+              berd</hi>. F&amp;H and Sm add “goats,” presumably because neither swine nor horses
+            have beards.</p></note>
+        <note type="tnote" n="55">723<space rend="indent1"/><p><hi rend="italic">Ne were it
+              nevere</hi>. L: <hi rend="italic">Ne were</hi><hi rend="italic">
+          neuere</hi>.</p></note>
+        <note type="tnote" n="56">732<space rend="indent1"/><p><hi rend="italic">Als ye shulen now
+              forthward lere</hi>. L: <hi rend="italic">Als</hi><hi rend="italic"> ye shulen now
+              forthwar here</hi>. Skeat’s emendation.</p></note>
+        <note type="tnote" n="57">765<space rend="indent1"/><p><hi rend="italic">Forbar</hi><hi
+              rend="italic"> he neyther tun</hi>. L: <hi rend="italic">Forbar he neyþe
+          tun</hi>.</p></note>
+        <note type="tnote" n="58">773<space rend="indent1"/><p><hi rend="italic">Ful</hi><hi
+              rend="italic"> wel</hi>. L: <hi rend="italic">Ful we</hi>.</p></note>
+        <note type="tnote" n="59">776<space rend="indent1"/><p><hi rend="italic">wol wel sold</hi>.
+            L: <hi rend="italic">wol</hi><hi rend="italic"> wel sold</hi>. F&amp;H: <hi
+              rend="italic">al wel sold</hi>. Sm: <hi rend="italic">wol </hi><hi rend="italic">wel
+              sold</hi>. Grim seems to be selling wool without mention of his keeping sheep, the
+            reason perhaps that F&amp;H emend <hi rend="italic">wol</hi> to <hi rend="italic"
+              >al</hi>. Sheep are mentioned in line 782, however.</p></note>
+        <note type="tnote" n="60">785<space rend="indent1"/><p><hi rend="italic">In the se weren he
+              ofte setes</hi>. L: <hi rend="italic">In the se weren he offte setes</hi>. F&amp;H:
+              <hi rend="italic">Þat </hi><hi rend="italic">in the se he ofte setes</hi>. Sm: <hi
+              rend="italic">In the se-</hi><hi rend="italic">weres he ofte setes</hi>. Kevin Gosling
+            in “Sewere in <hi rend="italic">Havelok</hi> 784,” <hi rend="italic">Notes and
+              Queries</hi> 34 (1987), 151, suggests that this is a compound based on an ON borrowing
+            in the poet’s Lincolnshire dialect. ON ver means “station for taking eggs, fishing,
+            catching seals, etc.” <hi rend="italic">Sewere</hi> would then mean “inshore fishing
+            ground.” The MS, however, clearly depicts an abbreviation mark above the final <hi
+              rend="italic">-e</hi> in <hi rend="italic">sewerē</hi> (<hi rend="italic">se
+              weren</hi>) rendering verbal force to the suffix. Sm fills in the abbreviation with s.
+            We have emended.</p></note>
+        <note type="tnote" n="61">807<space rend="indent1"/><p><hi rend="italic">woth</hi>. Sk
+            emends to <hi rend="italic">wot</hi>.</p></note>
+        <note type="tnote" n="62">819<space rend="indent1"/><p><hi rend="italic">ilk del</hi>. L:
+              <hi rend="italic">il del</hi>. F&amp;H’s emendation.</p></note>
+        <note type="tnote" n="63">858<space rend="indent1"/><p><hi rend="italic">sheres</hi>. L: <hi
+              rend="italic">shres</hi>.</p></note>
+        <note type="tnote" n="64">861<space rend="indent1"/><p><hi rend="italic">Havede he
+              neyther</hi>. L: <hi rend="italic">Havede neþer</hi>.</p></note>
+        <note type="tnote" n="65">862<space rend="indent1"/><p><hi rend="italic">other wede</hi>. L:
+              <hi rend="italic">oþe wede</hi>.</p></note>
+        <note type="tnote" n="66">864<space rend="indent1"/><p><hi rend="italic">he cam ther</hi>.
+            L: <hi rend="italic">he cam þe</hi>.</p></note>
+        <note type="tnote" n="67">870<space rend="indent1"/><p><hi rend="italic">Poure that </hi><hi
+              rend="italic">on fote yede</hi>. This line, supplied by Sk, repeats line 101 and fills
+            in the rhyme scheme.</p></note>
+        <note type="tnote" n="68">875<space rend="indent1"/><p><hi rend="italic">Ther the </hi><hi
+              rend="italic">erles mete he tok</hi>. This line is supplied by Ma and Sk. Both F&amp;H
+            and Sm agree.</p></note>
+        <note type="tnote" n="69">882<space rend="indent1"/><p><hi rend="italic">on </hi><hi
+              rend="italic">the brigge</hi>. L: <hi rend="italic">on þe bigge</hi>.</p></note>
+        <note type="tnote" n="70">934<space rend="indent1"/><p><hi rend="italic">filde ther</hi>. L:
+              <hi rend="italic">filde þe</hi>.</p></note>
+        <note type="tnote" n="71">937<space rend="indent1"/><p><hi rend="italic">Al him one</hi>. L:
+              <hi rend="italic">A him one</hi>.</p></note>
+        <note type="tnote" n="72">939<space rend="indent1"/><p><hi rend="italic">Ne fro brigge</hi>.
+            L: <hi rend="italic">Ne fro bigge</hi>.</p></note>
+        <note type="tnote" n="73">952<space rend="indent1"/><p><hi rend="italic">ne </hi><hi
+              rend="italic">wolde with</hi>. L: <hi rend="italic">ne wode with</hi>. The emendation
+            makes an important distinction between an intransitive subjunctive verb and a noun
+            connoting madness.</p></note>
+        <note type="tnote" n="74">961<space rend="indent1"/><p><hi rend="italic">mikel</hi>. L: <hi
+              rend="italic">mike</hi>.</p></note>
+        <note type="tnote" n="75">966<space rend="indent1"/><p><hi rend="italic">That was ful</hi>.
+            L: <hi rend="italic">Þat ful</hi>. Adding an intransitive verb is followed
+            universally.</p></note>
+        <note type="tnote" n="76">988<space rend="indent1"/><p><hi rend="italic">als he was
+              long</hi>. L: <hi rend="italic">al he was long</hi>.</p></note>
+        <note type="tnote" n="77">1080<space rend="indent1"/><p><hi rend="italic">his douther
+              yeve</hi>. L: <hi rend="italic">his douthe yeve</hi>.</p></note>
+        <note type="tnote" n="78">1102<space rend="indent1"/><p><hi rend="italic">erthe stoc</hi>.
+            L: <hi rend="italic">erthe shop</hi>. While the MS reads <hi rend="italic">shop</hi>
+            (created), the word neither rhymes nor fits the meaning. Both F&amp;H and Sa substitute
+              <hi rend="italic">stoc</hi>, which F&amp;H gloss as “shut fast”; Satan resides in
+            hell, the center of the earth in medieval belief.</p></note>
+        <note type="tnote" n="79">1149<space rend="indent1"/><p><hi rend="italic">With dintes swithe
+              hard and strong</hi>. This line is supplied by Sk.</p></note>
+        <note type="tnote" n="80">1158<space rend="indent1"/><p><hi rend="italic">hire, fals and
+              slike</hi>. L: <hi rend="italic">hire </hi><hi rend="italic">and slike</hi>. F&amp;H:
+              <hi rend="italic">hire fals and slike</hi>. Sm: <hi rend="italic">fel</hi><hi
+              rend="italic"> and slike</hi>.</p></note>
+        <note type="tnote" n="81">1202<space rend="indent1"/><p><hi rend="italic">ay the rith
+              sti</hi>. L: <hi rend="italic">ay þe</hi><hi rend="italic"> rith</hi>; F&amp;H and Sm
+            add <hi rend="italic">sti</hi>.</p></note>
+        <note type="tnote" n="82">1251<space rend="indent1"/><p><hi rend="italic">That she</hi><hi
+              rend="italic"> were</hi>. L: <hi rend="italic">Þat shere</hi>. Sk’s emendation,
+            followed by Sm, F&amp;H, and Sa.</p></note>
+        <note type="tnote" n="83">1316<space rend="indent1"/><p>Earlier editors suggest that at
+            least two lines are missing here. Presumably, the first would have a final word rhyming
+            with <hi rend="italic">joye</hi> of line 1315, while the next would rhyme with <hi
+              rend="italic">trone</hi> in what is now numbered as 1316.</p></note>
+        <note type="tnote" n="84">1337<space rend="indent1"/><p><hi rend="italic">Nim in wit lithe
+              to</hi><hi rend="italic"> Denemark</hi>. L: <hi rend="italic">Nim in witl þe to
+              Denemak</hi>. F&amp;H: <hi rend="italic">Nimen we to Denemark baþe</hi>. Sa: <hi
+              rend="italic">Nimen wit to Denemark</hi><hi rend="italic"> bathe</hi>, where <hi
+              rend="italic">wit</hi> means “we too.” Sm: <hi rend="italic">Nim in wit</hi><hi
+              rend="italic"> liþe to Denemark baþe</hi>. Sm’s note on this line is useful: “As an
+            emendation <hi rend="italic">l[i]the</hi> has the advantage of preserving the <hi
+              rend="italic">l</hi> in MS <hi rend="italic">witl</hi> as well as the MS <hi
+              rend="italic">the</hi>. . . . If <hi rend="italic">lithe</hi> is interpreted as
+            ‘journey’ in line 1337, it is necessary to take <hi rend="italic">wit</hi> as the dual
+            ‘we two’ and to emend <hi rend="italic">nim</hi> to <hi rend="italic">nime</hi>. . . .
+            The line would translate to ‘Let’s both make the journey to Denmark”’ (p.
+          127).</p></note>
+        <note type="tnote" n="85">1343<space rend="indent1"/><p><hi rend="italic">thin hond</hi>. L:
+              <hi rend="italic">þin</hi><hi rend="italic"> hon</hi>.</p></note>
+        <note type="tnote" n="86">1349<space rend="indent1"/><p><hi rend="italic">Thou maght til he
+              aren quike</hi>. Sm emends <hi rend="italic">til</hi> to <hi rend="italic">tel</hi>
+            because there is “no known word corresponding in form to <hi rend="italic">til</hi> that
+            would fit this context” (p. 128). See John Wilson, “<hi rend="italic">Havelok the
+              Dane</hi>, line 1349: ‘til,”’ <hi rend="italic">Notes and Queries</hi> 36 (1989),
+            150–51.</p></note>
+        <note type="tnote" n="87">1370<space rend="indent1"/><p><hi rend="italic">He hath mi</hi><hi
+              rend="italic"> lond</hi>. L: <hi rend="italic">He mi lond</hi>. Sm: <hi rend="italic"
+              >He haldes mi lond</hi>. Our emendation agrees with that of F&amp;H.</p></note>
+        <note type="tnote" n="88">1377<space rend="indent1"/><p><hi rend="italic">And</hi><hi
+              rend="italic"> late me wel</hi>. L: <hi rend="italic">And late wel</hi>.</p></note>
+        <note type="tnote" n="89">1397<space rend="indent1"/><p><hi rend="italic">he kalde</hi>. L:
+              <hi rend="italic">he kade</hi>.</p></note>
+        <note type="tnote" n="90">1410<space rend="indent1"/><p><hi rend="italic">lime he hus</hi>.
+            L: <hi rend="italic">lime hus</hi>.</p></note>
+        <note type="tnote" n="91">1429<space rend="indent1"/><p><hi rend="italic">Havede he ben
+              slayn</hi>. L: <hi rend="italic">Havede ben</hi>.</p></note>
+        <note type="tnote" n="92">1445–1624<space rend="indent1"/><p>At this point in the MS, a
+            whole leaf has been cut away. Ma surmises that approximately 180 lines are missing. The
+            gist of the section, says Sa, “probably was that the three sons agree to follow Havelok;
+            and all the men, together with Goldeboru, sail for Denmark. Ashore, Havelok, William,
+            and Roberd, disguised as peddlers, meet the Danish earl Ubbe and ask permission to sell
+            their wares. Line 1625 opens in the middle of Havelok’s plea” (p. 95). F&amp;H’s
+            synopsis varies somewhat: “The three sons agree, and exchange some of their property for
+            a peddlar’s wares and a fine ring. They sail to Denmark and moor the boat; Hugh Raven
+            remains in it. The others disembark and on the shore meet Ubbe, a Danish earl, who is
+            out riding with his retinue near a town and castle. Havelok asks permission to sell his
+            wares” (p. 127).</p></note>
+        <note type="tnote" n="93">1644<space rend="indent1"/><p><hi rend="italic">ilk del</hi>. L:
+              <hi rend="italic">il del</hi>.</p></note>
+        <note type="tnote" n="94">1660<space rend="indent1"/><p><hi rend="italic">ful wel
+              rede</hi><hi rend="italic"> thee</hi>. L: <hi rend="italic">ful wel rede
+          þ</hi>.</p></note>
+        <note type="tnote" n="95">1680–81<space rend="indent1"/><p>Sm ends the couplet for the sake
+            of the meter and the end rhyme: <hi rend="italic">Loke that ye comen baþe / For ich it
+              wile</hi><hi rend="italic"> and ich it raþe</hi>. Compare lines 694–95 and lines
+            360–61.</p></note>
+        <note type="tnote" n="96">1685<space rend="indent1"/><p><hi rend="italic">he yede</hi>. L:
+              <hi rend="italic">he yde</hi>.</p></note>
+        <note type="tnote" n="97">1698<space rend="indent1"/><p><hi rend="italic">for to shewe</hi>.
+            Sm: <hi rend="italic">for to shawe</hi>. F&amp;H: <hi rend="italic">forto
+            shewe</hi>.</p></note>
+        <note type="tnote" n="98">1722<space rend="indent1"/><p><hi rend="italic">Thanne</hi><hi
+              rend="italic"> were set and bord leyd</hi>. F&amp;H and Sm add a pronoun: <hi
+              rend="italic">Thanne he were set and bord leyd</hi>. The table is the subject,
+            however.</p></note>
+        <note type="tnote" n="99">1736<space rend="indent1"/><p><hi rend="italic">the kilthing
+              deyled</hi>. L: <hi rend="italic">the kilþing deled</hi>. Sm: <hi rend="italic">the
+              kilþing deyled</hi>. F&amp;H: <hi rend="italic">the</hi><hi rend="italic"> ilk þing
+              deled</hi>. We concur with Sm’s emendation. Sm rejects Sk’s “violent emendation,” of
+              <hi rend="italic">kilthing</hi> to <hi rend="italic">ilk thing</hi>. For Sm it
+            represents “a re-writing that offers no means of accounting for the alleged corruption”
+            (p. 132). Instead, Sm chooses to retain the integrity of the line.</p></note>
+        <note type="tnote" n="100">1740<space rend="indent1"/><p><hi rend="italic">Ilk man</hi>. L:
+              <hi rend="italic">Il man</hi>. Sm: <hi rend="italic">Il man</hi>. F&amp;H: <hi
+              rend="italic">Ilk man</hi>. Since the distinction is important, we have followed
+            F&amp;H’s emendation.</p></note>
+        <note type="tnote" n="101">1744<space rend="indent1"/><p><hi rend="italic">bes mikel
+            wo</hi>. L: <hi rend="italic">bes</hi><hi rend="italic"> mike wo</hi>.</p></note>
+        <note type="tnote" n="102">1753<space rend="indent1"/><p><hi rend="italic">Havelok wel
+              yemen</hi>. L: <hi rend="italic">Havelok wel ymen</hi>.</p></note>
+        <note type="tnote" n="103">1761<space rend="indent1"/><p><hi rend="italic">With mikel
+              love</hi>. L: <hi rend="italic">with mike love</hi>.</p></note>
+        <note type="tnote" n="104">1804<space rend="indent1"/><p><hi rend="italic">And</hi><hi
+              rend="italic"> with him comen</hi>. L: <hi rend="italic">And with comen</hi>. The
+            thorn has been replaced by <hi rend="italic">th</hi> in L.</p></note>
+        <note type="tnote" n="105">1827<space rend="indent1"/><p><hi rend="italic">Havelok let
+              the</hi><hi rend="italic"> barre fleye</hi>. L: <hi rend="italic">Have le barre
+              fleye</hi>.</p></note>
+        <note type="tnote" n="106">1884<space rend="indent1"/><p><hi rend="italic">louerd
+              wreke</hi><hi rend="italic"> be</hi>. L: <hi rend="italic">louerd
+          wreke</hi>.</p></note>
+        <note type="tnote" n="107">1911<space rend="indent1"/><p><hi rend="italic">Als here
+              wombes</hi>. L: <hi rend="italic">Als</hi><hi rend="italic"> hee
+          wombes</hi>.</p></note>
+        <note type="tnote" n="108">1941<space rend="indent1"/><p><hi rend="italic">or shame
+              seyde</hi>. L: <hi rend="italic">or same seyde</hi>. F&amp;H: <hi rend="italic">or
+              shame seyde</hi>. Sm: <hi rend="italic">or same seyde</hi>.</p></note>
+        <note type="tnote" n="109">2009<space rend="indent1"/><p><hi rend="italic">leye o
+            tooth</hi>. L: <hi rend="italic">leye othe</hi>. Si’s emendation, followed by F&amp;H
+            and Sa.</p></note>
+        <note type="tnote" n="110">2030<space rend="indent1"/><p><hi rend="italic">mouthe ageyn
+              so</hi>. L: <hi rend="italic">mouthe agey so</hi>.</p></note>
+        <note type="tnote" n="111">2036<space rend="indent1"/><p><hi rend="italic">Wel is set the
+              mete he</hi><hi rend="italic"> etes</hi>. L: <hi rend="italic">We is set þe mete he
+              etes</hi>. This proverb appears earlier in a variant form in line 908.</p></note>
+        <note type="tnote" n="112">2055<space rend="indent1"/><p><hi rend="italic">that we so</hi>.
+            L: <hi rend="italic">þat we so</hi>.</p></note>
+        <note type="tnote" n="113">2070<space rend="indent1"/><p><hi rend="italic">Moucte</hi><hi
+              rend="italic"> wayte thee to slo</hi>. L: <hi rend="italic">Movcte wayte þe
+            slo</hi>.</p></note>
+        <note type="tnote" n="114">2124<space rend="indent1"/><p><hi rend="italic">lith was
+              thare</hi>. L: <hi rend="italic">lith wa þare</hi>. Sm: <hi rend="italic">lith
+              was</hi><hi rend="italic"> þore</hi>.</p></note>
+        <note type="tnote" n="115">2140<space rend="indent1"/><p><hi rend="italic">shuldre swithe
+              brith</hi>. L: <hi rend="italic">shuldre swe brith</hi>. Sk’s emendation, followed by
+            F&amp;H and Sa.</p></note>
+        <note type="tnote" n="116">2195<space rend="indent1"/><p><hi rend="italic">knithes</hi><hi
+              rend="italic">, burgeys, sweynes</hi>. L: <hi rend="italic">Knighes bugeys
+              sweynes</hi>.</p></note>
+        <note type="tnote" n="117">2229<space rend="indent1"/><p><hi rend="italic">that sori
+              fend</hi>. L: <hi rend="italic">þat sor fend</hi>.</p></note>
+        <note type="tnote" n="118">2298<space rend="indent1"/><p><hi rend="italic">Us for to
+              yemen</hi>. L: <hi rend="italic">for to yemen</hi>. F&amp;H: <hi rend="italic">Men for
+              to yemen</hi>. Sm: <hi rend="italic">Us for to yemen</hi>. Since Ubbe is speaking, his
+            designation of group and self-inclusion make sense.</p></note>
+        <note type="tnote" n="119">2310<space rend="indent1"/><p><hi rend="italic">evere </hi><hi
+              rend="italic">wolde his</hi>. L: <hi rend="italic">evere wode his</hi>.</p></note>
+        <note type="tnote" n="120">2311<space rend="indent1"/><p><hi rend="italic">That dide he
+              </hi><hi rend="italic">hem o boke swere</hi>. L: <hi rend="italic">Þat dide hem o boke
+              </hi><hi rend="italic">swere</hi>.</p></note>
+        <note type="tnote" n="121">2336<space rend="indent1"/><p><hi rend="italic">so mikel yeft of
+              clothes</hi>. L: <hi rend="italic">so mike </hi><hi rend="italic">yeft of
+            cloþes</hi>.</p></note>
+        <note type="tnote" n="122">2352<space rend="indent1"/><p><hi rend="italic">ilker twenti
+              knihtes</hi>. L: <hi rend="italic">ilker twent </hi><hi rend="italic"
+            >knihtes</hi>.</p></note>
+        <note type="tnote" n="123">2370<space rend="indent1"/><p><hi rend="italic">Half
+            hundred</hi>. L: <hi rend="italic">hal hundred</hi>.</p></note>
+        <note type="tnote" n="124">2389<space rend="indent1"/><p><hi rend="italic">cavenard</hi>. Sk
+            refers to the term as an error for <hi rend="italic">caynard</hi>, a term for a
+            scoundrel (see Chaucer’s Wife of Bath <hi rend="italic">CT</hi> III[D] 235). Sa emends
+            to <hi rend="italic">caynard</hi>.</p></note>
+        <note type="tnote" n="125">2404<space rend="indent1"/><p><hi rend="italic">that </hi><hi
+              rend="italic">he ther thrette</hi>. L: <hi rend="italic">þat þer
+          þrette</hi>.</p></note>
+        <note type="tnote" n="126">2453<space rend="indent1"/><p><hi rend="italic">he havede
+              </hi><hi rend="italic">ful</hi>. L: <hi rend="italic">he have ful</hi>.</p></note>
+        <note type="tnote" n="127">2458–59<space rend="indent1"/><p><hi rend="italic">And swithe
+              wikke clothes</hi><hi rend="italic">, / For al hise manie grete othes</hi>. F&amp;H
+            and Sm emend these lines as follows: <hi rend="italic">Wan he was brouth so</hi><hi
+              rend="italic"> shamelike / Biforn the king, (the fule swike!)</hi>. We have returned
+            to the MS reading.</p></note>
+        <note type="tnote" n="128">2479<space rend="indent1"/><p><hi rend="italic">Thoru his
+              fet</hi>. L: <hi rend="italic">Þoru is fet</hi>.</p></note>
+        <note type="tnote" n="129">2483<space rend="indent1"/><p><hi rend="italic">ilk</hi>. L: <hi
+              rend="italic">il</hi>. Sk’s emendation, followed by F&amp;H and Sa. So too in line
+            2514.</p></note>
+        <note type="tnote" n="130">2492<space rend="indent1"/><p><hi rend="italic">But that he
+              sholde</hi>. L: <hi rend="italic">Þat he sholde</hi>. F&amp;H and Sm concur on the
+            emendation.</p></note>
+        <note type="tnote" n="131">2502<space rend="indent1"/><p><hi rend="italic">That </hi><hi
+              rend="italic">ne flow him</hi>. L: <hi rend="italic">That ne flow everil
+          del</hi>.</p></note>
+        <note type="tnote" n="132">2514<space rend="indent1"/><p><hi rend="italic">ilk</hi>. L: <hi
+              rend="italic">il</hi>.</p></note>
+        <note type="tnote" n="133">2519<space rend="indent1"/><p>F&amp;H conjecture the absence of
+            approximately twenty lines: “The copyist omitted a passage, probably about twenty lines
+            long, in which the journey to England is described. The French poems contribute little
+            information; they mention, however, that the expedition disembarks at Grimsby and sends
+            Godrich a demand that he restore England to its rightful owners” (p. 160). Sm and Sa are
+            silent on this alleged omission.</p></note>
+        <note type="tnote" n="134">2557<space rend="indent1"/><p><hi rend="italic">yboren, so</hi>.
+            L: <hi rend="italic">ye ber so</hi>. Sk’s emendation.</p></note>
+        <note type="tnote" n="135">2597<space rend="indent1"/><p><hi rend="italic">For shal I</hi>.
+            L: <hi rend="italic">For shal</hi>.</p></note>
+        <note type="tnote" n="136">2629<space rend="indent1"/><p><hi rend="italic">nevere
+              thethen</hi>. L: <hi rend="italic">nevere þeþe</hi>.</p></note>
+        <note type="tnote" n="137">2654<space rend="indent1"/><p><hi rend="italic">Godrich him</hi>.
+            L: <hi rend="italic">G-him</hi>.</p></note>
+        <note type="tnote" n="138">2663<space rend="indent1"/><p><hi rend="italic">To the fet right
+              there adune</hi>. Supplied by Ma’s edition and followed by Sk. It echoes line
+            1905.</p></note>
+        <note type="tnote" n="139">2711<space rend="indent1"/><p><hi rend="italic">ok</hi>. L: <hi
+              rend="italic">hok</hi>.</p></note>
+        <note type="tnote" n="140">2797<space rend="indent1"/><p><hi rend="italic">Kristes</hi>. L:
+              <hi rend="italic">Kistes</hi>.</p></note>
+        <note type="tnote" n="141">2840<space rend="indent1"/><p><hi rend="italic">And led </hi><hi
+              rend="italic">him til</hi>. L: <hi rend="italic">And him til</hi>. Sm: <hi
+              rend="italic">And led huntil</hi>. F&amp;H: <hi rend="italic">And led him til</hi>. Sa
+            follows L.</p></note>
+        <note type="tnote" n="142">2888<space rend="indent1"/><p><hi rend="italic">was in god
+              time</hi>. L: <hi rend="italic">was god time</hi>.</p></note>
+        <note type="tnote" n="143">2905<space rend="indent1"/><p><hi rend="italic">ich </hi><hi
+              rend="italic">ne havede</hi>. L: <hi rend="italic">ich ne have</hi>.</p></note>
+        <note type="tnote" n="144">2909<space rend="indent1"/><p><hi rend="italic">ilk del</hi>. L:
+              <hi rend="italic">il del</hi>.</p></note>
+        <note type="tnote" n="145">2933<space rend="indent1"/><p>This line has spawned two theories:
+            (1) that the exemplar of L was a minstrel’s copy and (2) that the original poet was
+            probably himself a minstrel. See John C. Hirsh “<hi rend="italic">Havelok</hi> 2933: A
+            Problem in Medieval Literary History,” <hi rend="italic">Neuphilologische
+              Mitteilungen</hi> 78 (1977), 339–47.</p></note>
+        <note type="tnote" n="146">2993<space rend="indent1"/><p><hi rend="italic">Have ich
+              seyd</hi>. L: <hi rend="italic">Have ich sey</hi>.</p></note>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Herzman-FourRomances-Export-06-Havelok-Intro-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Introduction to Havelok the Dane</title>
+        <author>Herzman, Ronald B.</author>
+        <author>Drake, Graham</author>
+        <author>Salisbury, Eve</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Amster, Mara I.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Church, Jennifer</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-09" to="2025-10">Audited documents prior to print/export</resp>
+          <resp from="2025-09" to="2025-09">Collected metadata</resp>
+          <resp from="2025-02" to="2025-04">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-10">Encoded TEI</resp>
+          <resp from="2025-08" to="2025-09">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-09">Entered corrections for digital edition</resp>
+          <resp from="2025-02" to="2025-09">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-10">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-12" to="2023-12">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Collated and entered corrections</resp>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Prepared edition for publication</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mara I. Amster</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Melissa Bernstein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jennifer Church</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Angela Gibson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ian Peddie</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ann Robinson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John William Sutton</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Dana M. Symons</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Herzman, Ronald B.</editor>
+            <editor>Drake, Graham</editor>
+            <editor>Salisbury, Eve</editor>
+            <title>Four Romances of England: King Horn, Havelok the Dane, Bevis of Hampton,
+              Athelston</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/herzman-fourromances/blob/main/herzman-fourromances-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1999</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Herzman-FourRomances-Export-06-Havelok-Intro"/>
+      <div type="text">
+        <p style="bodyfirst" n="1">Most scholars place <hi rend="italic">Havelok the Dane</hi> at
+          the end of the thirteenth century, between 1280 and 1290, and see it as a reworking of
+          Anglo-Norman sources.<note target="#1" type="footnotelink">1</note>
+          <hi rend="italic">Havelok</hi> opens with the unfortunate childhood of the English
+          princess Goldeboru, Havelok’s future wife, orphaned when her father, the good King
+          Athelwold dies, leaving her inadvertently in the hands of a wicked foster parent and
+          protector, Godrich. The scene then shifts to Havelok’s own similar childhood in Denmark.
+          When Havelok’s father King Birkabein dies, he and his two sisters are left in the care of
+          the treacherous usurper, Godard, who cuts the throats of the two young girls and threatens
+          the life of Havelok. The little boy, in a demonstration of courage well beyond his years,
+          negotiates a promise of fealty in exchange for his life. But instead of accepting
+          Havelok’s fealty, Godard hands the boy over to a fisherman, Grim, with instructions to
+          kill him. Bound and gagged, the young prince is then transported to his would-be
+          executioner’s hut. Before the deed can be done, however, Grim and his wife see a
+          mysterious light coming from the boy’s mouth while he sleeps, and a “kynmerk,” the
+          cross-shaped birthmark of a king on his shoulder, which convinces them of Havelok’s
+          divinely appointed royal status. Then, in a manner reminiscent of fairy tales, Grim fakes
+          the child’s death and then takes his whole family along with the boy to England, where
+          Havelok grows into a young man who earns his bread first as a fisherman and then as a
+          porter.</p>
+        <p style="body" n="1">At this point, Godrich forcibly marries Goldeboru to Havelok, thinking
+          he is a commoner, a misidentification with which Goldeboru concurs until, on their wedding
+          night, the “kynmerk” and the strange light reveal Havelok’s true identity. Her misgivings
+          about Havelok’s nobility thus assuaged, soon thereafter Goldeboru and Havelok make their
+          way to Denmark, where Havelok poses as a merchant while staying at the house of Ubbe, a
+          Danish earl, only to have his identity as true king affirmed once again by the light and
+          the birthmark. Havelok avenges the murder of his sisters and wins back the Danish throne
+          from Godard and his forces. Havelok then returns to England with Goldeboru to regain her
+          kingdom from Godrich (who is flayed and hanged at a slow, merciless rate); he arranges the
+          marriages of Grim’s two daughters to English noblemen (one of whom is newly elevated from
+          his position as cook), distributes property to his Danish subalterns, and accepts the
+          crown of England which he rules with Goldeboru. To Ubbe, he bequeaths the rulership of
+          Denmark. Together Havelok and Goldeboru have fifteen children — queens and kings all — and
+          live to a comfortable old age.</p>
+        <p style="heading" n="1">The Hero’s Body</p>
+        <p style="bodyfirst" n="2">In <hi rend="italic">Havelok</hi>, as in <hi rend="italic"
+            >Horn</hi> we have another romance hero whose very body is central to the narrative. The
+          most obvious recurring devices — the supernatural light shining from the sleeping hero’s
+          mouth, and the cross-shaped birthmark on his shoulder — appear three times at crucial
+          moments in the story: when Grim is about to kill him as a boy; when he has been forcibly
+          married to a very distressed Goldeboru; and when he is staying with Ubbe in Denmark at the
+          commencement of his campaign to win back the land of his birth. Not only is Havelok’s body
+          marked by divine authority, but he is noticeably taller than the other men around him.
+          Like the biblical King Saul, he stands out in a crowd: he has a royal bearing that
+          separates him from the ordinary. Havelok also consumes more food than ordinary men, a fact
+          that motivates the hero to seek employment and contribute to the support of his foster
+          family. But in order to avoid calling attention to himself while working among the English
+          locals, he shrouds his body in disguises: at Lincoln he dresses no more remarkably than
+          his foster family in Grimsby does in order to apprentice as a cook. His disguise is akin
+          to that of Sir Gareth, who serves as a “kitchen knave” in Malory’s <hi rend="italic">Le
+            Morte Darthur</hi>.<note target="#2" type="footnotelink">2</note> When Havelok arrives
+          in Denmark to visit Ubbe, he presents himself as a merchant; by the end of the poem, he is
+          wearing the crown of England. But whether his body is a <hi rend="italic">tabula rasa</hi>
+          for a heaven-sent sign, or a frame for clothing from every social stratum, his bodily
+          strength is remarked on consistently throughout his story. He gains the respect of Lincoln
+          locals by winning popular wrestling and stone-throwing contests. He is formidable in
+          battle even when he wields unconventional weapons — from an ax to a club or door bar —
+          against opponents more conventionally armed. Just as Horn’s beauty is constantly remarked
+          upon and celebrated, so too is Havelok’s extra-ordinary physique and prowess.<note
+            target="#3" type="footnotelink">3</note></p>
+        <p style="heading" n="2"><hi rend="italic">Havelok</hi> and the Body Politic</p>
+        <p style="bodyfirst" n="3">If attention to Havelok’s body literally underscores the hero’s
+          physical attributes and royal status then so too does it represent the political virtues
+          of a potential king. Havelok is a walking metaphor for kingship, literally marked with a
+          sign of royalty. Thus it is no coincidence that the poem begins with the death of the
+          English king, Athelwold, with a description of his rule, followed shortly thereafter by
+          the death of the Danish king, Birkabein, and a similar description. Athelwold, we are
+          told, establishes peace and justice in a realm rife with treachery and violence, an
+          accomplishment for which he is recognized by his subjects — young and old, from every
+          estate — as a wise and effective monarch. Both loved and feared, Athelwold demonstrates
+          compassion in his “gode werkes,” while, at the same time, he adjudicates criminal acts to
+          the fullest extent of medieval English law. When the scene shifts to Denmark, we discover
+          that King Birkabein embodies similar personal and political virtues. He too renders
+          equitable justice and secures peace and harmony in the kingdom of Denmark. Each king
+          provides a model of rulership that fosters social and political stability in their
+          respective realms and functions to assure the continuance of the “office” of monarch when
+          the king dies. In this sense, the king has not one body but two: he represents both
+          himself as individual, with a natural body subject to disease, decay, and death, while at
+          the same time he represents the body politic.<note target="#4" type="footnotelink"
+            >4</note></p>
+        <p style="body" n="2">Made most famous by John of Salisbury in the <hi rend="italic"
+            >Policraticus</hi>, a twelfth-century treatise on political philosophy, the body politic
+          is a metaphor for hierarchical corporate entities organized with the “head” (the king or
+          prince in this case) at its apex, governing the lower members, construed either as classes
+          of society or particular groups. Each member of the corporate body in this system is
+          expected to contribute to the welfare of the whole organism in order to enhance the
+          quality of communal life. At the center of the body politic, or at its heart, reside the
+          dual laws — divine and positive — by which the organism operates. Just as the king’s
+          subjects are obligated to submit to his authority, so too is he obligated by divine law to
+          govern his subjects ethically. Should he fail to honor the precepts under which he rules,
+          the king ceases to function as the site of reason for the corporate body; he ceases to be
+          a just king and instead becomes a tyrant. Given the paradigms of kingship established
+          early in the poem, Havelok’s ultimate destiny is to rule the corporate body so that all
+          its members function in a state of health and well-being. His “kynmerk” represents his
+          divinely ordained right to sovereignty.</p>
+        <p style="heading" n="3"><hi rend="italic">Havelok</hi> and Social Class</p>
+        <p style="bodyfirst" n="4">While the expected romance love-interest appears in Havelok’s
+          relationship with Goldeboru, their marriage is born as much of necessity as romantic love;
+          it creates a social and political alliance that confers legitimacy upon their dual cause
+          to reclaim the rightful inheritance of each. In his battle against Godard and Godrich,
+          Havelok exhibits courage and a sense of avenging justice. He dispatches Godard without
+          second thoughts; Godrich requires another strategy, however, since he is an English
+          nobleman given stewardship over Athelwold’s daughter by the king himself. No doubt this
+          factors into Havelok’s offer of mercy. But when the unrepentant Godrich rejects the gift,
+          he must face the legal consequences of his traitorous acts. Havelok’s actions in this
+          regard are not motivated by a romantic code of chivalry, but rather by a desire to protect
+          the social order of his adopted land, and to uphold popular values of English society.
+          This is one reason that the poem seems to express the desires of what J. Halverson calls
+          the upward mobility “of the prosperous, hard-working middle class.”<note target="#5"
+            type="footnotelink">5</note> Indeed, the work ethic, demonstrated by Havelok’s desire to
+          support not only himself, but also his foster family and, subsequently, the larger
+          community, contributes to what Susan Crane describes as “an ideology of cohesion in which
+          all people share an understanding of good and right, and each class’ duties contribute to
+          the common purpose of achieving and maintaining social order.”<note target="#6"
+            type="footnotelink">6</note></p>
+        <p style="body" n="3"><hi rend="italic">Havelok</hi>, probably more than any poem of its
+          time, moves easily from one social class to another, mixing themes of social idealism with
+          the realities of everyday life. We should note here that “bourgeois realism” forms part of
+          the mixed character of the romance mode. Like <hi rend="italic">King Horn</hi>, <hi
+            rend="italic">Havelok</hi> shares with other romances the mixture of weird, supernatural
+          events (the birthmark/light-from-the-mouth scenes) and very realistic, and often
+          lower-class, detail: for instance, the dozen types of fish that Grim catches, or the
+          peasant games at Lincoln. Havelok makes himself even lower than bourgeois, and both
+          Godrich and Goldeboru show their disdain for lowly status by their reactions to the prince
+          whom they think to be a churl.<note target="#7" type="footnotelink">7</note> These
+          attitudes are not shared by Havelok, however, whose rewards to the loyal and disadvantaged
+          at the end of the poem suggest a movement toward social amelioration. Characters who might
+          otherwise be overlooked — Bertram the cook, the daughters of Grim the fisherman — thus
+          attain noble status by the intervention of a king who has shared their experience.<note
+            target="#8" type="footnotelink">8</note> As David Staines so aptly puts it, “Havelok is
+          the embodiment of the ideal king from the point of view of the lower classes.”<note
+            target="#9" type="footnotelink">9</note> That this late thirteenth-century romance is
+          socially ameliorative is crucial to its tone and uncommon fusion of class values.</p>
+        <p style="heading" n="4"><hi rend="italic">Havelok</hi> as History and Myth</p>
+        <p style="bodyfirst" n="5"><hi rend="italic">Havelok</hi> seemed as up-to-date and relevant
+          as history to its early readers. Like many other medieval romances, it was even confused
+          with history: one fourteenth-century Anglo-French chronicler, Peter de Langtoft,
+          identifies Havelok with a Danish king named Gunter who made war on Alfred the Great.<note
+            target="#10" type="footnotelink">10</note> Another fourteenth-century chronicler, Robert
+          Mannyng of Brunne, corroborates the account in English but stops short when it comes to
+          the question of how Havelok won England for lack of written historical documentation: “Bot
+          I haf grete ferly that I fynd no man that has writen in story how Havelok this lond wan.”
+          Nonetheless, there appears what scholars surmise to be a late interpolation of Havelok’s
+          story in Mannyng’s chronicle.<note target="#11" type="footnotelink">11</note> Mannyng
+          himself points to other kinds of evidence which suggests the existence of a local legend —
+          a stone in Lincoln castle which is said to be the very stone that Havelok threw farther
+          than the other contestants, and a chapel in which Havelok and Goldeboru were married.<note
+            target="#12" type="footnotelink">12</note></p>
+        <p style="body" n="4">There is yet another rather amazing piece of historical evidence to
+          consider: the official thirteenth-century seal of the town of Grimsby, founded, the poem
+          says, by Grim (lines 744–47). As if establishing its own claim to Havelok’s fame, the seal
+          of Grimsby depicts its founder along with the hero and his betrothed, Goldeboru (see p. 72
+          above). Grim’s figure, wielding the accoutrements of battle — shield and sword — looms
+          large at the seal’s center, while Havelok is depicted in smaller proportions to the left,
+          carrying a battle ax in one hand and a ring in the other; Goldeboru, also a smaller figure
+          than the gigantic Grim, appears to the right, holding a scepter with one hand while her
+          other is extended toward Havelok’s ring. Royal diadems hover over the heads of both
+          Havelok and Goldeboru, while a providential hand at the top of the outer circle gestures
+          toward the figures in the center. The seal’s inscription, which forms a circular frame for
+          the three central figures, indicates the official status of the incorporation of Grimsby —
+            <hi rend="italic">Sigillum Comunitatis Grimebye</hi>; all three figures are identified
+          by name. That the seal stands as an emblem of corporate identity is clear. What is less
+          clear is what the seal represents as historical evidence for the existence of Havelok.
+          Perhaps what it ultimately suggests is the less-than-precise boundaries between history
+          and myth.</p>
+        <p style="body" n="5">If the question of defining boundaries between history and myth
+          remains unanswered so too does the question of what a Danish prince is doing in a very
+          English romance. Many scholars suggest that the Anglo-Norman <hi rend="italic">Lai
+            d’Haveloc</hi> was probably composed in the Northeast Midlands (Lincolnshire/Humberside)
+          where the Danes had once ruled and dominated linguistically. This would explain the
+          persistence of a Danish legend if we assume a direct line of transmission between the
+          Anglo-Norman poem and the English poem, an assumption that has met challenges in recent
+          years. But even if <hi rend="italic">Havelok</hi> derives from a local oral tradition, as
+          Nancy Mason Bradbury cogently argues, evidence still points to a locale that would have
+          retained Scandinavian linguistic traditions and folkloric elements well into the late
+          Middle Ages.<note target="#13" type="footnotelink">13</note></p>
+        <p style="body" n="6">In fact, Piero Boitani calls <hi rend="italic">Havelok</hi> “a
+          folk-tale thinly disguised as a romance.” Both W. R. J. Barron and Donald Sands describe
+          the hero as a “male Cinderella.”<note target="#14" type="footnotelink">14</note> The
+          themes of exile and return, taking revenge, and taking a bride recall similar folktale
+          motifs. To probe a little deeper, a residue of mythology may lie behind certain other
+          aspects of the poem, such as the identity of Grim. Edmund Reiss points out that the name
+          Grímnir in the Old Norse sagas can mean “disguise,” and in several sagas Odin disguises
+          himself as a servant or a ferryman. In one version of <hi rend="italic">Havelok</hi>, Grim
+          is a servant, and in another, a sailor. Digging even deeper, Reiss observes that “just as
+          Odin the ferryman takes the dead heroes to Valhalla, so Grim takes Havelok to a new life.”
+          Odin also keeps two ravens, Huginn and Muninn, who advise the god and bring news from
+          around the world; in <hi rend="italic">Havelok</hi>, one of Grim’s sons is named Hugh
+            Raven.<note target="#15" type="footnotelink">15</note></p>
+        <p style="heading" n="5">Dating and Provenance</p>
+        <p style="bodyfirst" n="6">The only complete manuscript of <hi rend="italic">Havelok</hi>
+          appears in Bodleian MS Laud Misc. 108, dated c. 1300–25. The dialect of the poem seems to
+          be Northeast Midlands, with both Northern and Southern forms.<note target="#16"
+            type="footnotelink">16</note> As the introduction to <hi rend="italic">King </hi><hi
+            rend="italic">Horn</hi> points out, both <hi rend="italic">Horn</hi> and <hi
+            rend="italic">Havelok</hi> appear in this manuscript; both poems appear in the same
+          hand. Also appearing are a variety of other writings (seventy all together, by Skeat’s
+          count) including hagiography in a fifteenth-century hand, <hi rend="italic">The Vision of
+            St. Paul</hi>, a <hi rend="italic">Disputatio inter corpus et </hi><hi rend="italic"
+            >animam</hi>, and scientific information in a fifteenth-century hand. Rosamund Allen
+          suggests that scribes who bound together the Laud MS may have included saints’ lives
+          because the story of <hi rend="italic">Havelok</hi> itself is a kind of saint’s life, and
+          Horn himself kills Saracen infidels and rebuilds churches; or else, “The empty folios of
+          228v–237v were filled with saints’ legends and moral matter by a fifteenth century
+          compiler who then bound related matter together.”<note target="#17" type="footnotelink"
+            >17</note> As modern readers take the opportunity to read both poems in this volume,
+          they may continue to observe and remark on parallels between the two poems that have often
+          moved critics to consider them together.</p>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="1"><space rend="indent1"/>The earliest version is Geoffrei Gaimar’s
+            <hi rend="italic">L’Estoire des Engleis</hi> written around 1140; the <hi rend="italic"
+            >Lai </hi><hi rend="italic">d’Haveloc</hi>, written anonymously, follows shortly
+          thereafter. See Alexander Bell, ed., <hi rend="italic">L’Estoire des Engleis by Geoffrei
+            Gaimar</hi> (Oxford: Anglo-Norman Text Society, 1960); see also, Alexander Bell, ed.,
+            <hi rend="italic">Le </hi><hi rend="italic">Lai D’Haveloc and Gaimar’s Haveloc
+            Episode</hi> (Manchester: University of Manchester Press, 1925). Bell suggests that the
+          writing of <hi rend="italic">Lai d’Haveloc</hi> may coincide with the incorporation of
+          Grimsby in 1201.</note>
+        <note type="footnote" n="2"><space rend="indent1"/>See Donald G. Hoffman, “Malory’s
+          Cinderella Knights and the Notion of Adventure,” <hi rend="italic">Philological
+            Quarterly</hi> 67 (Spring 1988), 145–56. Havelok, as Malory’s Gareth, is trained first
+          as a kitchen knave, a lowly position he transcends just as Cinderella does her domestic
+          enslavement. Like many of Malory’s knights, Havelok has been recognized as a male
+          Cinderella. See Russell A. Peck, <hi rend="italic">Cinderella Bibliography</hi>, <ref
+            target="http://www.lib.rochester.edu/camelot/cinder/cinintro.htm" type="external"
+            >http://www.lib.rochester.edu/camelot/cinder/cinintro.htm</ref>, under male
+          Cinderellas.</note>
+        <note type="footnote" n="3"><space rend="indent1"/>Lee C. Ramsey, <hi rend="italic"
+            >Chivalric Romances: Popular Literature in Medieval England</hi> (Bloomington: Indiana
+          University Press, 1983), p. 36.</note>
+        <note type="footnote" n="4"><space rend="indent1"/>See Ernst Kantorowicz, <hi rend="italic"
+            >The King’s Two Bodies: A Study in Mediaeval Political </hi><hi rend="italic"
+            >Theology</hi> (Princeton: Princeton University Press, 1957), for a discussion of the
+          separation between the “office” of monarch and the monarch himself.</note>
+        <note type="footnote" n="5"><space rend="indent1"/>See J. Halverson in “<hi rend="italic"
+            >Havelok the Dane</hi> and Society,” <hi rend="italic">Chaucer Review</hi> 6 (1971),
+          142–51. John C. Hirsch argues against this view in “<hi rend="italic">Havelok</hi> 2933: A
+          Problem in Medieval Literary History,” <hi rend="italic">Neuphilologische
+            Mitteilungen</hi> 78 (1977), 339–49.</note>
+        <note type="footnote" n="6"><space rend="indent1"/>Susan Crane, <hi rend="italic">Insular
+            Romance: Politics, Faith, and Culture in Anglo-Norman and </hi><hi rend="italic">Middle
+            English Literature</hi> (Berkeley: University of California Press, 1986), p. 47.</note>
+        <note type="footnote" n="7"><space rend="indent1"/>Robert Levine rejects the view that
+          assumes differing literary tastes between the aristocracy and the bourgeoisie. See “Who
+          Composed <hi rend="italic">Havelok</hi> for Whom?” <hi rend="italic">Yearbook of English
+            Studies</hi> 22 (1992), 95–104. Levine also criticizes David Staines’ “attempt to
+          harmonize the implied political agenda of the poem with its popular appeal” and notes that
+          “the lower classes had more to lose at the hands of a tyrant than the barons did. . . .
+          During the Middle Ages, the nobility and the lower classes certainly found themselves from
+          time to time on the same side, sometimes in opposition to the king, sometimes in
+          opposition to ecclesiastical authority, but which group was more strongly committed to its
+          position seems a moot question” (p. 99).</note>
+        <note type="footnote" n="8"><space rend="indent1"/>It is important to point out that the
+          marriages which occur at the end of the poem are a feature only of the English
+          version.</note>
+        <note type="footnote" n="9"><space rend="indent1"/>David Staines, in “Havelok the Dane: A
+          Thirteenth-Century Handbook for Princes,” <hi rend="italic">Speculum</hi> 51 (1976),
+          602–23, especially p. 623, sees numerous parallels between Havelok and Edward I, as do
+          Sheila Delany and Vahan Ishkanian. See “Theocratic and Contractual Kingship in <hi
+            rend="italic">Havelok the Dane</hi>,” <hi rend="italic">Zeitschrift </hi><hi
+            rend="italic">für Anglistik und Amerikanistik</hi> 22 (1974), 290–302.</note>
+        <note type="footnote" n="10"><space rend="indent1"/>According to W. W. Skeat, ed., <hi
+            rend="italic">The Lay of Havelok the Dane</hi>, second ed., revised by Kenneth Sisam
+          (Oxford: Clarendon Press, 1956), this appears in the Anglo-French Chronicle of Peter de
+          Langtoft, “who died early in the reign of Edward II, and whose Chronicle closes with the
+          death of Edward I. Here the only trace of the story is the mention of ‘Gountere le pere
+          Havelok, de Danays Ray clamez’ — Gunter, father of Havelok, called king of the Danes. He
+          identifies this Gunter with the Danish invader defeated by Alfred the Great, who in the A.
+          S. Chronicle is called Godrum” (p. xliii).</note>
+        <note type="footnote" n="11"><space rend="indent1"/>See Idelle Sullens’ edition of <hi
+            rend="italic">Robert Mannyng </hi><hi rend="italic">of Brunne: The Chronicle</hi>
+          (Binghamton: Medieval &amp; Renaissance Texts and Studies, 1996), p. 499. This is known as
+          the Lambeth interpolation.</note>
+        <note type="footnote" n="12"><space rend="indent1"/>Other evidence includes a reference to a
+          boundary marker appropriately dubbed “Havelock’s Stone,” located near Grimsby. See W. W.
+          Skeat, p. liii.</note>
+        <note type="footnote" n="13"><space rend="indent1"/>Nancy Mason Bradbury, “The Traditional
+          Origins of <hi rend="italic">Havelok the Dane</hi>,” <hi rend="italic">Studies in
+            Philology</hi> 90 (1993), pp. 117 ff. Indeed, the legend persisted in oral traditions
+          into the seventeenth century, “when Gervase Holles recorded some variant versions of the
+          tale from the townspeople of Grimsby” (p. 125).</note>
+        <note type="footnote" n="14"><space rend="indent1"/>Piero Boitani, <hi rend="italic">English
+            Medieval Narrative in the 13th </hi><hi rend="italic">and 14th Centuries</hi>, trans.
+          Joan Krakover Hall (Cambridge: Cambridge University Press, 1982), p. 51. W. R. J. Barron
+          says of the hero, “this male Cinderella accepts the ashes as his element” (p. 69). Donald
+          Sands, in <hi rend="italic">Middle English Verse Romances</hi> (New York: Rinehart &amp;
+          Winston, 1966) links the male Cinderella motif to the desires of the poem’s humble
+          audience (p. 55). For a comprehensive discussion of male Cinderellas, see Eve Salisbury,
+          “(Re)dressing Cinderella,” in <hi rend="italic">Retelling Tales</hi>, ed. Alan Lupack and
+          Thomas G. Hahn (Rochester: D. S. Brewer, 1997), pp. 275–92.</note>
+        <note type="footnote" n="15"><space rend="indent1"/>Edmund Reiss, “<hi rend="italic">Havelok
+            the Dane</hi> and Norse Mythology,” <hi rend="italic">Modern Language Quarterly</hi> 27
+          (1966), 115–24.</note>
+        <note type="footnote" n="16"><space rend="indent1"/>For further information on the dialect
+          of <hi rend="italic">Havelok</hi> consult G. V. Smithers, ed., “Introduction” to <hi
+            rend="italic">Havelok</hi> (Oxford: Clarendon Press, 1987), pp. i–lxxxiii.</note>
+        <note type="footnote" n="17"><space rend="indent1"/>Rosamund Allen, <hi rend="italic">King
+            Horn: An Edition Based on Cambridge </hi><hi rend="italic">University Library MS Gg.
+            4.27</hi> (New York: Garland, 1984), p. 12.</note>
+
+
+      </div>
+    </body>
+  </text>
+</TEI>

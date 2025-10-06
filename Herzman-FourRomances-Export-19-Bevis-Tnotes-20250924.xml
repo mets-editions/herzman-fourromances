@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Herzman-FourRomances-Export-19-Bevis-Tnotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Textual Notes to Bevis of Hampton</title>
+        <author>Herzman, Ronald B.</author>
+        <author>Drake, Graham</author>
+        <author>Salisbury, Eve</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Amster, Mara I.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Church, Jennifer</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-09" to="2025-10">Audited documents prior to print/export</resp>
+          <resp from="2025-09" to="2025-09">Collected metadata</resp>
+          <resp from="2025-02" to="2025-04">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-10">Encoded TEI</resp>
+          <resp from="2025-08" to="2025-09">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-09">Entered corrections for digital edition</resp>
+          <resp from="2025-02" to="2025-09">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-10">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-12" to="2023-12">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lee, Dong Choon</persName>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Entered corrections for print edition</resp>
+          <resp>Reviewed transcription of base manuscript or early print witness</resp>
+          <resp>Reviewed translations for accuracy</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Collated and entered corrections</resp>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Prepared edition for publication</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mara I. Amster</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Melissa Bernstein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jennifer Church</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Angela Gibson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ian Peddie</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ann Robinson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John William Sutton</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Dana M. Symons</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Herzman, Ronald B.</editor>
+            <editor>Drake, Graham</editor>
+            <editor>Salisbury, Eve</editor>
+            <title>Four Romances of England: King Horn, Havelok the Dane, Bevis of Hampton,
+              Athelston</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/herzman-fourromances/blob/main/herzman-fourromances-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1999</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Herzman-FourRomances-Export-19-Bevis-Tnotes"/>
+      <div type="text">
+        <note type="tnote" n="1">1<space rend="indent1"/><p>The incipit bears an illustration of a
+            knight standing in full armor holding a lance. Perhaps this is an indication of a
+            wealthy patronage and the making of this collection in a London bookshop. See Laura
+            Hibbard Loomis, “The Auchinleck Manuscript and a Possible London Bookshop of 1330–1340,”
+            PMLA 57 (1942), 595–609.</p></note>
+        <note type="tnote" n="2">25<space rend="indent1"/><p><hi rend="italic">An elde a wif he
+              tok</hi><hi rend="italic"> an honde</hi>. A: <hi rend="italic">An elde wif</hi>. Kö’s
+            emendation recognizes the youth of the bride. It is the bridegroom who is overly
+            mature.</p></note>
+        <note type="tnote" n="3">62<space rend="indent1"/><p><hi rend="italic">fight</hi>. MS hard
+            to read here.</p></note>
+        <note type="tnote" n="4">91<space rend="indent1"/><p><hi rend="italic">ferste dai</hi>. A:
+              <hi rend="italic">ferþe</hi>. Kö’s emendation is in agreement with E, S, N, and C
+            readings as well as medieval celebrations of May Day, a day dedicated to
+          love.</p></note>
+        <note type="tnote" n="5">143<space rend="indent1"/><p><hi rend="italic">And thou schelt
+              after her wedde to spouse</hi>. A: <hi rend="italic">þow schelt after wedde to
+              spouse</hi>. Kö emends by adding <hi rend="italic">her</hi> as object of the completed
+            quest. Though the lady’s desire is known, the emphasis on marriage as a reward is
+            significant.</p></note>
+        <note type="tnote" n="6">148<space rend="indent1"/><p><hi rend="italic">Gladder icham</hi>.
+            A: <hi rend="italic">Glad</hi>. E and N: <hi rend="italic">I am gladder</hi>. The
+            emendation is Kö’s based on E and N readings.</p></note>
+        <note type="tnote" n="7">173<space rend="indent1"/><p><hi rend="italic">levedi was
+              right</hi><hi rend="italic"> wel apaid</hi>. A: <hi rend="italic">levidi riȝt wel
+              apaid</hi>. Kö adds the intransitive verb, based on its presence in C.</p></note>
+        <note type="tnote" n="8">307<space rend="indent1"/><p><hi rend="italic">thee faire ble</hi>.
+            The scribe regularly spells the pronoun <hi rend="italic">the</hi>. On the assumption
+            that the pronoun was pronounced with a long <hi rend="italic">ē</hi>, we have
+            transcribed the pronoun <hi rend="italic">the</hi> as <hi rend="italic">thee</hi>.
+            Although the poet generally uses <hi rend="italic">thee</hi> in objective (dative and
+            accusative) situations, possessive and nominative usages are likewise commonplace. For
+            other possessive placements, see, for example, lines 310, 374, 482, 540, 557, 564, 605,
+            896, 918, 922, 925, 1097, 1107, 1109, 1132, 1196, 1317, 1474, 1736, 2188, 2202, 3164,
+            3169, 3211, 3628, 3633, 3656, 3738, 3837, 4087, 4428; for nominative use, see lines 531,
+            1043, 1082, 1103, 1233, 1422, 1843, 2121, 2124, 2188, 2203, 3657, 3658, 4227; and for
+            dative of agency, which we translate with an “it is” syntax, see lines 1007, 2210; or as
+            a reflexive pronoun, see lines 1006, 1733, 3015, 4374, 4426, and 4427. He also uses <hi
+              rend="italic">me</hi> in all three functions. E.g., see lines 671 and 1043.</p></note>
+        <note type="tnote" n="9">315<space rend="indent1"/><p><hi rend="italic">And be of elde</hi>.
+            A: <hi rend="italic">ben of elde</hi>. E and N: <hi rend="italic">be of</hi>. C: <hi
+              rend="italic">come </hi><hi rend="italic">to</hi>. Kö clarifies the line.</p></note>
+        <note type="tnote" n="10">322<space rend="indent1"/><p><hi rend="italic">The child fel doun
+              </hi><hi rend="italic">and that was scathe</hi>. A: <hi rend="italic">Þe child fel
+              doun and </hi><hi rend="italic">þat scaþe</hi>. Kö adds an intransitive
+          verb.</p></note>
+        <note type="tnote" n="11">325<space rend="indent1"/><p><hi rend="italic">The knight </hi><hi
+              rend="italic">was trewe and of kinde</hi>. Kö adds the possessive pronoun <hi
+              rend="italic">his</hi> before <hi rend="italic">kinde</hi> to confer a “nature” upon
+            the knight. The emendation is unnecessary.</p></note>
+        <note type="tnote" n="12">443<space rend="indent1"/><p><hi rend="italic">a smot him
+              with</hi>. A: <hi rend="italic">a smot him him wiþ</hi>. This duplication of words is
+            a typical scribal redundancy in A.</p></note>
+        <note type="tnote" n="13">499<space rend="indent1"/><p><hi rend="italic">mor and lesse</hi>.
+            A: <hi rend="italic">mor &amp; lesse</hi>. Kö: <hi rend="italic">mor or lesse</hi>. We
+            have retained the MS reading as a commonplace idiom implying “all.”</p></note>
+        <note type="tnote" n="14">510<space rend="indent1"/><p><hi rend="italic">be him mild</hi>.
+            A: <hi rend="italic">be us mild</hi>. E: <hi rend="italic">him</hi>. Kö capitalizes Him,
+            as if to ask Christ’s mercy for Bevis rather than for “us,” as in A.</p></note>
+        <note type="tnote" n="15">594<space rend="indent1"/><p><hi rend="italic">I </hi><hi
+              rend="italic">not never, what</hi>. A: <hi rend="italic">I no never</hi>. C: <hi
+              rend="italic">never not</hi>.</p></note>
+        <note type="tnote" n="16">688<space rend="indent1"/><p><hi rend="italic">Thai were aferde,
+              hii wer nigh wode</hi>. A: <hi rend="italic">Þai </hi><hi rend="italic">were hii wer
+              niȝ wode</hi>. <hi rend="italic">Aferde</hi> is omitted in A. Kölbing emends on the
+            basis of other MSS’ readings.</p></note>
+        <note type="tnote" n="17">885<space rend="indent1"/><p><hi rend="italic">So tho is a lite
+              stounde</hi>. Kö: <hi rend="italic">And tho</hi>, on the basis of E.</p></note>
+        <note type="tnote" n="18">899<space rend="indent1"/><p><hi rend="italic">Thus that maide
+              made</hi>. A: <hi rend="italic">Þus that maide maide her mon</hi>. Kö transforms a
+            noun to a verb for the sake of clarity.</p></note>
+        <note type="tnote" n="19">931<space rend="indent1"/><p><hi rend="italic">And</hi><hi
+              rend="italic"> tolde hem how Brademond him asailed hadde</hi>. A: <hi rend="italic"
+              >And Brademond</hi><hi rend="italic"> him asailed hadde</hi>. Because A omits the
+            first clause in the line, Kö emends following E and N: <hi rend="italic">And
+              tolde</hi><hi rend="italic"> hem how</hi>.</p></note>
+        <note type="tnote" n="20">945<space rend="indent1"/><p><hi rend="italic">to the teth</hi>.
+            A: <hi rend="italic">to the deþ</hi>. To be “armed to the teeth” is a familiar aphorism.
+            See also lines 3644 and 4485. To be “armed to the death” makes little sense.</p></note>
+        <note type="tnote" n="21">1016<space rend="indent1"/><p><hi rend="italic">sonne set in
+              the</hi><hi rend="italic"> west</hi>. A: <hi rend="italic">sonne set riȝt</hi>. E and
+            N: <hi rend="italic">sonne in the west</hi>. Kö’s emendation which completes the rhyme
+            and mends the breech in material.</p></note>
+        <note type="tnote" n="22">1041<space rend="indent1"/><p><hi rend="italic">“Merci!”
+              queth</hi><hi rend="italic"> Bradmond, “ich me yelde</hi>. A: <hi rend="italic">Merci!
+              queþ, ich me yelde</hi>. Kö confers the speech upon Brademond, which clarifies the
+            textual confusion.</p></note>
+        <note type="tnote" n="23">1051<space rend="indent1"/><p><hi rend="italic">Al that ich do, it
+              is his dede</hi>. A: <hi rend="italic">Al þat ich do, it is dede</hi>. Kö: <hi
+              rend="italic">it</hi><hi rend="italic"> is his dede</hi>. The emendation is based on E
+            and N.</p></note>
+        <note type="tnote" n="24">1054<space rend="indent1"/><p><hi rend="italic">Thow schelt
+              werre</hi>. E, N, and C add a negative adjective, i.e., <hi rend="italic">never</hi>
+            to <hi rend="italic">warre</hi>, which is consistent with the oath Bevis demands from
+            Brademond.</p></note>
+        <note type="tnote" n="25">1066<space rend="indent1"/><p><hi rend="italic">Mani</hi><hi
+              rend="italic"> dai a maked him feste</hi>. E and N: <hi rend="italic">a wykked</hi><hi
+              rend="italic"> fest</hi>. Kö retains A. The implication is that had Bevis known what
+            Brademond would do to him he would/should have killed him rather than show
+          mercy.</p></note>
+        <note type="tnote" n="26">1098<space rend="indent1"/><p><hi rend="italic">“For </hi><hi
+              rend="italic">Gode,” queth Beves, “that ich do nelle!</hi> A: <hi rend="italic">For
+              gode</hi><hi rend="italic">, queth, þat ich do nelle!</hi> Here Kö confers speech upon
+            Bevis. Also see line 1110.</p></note>
+        <note type="tnote" n="27">1108<space rend="indent1"/><p><hi rend="italic">Than al the
+              </hi><hi rend="italic">gold</hi>. EN: <hi rend="italic">good</hi>.</p></note>
+        <note type="tnote" n="28">1110<space rend="indent1"/><p><hi rend="italic">“For Gode,” queth
+              Beves</hi>. A: <hi rend="italic">For</hi><hi rend="italic"> gode, queþ he</hi>. Kö’s
+            emendation confers Bevis with direct address as in line 1098.</p></note>
+        <note type="tnote" n="29">1166<space rend="indent1"/><p><hi rend="italic">Aboute hire
+              nede</hi>. This is a very short line, lengthened in C: <hi rend="italic">Of
+              þat</hi><hi rend="italic"> y went about your nede</hi>.</p></note>
+        <note type="tnote" n="30">1168<space rend="indent1"/><p><hi rend="italic">So te misain</hi>.
+            A: <hi rend="italic">So te misin</hi>. Kö: <hi rend="italic">So te misain a</hi>. Kö
+            silently emends A here. But his reading improves the line.</p></note>
+        <note type="tnote" n="31">1210<space rend="indent1"/><p><hi rend="italic">Hit were gode,
+              sire</hi>. A: <hi rend="italic">Hit gode, sire, þat </hi><hi rend="italic">he were
+              slain</hi>. Kö: <hi rend="italic">It were gode, sire</hi>. Kö emends on the strength
+            of N and C.</p></note>
+        <note type="tnote" n="32">1239<space rend="indent1"/><p><hi rend="italic">Al in </hi><hi
+              rend="italic">solas and in delit</hi>. A: <hi rend="italic">Al in solas in delit</hi>.
+            Kö: <hi rend="italic">Al in solas and in delit</hi> on the basis of C.</p></note>
+        <note type="tnote" n="33">1288<space rend="indent1"/><p><hi rend="italic">That Sire Beves
+              gan of-see</hi>. A: <hi rend="italic">Beves gan of</hi>. Kö’s emendation.</p></note>
+        <note type="tnote" n="34">1331<space rend="indent1"/><p><hi rend="italic">He ne wolde
+              </hi><hi rend="italic">love me non other</hi>. A: <hi rend="italic">He ne wolde me non
+              </hi><hi rend="italic">oþer</hi>. Kö adds “love” to the line.</p></note>
+        <note type="tnote" n="35">1448<space rend="indent1"/><p><hi rend="italic">What dai </hi><hi
+              rend="italic">awai whanne a wolde wende</hi>. A: <hi rend="italic">What dai
+              whanne</hi>. Kö adds <hi rend="italic">awai</hi>.</p></note>
+        <note type="tnote" n="36">1483<space rend="indent1"/><p><hi rend="italic">Of that
+            feste</hi>. A: <hi rend="italic">If þat feste</hi>. Kö: <hi rend="italic">Of þat
+              feste</hi>. In the MS, the “I” is one of the large decorated initials.</p></note>
+        <note type="tnote" n="37">1487<space rend="indent1"/><p><hi rend="italic">Men graithede
+              cartes </hi><hi rend="italic">and somers</hi>. A: <hi rend="italic">Men graicede
+              cartes and somers</hi>. Kö: <hi rend="italic">graiþede</hi>.</p></note>
+        <note type="tnote" n="38">1612<space rend="indent1"/><p><hi rend="italic">With a strok me
+              doth adoun falle</hi>. A: <hi rend="italic">Wiþ </hi><hi rend="italic">a strok me
+              adoun falle</hi>. Kö’s emendation is based on E and N.</p></note>
+        <note type="tnote" n="39">1614<space rend="indent1"/><p><hi rend="italic">ther-of may ben
+              awreke</hi>. A: <hi rend="italic">þer of ben me awreke</hi>. Kö’s emendation is based
+            on C.</p></note>
+        <note type="tnote" n="40">1630<space rend="indent1"/><p><hi rend="italic">by the rop</hi>.
+            A: <hi rend="italic">be rop</hi>. Kö’s emendation based on N.</p></note>
+        <note type="tnote" n="41">1799<space rend="indent1"/><p><hi rend="italic">ase wel alse
+              </hi><hi rend="italic">man</hi>. Kö adds the <hi rend="italic">wel</hi>.</p></note>
+        <note type="tnote" n="42">2128<space rend="indent1"/><p><hi rend="italic">quene to eche
+              palmare</hi>. A: <hi rend="italic">quene to palmare</hi>. Kö adds <hi rend="italic"
+              >eche</hi> to maintain the meter as well as to indicate direct, individual contact
+            since the noun is singular.</p></note>
+        <note type="tnote" n="43">2161<space rend="indent1"/><p><hi rend="italic">made miche
+              pride</hi>. A: <hi rend="italic">made </hi><hi rend="italic">made miche pride</hi>. Kö
+            deletes the redundant verb.</p></note>
+        <note type="tnote" n="44">2210<space rend="indent1"/><p><hi rend="italic">do </hi><hi
+              rend="italic">be rede</hi>. Kö emends to <hi rend="italic">do be me rede</hi> on the
+            authority of E and N. In so doing he clarifies Bonefas’ directive, i.e., to take his
+            advice on an escape strategy, though emendation may not be necessary.</p></note>
+        <note type="tnote" n="45">2286<space rend="indent1"/><p><hi rend="italic">that we wer
+              thore</hi>. A: <hi rend="italic">þat were þore</hi>. Kö’s emendation; the first-person
+            plural pronoun clarifies the line.</p></note>
+        <note type="tnote" n="46">2289<space rend="indent1"/><p><hi rend="italic">Cité of
+              Diablent</hi>. From here to line 2464 the narrative is missing in A. We follow Kö’s
+            usage and use E for the intervening lines. The E scribe has a propensity for
+            capitalization which has been emended here according to modern usage.</p></note>
+        <note type="tnote" n="47">2485<space rend="indent1"/><p><hi rend="italic">And be the right
+              leg she </hi><hi rend="italic">him grep</hi>. A: <hi rend="italic">he him grep</hi>.
+            Kö restores gender to the lion grabbing Bevis by the right leg.</p></note>
+        <note type="tnote" n="48">2569–70<space rend="indent1"/><p><hi rend="italic">come </hi><hi
+              rend="italic">withouten ensoine / To the haven of Coloine</hi>. Compare <hi
+              rend="italic">Richard the </hi><hi rend="italic">Lion Hearted</hi>, ed. Brunner
+            (1913): <hi rend="italic">Fforþ þey wenten wiþuten ensoyne / </hi><hi rend="italic">To
+              þe cyte off Coloyne</hi>, as cited by <hi rend="italic">MED</hi>
+            <hi rend="italic">ensoine</hi> (n.). That MS dates from c. 1475. Not many words rhyme
+            with <hi rend="italic">ensoine</hi> (or <hi rend="italic">Coloine</hi>), which may be a
+            factor. See also lines 2657–58 and 2891–92, where the words are rhymed.</p></note>
+        <note type="tnote" n="49">2637<space rend="indent1"/><p><hi rend="italic">Toke here
+              flight</hi>. A: <hi rend="italic">To here fliȝt</hi>. Kö restores the appropriate
+            verb.</p></note>
+        <note type="tnote" n="50">2698<space rend="indent1"/><p><hi rend="italic">me never non</hi>.
+            A: <hi rend="italic">me never mo</hi>. Kö’s emendation which improves the sense and
+            rhyme.</p></note>
+        <note type="tnote" n="51">2749<space rend="indent1"/><p><hi rend="italic">Beves
+              answerde</hi>. A: <hi rend="italic">Beves answede</hi>. Kö clarifies the
+          action.</p></note>
+        <note type="tnote" n="52">2762<space rend="indent1"/><p><hi rend="italic">anan</hi>. A: <hi
+              rend="italic">anan</hi>. More usually <hi rend="italic">anon</hi>, this may be scribal
+            error. Kö retains the variance, nonetheless, and so have we.</p></note>
+        <note type="tnote" n="53">2852<space rend="indent1"/><p><hi rend="italic">dai other
+              night</hi>. A: <hi rend="italic">dai the</hi><hi rend="italic"> niȝt</hi>.</p></note>
+        <note type="tnote" n="54">2897<space rend="indent1"/><p><hi rend="italic">And asked
+              that</hi>. A: <hi rend="italic">And asked</hi><hi rend="italic"> at</hi>. Kö replaces
+            the thorn.</p></note>
+        <note type="tnote" n="55">2976<space rend="indent1"/><p><hi rend="italic">mesage for to
+              don</hi><hi rend="italic"> anon</hi>. A: <hi rend="italic">message for don anon</hi>.
+            Kö adds <hi rend="italic">to don</hi><hi rend="italic"> anon</hi> on the basis of
+          M.</p></note>
+        <note type="tnote" n="56">3180<space rend="indent1"/><p><hi rend="italic">Here soper
+              was</hi><hi rend="italic"> ther redi dight</hi>. A: <hi rend="italic">Here soper wer
+              redi diȝt</hi>. Kö restores the meter on the evidence of E and N.</p></note>
+        <note type="tnote" n="57">3244<space rend="indent1"/><p><hi rend="italic">That al wide opun
+              it wonde</hi>. A: <hi rend="italic">upon</hi>. Kö: <hi rend="italic">opun</hi> on the
+            basis of N.</p></note>
+        <note type="tnote" n="58">3289<space rend="indent1"/><p><hi rend="italic">In hire</hi><hi
+              rend="italic"> smok</hi>. A: <hi rend="italic">In hire hire smok</hi>. Kö eliminates
+            the redundant pronoun.</p></note>
+        <note type="tnote" n="59">3340<space rend="indent1"/><p><hi rend="italic">Ich wende he hadde
+              ben anhonge</hi>. A: <hi rend="italic">Ich</hi><hi rend="italic"> wende hadde ben
+              anhonge</hi>. Kö adds <hi rend="italic">he</hi> for the sake of clarity.</p></note>
+        <note type="tnote" n="60">3362<space rend="indent1"/><p><hi rend="italic">Hit scholde some
+              of hem rewe sore</hi>. A: <hi rend="italic">some of rewe sore</hi>. Kö adds <hi
+              rend="italic">hem</hi> to restore the meter.</p></note>
+        <note type="tnote" n="61">3391<space rend="indent1"/><p><hi rend="italic">that other
+              ladde</hi>. A: <hi rend="italic">þat oþe ladde</hi>.</p></note>
+        <note type="tnote" n="62">3453<space rend="indent1"/><p><hi rend="italic">Ful of pich and of
+              bremston</hi>. A: <hi rend="italic">Ful of</hi><hi rend="italic"> bich</hi>. Kö emends
+            the pitch based on the other MSS.</p></note>
+        <note type="tnote" n="63">3622<space rend="indent1"/><p><hi rend="italic">swerdes a logge
+              pighte</hi>. A: <hi rend="italic">swerdes logge piȝte</hi>. Kö’s emendation based on
+            other MSS.</p></note>
+        <note type="tnote" n="64">3629<space rend="indent1"/><p><hi rend="italic">God forbede</hi>.
+            A: <hi rend="italic">For for bed</hi>. Kö restores the deity based on E, N, C, and M:
+              <hi rend="italic">God for-bede</hi>.</p></note>
+        <note type="tnote" n="65">3871<space rend="indent1"/><p><hi rend="italic">ase</hi><hi
+              rend="italic"> he yede aboute</hi>. A: <hi rend="italic">ase yhe yede aboute</hi>.
+            Kö’s emendation clarifies gender.</p></note>
+        <note type="tnote" n="66">3978<space rend="indent1"/><p><hi rend="italic">mautalent</hi>. A:
+              <hi rend="italic">mauntalent</hi>, with the <hi rend="italic">n</hi> by abbreviation.
+              <hi rend="italic">MED</hi> ignores the <hi rend="italic">n</hi> but cites the passage
+            as an “erroneous” spelling of the term.</p></note>
+        <note type="tnote" n="67">4028<space rend="indent1"/><p><hi rend="italic">Er than</hi><hi
+              rend="italic"> he Saber eft ise</hi>. A: <hi rend="italic">Er than he Beves
+              eft</hi><hi rend="italic"> ise</hi>. Kö restores Saber to his role.</p></note>
+        <note type="tnote" n="68">4034<space rend="indent1"/><p><hi rend="italic">And
+              broughte</hi><hi rend="italic"> hit to Mombraunt be southe</hi>. A: <hi rend="italic"
+              >And brouȝt it</hi><hi rend="italic"> Mombraunt</hi>. Kö’s preposition restores
+            clarity and meter.</p></note>
+        <note type="tnote" n="69">4037<space rend="indent1"/><p><hi rend="italic">That</hi><hi
+              rend="italic"> Beves scholde abegge sore</hi>. A: <hi rend="italic">abegged sore</hi>.
+            Kö maintains a sensible verb tense: <hi rend="italic">abegge sore</hi>.</p></note>
+        <note type="tnote" n="70">4082<space rend="indent1"/><p><hi rend="italic">Josian stod in
+              a</hi><hi rend="italic"> toret</hi>. A: <hi rend="italic">Josian
+          stond</hi>.</p></note>
+        <note type="tnote" n="71">4088<space rend="indent1"/><p><hi rend="italic">Jesu Crist him
+              yilde is</hi><hi rend="italic"> mede</hi>. A: <hi rend="italic">him yilde him his
+              mede</hi>.</p></note>
+        <note type="tnote" n="72">4091<space rend="indent1"/><p><hi rend="italic">he is</hi><hi
+              rend="italic"> in point to spille</hi>. A: <hi rend="italic">he is point to
+              spille</hi>. Kö’s emendation.</p></note>
+        <note type="tnote" n="73">4266<space rend="indent1"/><p><hi rend="italic">“For God,” queth
+              Saber, “that </hi><hi rend="italic">is nought feir.”</hi> A: <hi rend="italic">For
+              god, queþ, that is nought </hi><hi rend="italic">feir</hi>. Other MSS assign the
+            quotation to Saber.</p></note>
+        <note type="tnote" n="74">4453<space rend="indent1"/><p><hi rend="italic">Tidinge </hi><hi
+              rend="italic">com to Potenhithe</hi>. A: <hi rend="italic">Tidynge to potenhiþe</hi>.
+            Kö’s emendation.</p></note>
+      </div>
+    </body>
+  </text>
+</TEI>

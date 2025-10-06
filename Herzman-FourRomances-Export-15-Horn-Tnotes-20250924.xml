@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Herzman-FourRomances-Export-15-Horn-Tnotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Textual Notes to King Horn</title>
+        <author>Herzman, Ronald B.</author>
+        <author>Drake, Graham</author>
+        <author>Salisbury, Eve</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Amster, Mara I.</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Church, Jennifer</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-09" to="2025-10">Audited documents prior to print/export</resp>
+          <resp from="2025-09" to="2025-09">Collected metadata</resp>
+          <resp from="2025-02" to="2025-04">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-10">Encoded TEI</resp>
+          <resp from="2025-08" to="2025-09">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-02" to="2025-09">Entered corrections for digital edition</resp>
+          <resp from="2025-02" to="2025-09">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-10">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-12" to="2023-12">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lee, Dong Choon</persName>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Entered corrections for print edition</resp>
+          <resp>Reviewed transcription of base manuscript or early print witness</resp>
+          <resp>Reviewed translations for accuracy</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Collated and entered corrections</resp>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Prepared edition for publication</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Mara I. Amster</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Assistant Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Melissa Bernstein</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Jennifer Church</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Angela Gibson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ian Peddie</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Ann Robinson</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>John William Sutton</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Dana M. Symons</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Staff Editor, Editorial Staff</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Herzman, Ronald B.</editor>
+            <editor>Drake, Graham</editor>
+            <editor>Salisbury, Eve</editor>
+            <title>Four Romances of England: King Horn, Havelok the Dane, Bevis of Hampton,
+              Athelston</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/herzman-fourromances/blob/main/herzman-fourromances-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1999</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Herzman-FourRomances-Export-15-Horn-Tnotes"/>
+      <div type="text">
+        <note type="tnote" n="1">3<space rend="indent1"/><p><hi rend="italic">ich</hi>. C: <hi
+              rend="italic">ihc</hi>. L: <hi rend="italic">ich</hi>: H: <hi rend="italic"
+              >ychulle</hi>. There are irregularities in the use of the first-person pronoun.
+            Elsewhere in C it appears as <hi rend="italic">ich</hi>, but more often as <hi
+              rend="italic">ihc</hi>. This may indicate a northern influence, perhaps imposed by the
+            scribe. Because there are so many variations among the three MSS, we have been
+            selective. Using C as our base text we have drawn from L and H where emendations seemed
+            appropriate. Our emendations occur where there are omissions in the base text and where
+            textual cruces have been noted by previous editors.</p></note>
+        <note type="tnote" n="2">6<space rend="indent1"/><p><hi rend="italic">So longe so hit
+              laste</hi>. Allen: <hi rend="italic">Ther whiles that hit yleste</hi>. Hall notes this
+            as a “favorite formula of <hi rend="italic">Layamon</hi>,” though it is also found in
+            other romances.</p></note>
+        <note type="tnote" n="3">17–18<space rend="indent1"/><p><hi rend="italic">He was fayr and
+              eke bold, / </hi><hi rend="italic">And of fiftene winter hold</hi>. Lines supplied by
+            L.</p></note>
+        <note type="tnote" n="4">28<space rend="indent1"/><p><hi rend="italic">Fikenild</hi>. C: <hi
+              rend="italic">ffikenheld</hi>; L: <hi rend="italic">fokenhild</hi>; H: <hi
+              rend="italic">ffykenyld</hi>. We have emended double f, which appears only
+            occasionally in C.</p></note>
+        <note type="tnote" n="5">37–38<space rend="indent1"/><p><hi rend="italic">With </hi><hi
+              rend="italic">him riden bote two — / Al to fewe ware tho</hi>. C omits these lines.
+            They are supplied here by L.</p></note>
+        <note type="tnote" n="6">43<space rend="indent1"/><p><hi rend="italic">hi soght</hi>. L: <hi
+              rend="italic">isoghte</hi>. We have followed F&amp;H; n.b., similar locutions in lines
+            603–04.</p></note>
+        <note type="tnote" n="7">120<space rend="indent1"/><p>L fills in four descriptive lines that
+            H &amp; C omit. They are as follows:</p><quote><lg>
+              <l><hi rend="italic">Horn yede in to þe shipes bord</hi></l>
+              <l><hi rend="italic">Sone at</hi><hi rend="italic"> þe firste word</hi></l>
+              <l><hi rend="italic">And alle hise feren</hi></l>
+              <l><hi rend="italic">Þat ware him</hi><hi rend="italic"> lef and dere</hi></l>
+            </lg></quote>
+        </note>
+        <note type="tnote" n="8">152<space rend="indent1"/><p><hi rend="italic">Jesu Cristes</hi>.
+            C: <hi rend="italic">Jhesucristes</hi>; L: <hi rend="italic">Ihesu</hi><hi rend="italic"
+              > cristes</hi>; H: <hi rend="italic">ihesu cristes</hi>.</p></note>
+        <note type="tnote" n="9">156<space rend="indent1"/><p><hi rend="italic">The dent of myne
+              honde</hi>. This line is followed by a couplet in L and three lines in H both
+            describing the weeping of the children as the ship embarks.</p></note>
+        <note type="tnote" n="10">212<space rend="indent1"/><p><hi rend="italic">Bi dales and
+              bi</hi><hi rend="italic"> hulle</hi>. This line is followed by a line describing a
+            journey through each town in L.</p></note>
+        <note type="tnote" n="11">235<space rend="indent1"/><p><hi rend="italic">And tech
+              him</hi><hi rend="italic"> to harpe</hi>. C: <hi rend="italic">And tech him to
+              harpe</hi>. L: <hi rend="italic">Tech</hi><hi rend="italic"> him of þe harpe</hi>. H:
+              <hi rend="italic">Ant toggen oþe harp</hi>. Allen: <hi rend="italic">To tuchen
+              upon</hi>. Playing the harp with one’s fingernails (line 236) is rare in Middle
+            English literature, though not as rare in modern harp playing. Sir Orfeo, for instance,
+            plays with his “wits.”</p></note>
+        <note type="tnote" n="12">241<space rend="indent1"/><p><hi rend="italic">And his
+            feiren</hi>. C: <hi rend="italic">In</hi><hi rend="italic"> his feiren</hi>. L: <hi
+              rend="italic">His feren</hi>. H: <hi rend="italic">Ant his feren</hi>. Allen: <hi
+              rend="italic">And his ifeire</hi>. McKnight: <hi rend="italic">In his
+          feiren</hi>.</p></note>
+        <note type="tnote" n="13">256<space rend="indent1"/><p><hi rend="italic">wexe </hi><hi
+              rend="italic">wild</hi>. C: <hi rend="italic">wexe wild</hi>. L: <hi rend="italic">wex
+              al wild</hi>. H: line is omitted. Allen: <hi rend="italic">wexe wode</hi>. The
+            interchangeability of <hi rend="italic">wild</hi> and <hi rend="italic">wode</hi>, the
+            Middle English term for “madness,” suggests an uncontrollable emotional dimension to
+            love, which the poet emphasizes again in line 300.</p></note>
+        <note type="tnote" n="14">318<space rend="indent1"/><p><hi rend="italic">fairer</hi>. A
+            scribal error according to Hall, though it anticipates the next line quite
+          well.</p></note>
+        <note type="tnote" n="15">363–64<space rend="indent1"/><p><hi rend="italic">On </hi><hi
+              rend="italic">a squieres wise. / Whane the kyng arise</hi>. In C these two lines are
+            reversed.</p></note>
+        <note type="tnote" n="16">370<space rend="indent1"/><p><hi rend="italic">recche</hi>. C: <hi
+              rend="italic">recchecche</hi>. Hall and McKnight retain the C reading while F&amp;H
+            and Allen emend to <hi rend="italic">recche</hi>.</p></note>
+        <note type="tnote" n="17">410<space rend="indent1"/><p>Hall detects a lacuna in C. The lines
+            preceding Rymenhild’s “are much too abrupt.” Both H and L support this with more
+            rhetorical foreplay.</p></note>
+        <note type="tnote" n="18">455<space rend="indent1"/><p><hi rend="italic">To Aylbrus the
+              stuard</hi>. C: <hi rend="italic">To Aylbrus &amp; stuard</hi>. L reads <hi
+              rend="italic">styward</hi>. O: <hi rend="italic">And beryt houre
+          styward</hi>.</p></note>
+        <note type="tnote" n="19">492<space rend="indent1"/><p><hi rend="italic">And after
+              wurth</hi>. C: <hi rend="italic">And afterward</hi>. L: <hi rend="italic">And be ny
+              nowne</hi>. H: <hi rend="italic">Ant </hi><hi rend="italic">be myn oþer</hi>. Allen:
+              <hi rend="italic">And after wurþe</hi>. The emendation establishes value rather than
+            time.</p></note>
+        <note type="tnote" n="20">558<space rend="indent1"/><p><hi rend="italic">Forthi me stondeth
+              the more </hi><hi rend="italic">rape</hi>. C: <hi rend="italic">For þe me stondeþ the
+              more rape</hi>. H: <hi rend="italic">Oþer wyþ wymmon forewart make</hi>. L: <hi
+              rend="italic">Þerfore me have ich </hi><hi rend="italic">þe forsake</hi>. Allen: <hi
+              rend="italic">me stont forth rake</hi>. <hi rend="italic">Rape</hi> is not to be
+            understood in modern terms, but rather as a ME verb meaning “haste,” “rush,” “speed.” It
+            is on the basis of the relation of rape to rake that Allen makes her
+          emendation.</p></note>
+        <note type="tnote" n="21">613<space rend="indent1"/><p><hi rend="italic">At evreche
+              dunte</hi>. C: <hi rend="italic">At evreche </hi><hi rend="italic">dunte</hi>,
+            followed by F&amp;H. L: <hi rend="italic">At the furste dunte</hi>, followed by Allen.
+            Allen’s emendation perhaps emphasizes Horn’s prowess as he smites off the heads of his
+            opponents at the first attempt. But perhaps he is even more powerful if he succeeds at
+            every attempt.</p></note>
+        <note type="tnote" n="22">636<space rend="indent1"/><p><hi rend="italic">Mid watere </hi><hi
+              rend="italic">al byflowe</hi>. C: <hi rend="italic">þo hit gan to flowe</hi>. L: <hi
+              rend="italic">Mid </hi><hi rend="italic">watere al by flowe</hi>. H: <hi rend="italic"
+              >In þe found by flowen</hi>. Allen: <hi rend="italic">Binne sund bi
+          flowe</hi>.</p></note>
+        <note type="tnote" n="23">649<space rend="indent1"/><p>Hall notes the divergence of the MSS
+            and surmises a lost passage in C that would describe Firkenhild’s joining the hunting
+            party. Both H and L indicate Firkenhild’s presence at the hunt.</p></note>
+        <note type="tnote" n="24">653<space rend="indent1"/><p><hi rend="italic">Horn ferde</hi>. C:
+              <hi rend="italic">Heo ferde</hi>. L: <hi rend="italic">Horn wente</hi>. H: <hi
+              rend="italic">Ant to boure wes y gone</hi>. Allen: <hi rend="italic">Horn wente</hi>.
+            The emendation clarifies this as Horn’s action.</p></note>
+        <note type="tnote" n="25">654<space rend="indent1"/><p><hi rend="italic">To sen </hi><hi
+              rend="italic">aventure</hi>. F&amp;H see <hi rend="italic">sen</hi> as a blunder for
+              <hi rend="italic">seie</hi>, meaning recount (p. 44). Allen, on the other hand, emends
+              <hi rend="italic">sen</hi> to <hi rend="italic">sechen</hi>, making possible another
+            interpretation.</p></note>
+        <note type="tnote" n="26">655<space rend="indent1"/><p><hi rend="italic">He saw</hi>. C: <hi
+              rend="italic">Heo saw</hi>. L and O: <hi rend="italic">He fond</hi>.</p></note>
+        <note type="tnote" n="27">761–62<space rend="indent1"/><p><hi rend="italic">The </hi><hi
+              rend="italic">whyght him gan stonde, / And drof til Hirelonde</hi>. These two lines
+            are supplied by L.</p></note>
+        <note type="tnote" n="28">792<space rend="indent1"/><p><hi rend="italic">Ne schal hit</hi>.
+            C: <hi rend="italic">Ne schat hit</hi>. L: <hi rend="italic">Ne schal hym</hi>. H: <hi
+              rend="italic">Ne shal </hi><hi rend="italic">þe</hi>. Allen: <hi rend="italic">Ne
+              schal þe</hi>.</p></note>
+        <note type="tnote" n="29">851<space rend="indent1"/><p><hi rend="italic">cum to felde</hi>.
+            C: <hi rend="italic">cum to fel</hi>. Both H and L: <hi rend="italic">felde</hi>. Allen:
+              <hi rend="italic">felde</hi>. On the basis of this consensus, the emendation is
+            made.</p></note>
+        <note type="tnote" n="30">871–72<space rend="indent1"/><p><hi rend="italic">Bote of the King
+              Murry, / That wes swithe sturdy</hi>. These two lines are supplied by H.</p></note>
+        <note type="tnote" n="31">889<space rend="indent1"/><p>There are ten lines missing from C. L
+            supplies the following account:</p><quote><lg>
+              <l><hi rend="italic">And seyde, “kyng, so þou have reste,</hi></l>
+              <l><hi rend="italic">Clep now forþ</hi><hi rend="italic"> ofi þi beste,</hi></l>
+              <l><hi rend="italic">And sle we þyse hounden,</hi></l>
+              <l><hi rend="italic">Here we</hi><hi rend="italic"> henne founden.”</hi></l>
+              <l><hi rend="italic">Þe houndes hye of laucte,</hi></l>
+              <l><hi rend="italic">An strokes hye</hi><hi rend="italic"> þere kaute.</hi></l>
+              <l><hi rend="italic">Faste aȝen hye stode,</hi></l>
+              <l><hi rend="italic">Aȝen</hi><hi rend="italic"> duntes gode.</hi></l>
+              <l><hi rend="italic">Help nauht here wonder;</hi></l>
+              <l><hi rend="italic">Cubert hem broute al</hi><hi rend="italic"> honder.</hi></l>
+            </lg></quote>
+        </note>
+        <note type="tnote" n="32">894<space rend="indent1"/><p><hi rend="italic">Ne scathede
+              wer</hi>. C: <hi rend="italic">Ne scapede þer</hi>. L: <hi rend="italic">Þer nas bute
+              few slawe</hi>. Allen: <hi rend="italic">Ne schaþed bute fawe</hi>.</p></note>
+        <note type="tnote" n="33">900<space rend="indent1"/><p><hi rend="italic">And burden hem ful
+              yare</hi>. L provides a couplet after this line that does not appear in C. <hi
+              rend="italic">Into</hi><hi rend="italic"> holy kyrke / So man schulde werke</hi>. To
+            leave unburied corpses on the battlefield is a sign of contempt for the
+          enemy.</p></note>
+        <note type="tnote" n="34">981–82<space rend="indent1"/><p><hi rend="italic">The see him con
+              ded throwe / Under hire</hi><hi rend="italic"> chambre wowe</hi>. C: <hi rend="italic"
+              >Þe se bigan to þroghe / Under </hi><hi rend="italic">hire woȝe</hi>. Two lines from H
+            are added here. L omits the detail.</p></note>
+        <note type="tnote" n="35">1145<space rend="indent1"/><p><hi rend="italic">by este</hi>. C:
+              <hi rend="italic">bieste</hi>. L: <hi rend="italic">by weste</hi>. H: <hi
+              rend="italic">by wester</hi>. F&amp;H: <hi rend="italic">bi este</hi>. Allen: <hi
+              rend="italic">bieste</hi>. If Horn has traveled back to Westernesse from Ireland, east
+            makes more sense geographically than west.</p></note>
+        <note type="tnote" n="36">1154<space rend="indent1"/><p><hi rend="italic">Drynke
+              null</hi><hi rend="italic"> I of dyssh</hi>. C: <hi rend="italic">Drink to me of
+              disse</hi>. L: <hi rend="italic">Drynk to me of thy disse</hi>. H: <hi rend="italic"
+              >Drynke null y</hi><hi rend="italic"> of dyssh</hi>. Our emendation allows Horn to
+            reject the dish offered to him.</p></note>
+        <note type="tnote" n="37">1171–72<space rend="indent1"/><p><hi rend="italic">He seyde,
+              “Quen, nou seche / Qwat</hi><hi rend="italic"> is in thy drenche.”</hi> These two
+            lines derive from L.</p></note>
+        <note type="tnote" n="38">1179<space rend="indent1"/><p><hi rend="italic">That Horn isterve
+              were</hi>. C: <hi rend="italic">Þat Horn isteve</hi>. L: <hi rend="italic">Þat Horn
+              child ded were</hi>. H: <hi rend="italic">Þat Horn dede </hi><hi rend="italic"
+              >were</hi>. Allen: <hi rend="italic">Þat Horn isterven were</hi>.</p></note>
+        <note type="tnote" n="39">1269<space rend="indent1"/><p><hi rend="italic">Ther was bridale
+              </hi><hi rend="italic">swete</hi>. C: <hi rend="italic">brid and ale</hi>. L: <hi
+              rend="italic">bridal swete</hi>. H: <hi rend="italic">brudale </hi><hi rend="italic"
+              >suete</hi>. Allen: <hi rend="italic">bridale suete</hi>.</p></note>
+        <note type="tnote" n="40">1315–16<space rend="indent1"/><p><hi rend="italic">Op the schelde
+              was drawe / </hi><hi rend="italic">A crowch of Jhesu Cristes lawe</hi>. These two
+            lines have been supplied by L.</p></note>
+        <note type="tnote" n="41">1329<space rend="indent1"/><p><hi rend="italic">Ich serve aghenes
+              my wille</hi>. C: <hi rend="italic">ihc have ayenes my wille</hi>. L: <hi
+              rend="italic">hy serve ylle</hi>. H: <hi rend="italic">Ich servy ille</hi>. Allen: <hi
+              rend="italic">Ihc serve ille</hi>.</p></note>
+        <note type="tnote" n="42">1339<space rend="indent1"/><p><hi rend="italic">biweste</hi>. C:
+              <hi rend="italic">bieste</hi>. This is probably scribal error since both L and H
+            indicate west. L: <hi rend="italic">He woneþ alby weste</hi>. H: <hi rend="italic">Þat
+              woneþ her by weste</hi>. Allen concurs with L and H as do we.</p></note>
+        <note type="tnote" n="43">1502<space rend="indent1"/><p><hi rend="italic">he fulde</hi>. C:
+              <hi rend="italic">ifulde</hi>. L: <hi rend="italic">leyde þere</hi>. H: <hi
+              rend="italic">fel þer</hi>. Allen: <hi rend="italic">he felde</hi>.</p></note>
+        <note type="tnote" n="44">1519<space rend="indent1"/><p><hi rend="italic">Hi </hi><hi
+              rend="italic">gunne for to arive</hi>. C: <hi rend="italic">Hi gunne for arive</hi>.
+            H: <hi rend="italic">eode to ryve</hi>. Omitted in L. Allen: <hi rend="italic">yede to
+              rive</hi>.</p></note>
+        <note type="tnote" n="45">1528<space rend="indent1"/><p><hi rend="italic">Ther he wo
+              fonde</hi>. C: <hi rend="italic">Þer he wo ifulde</hi>. L: <hi rend="italic">he hadde
+              woned</hi>. H: <hi rend="italic">couth er fonde</hi>. Allen: <hi rend="italic">he
+              wonung fonde</hi>.</p></note>
+      </div>
+    </body>
+  </text>
+</TEI>
